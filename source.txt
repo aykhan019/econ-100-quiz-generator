@@ -1,0 +1,1283 @@
+	In general, elasticity is a measure of
+a. the extent to which advances in technology are adopted by producers. 
+b. the extent to which a market is competitive. 
+c. how firms’ profits respond to changes in market prices. 
+d. how much buyers and sellers respond to changes in market conditions. 
+ANS:	D	
+
+	When studying how some event or policy affects a market, elasticity provides information on the
+a. equity effects on the market by identifying the winners and losers. 
+b. magnitude of the effect on the market. 
+c. speed of adjustment of the market in response to the event or policy. 
+d. number of market participants who are directly affected by the event or policy. 
+ANS:	B	
+
+	When studying how some event or policy affects a market, elasticity provides information on the
+a. government expenditures associated with the policy. 
+b. costs and benefits of the effect. 
+c. allocative efficiency of the effect. 
+d. direction and magnitude of the effect. 
+ANS:	D	
+
+	How does the concept of elasticity allow us to improve upon our understanding of supply and demand?
+a. Elasticity allows us to analyze supply and demand with greater precision than would be the case in the absence of the elasticity concept. 
+b. Elasticity provides us with a better rationale for statements such as “an increase in *x* will lead to a decrease in *y*” than we would have in the absence of the elasticity concept. 
+c. Without elasticity, we would not be able to address the direction in which price is likely to move in response to a surplus or a shortage. 
+d. Without elasticity, it is very difficult to assess the degree of competition within a market. 
+ANS:	A	
+
+	When consumers face rising gasoline prices, they typically 
+a. reduce their quantity demanded more in the long run than in the short run. 
+b. reduce their quantity demanded more in the short run than in the long run. 
+c. do not reduce their quantity demanded in the short run or the long run. 
+d. increase their quantity demanded in the short run but reduce their quantity demanded in the long run. 
+ANS:	A	
+
+	The price elasticity of demand measures how much
+a. quantity demanded responds to a change in price. 
+b. quantity demanded responds to a change in income. 
+c. price responds to a change in demand. 
+d. demand responds to a change in supply. 
+ANS:	A	
+
+	The price elasticity of demand measures
+a. buyers’ responsiveness to a change in the price of a good. 
+b. the extent to which demand increases as additional buyers enter the market. 
+c. how much more of a good consumers will demand when incomes rise. 
+d. the movement along a supply curve when there is a change in demand. 
+ANS:	A	
+
+	Which of the following statements about the price elasticity of demand is correct?
+a. The price elasticity of demand for a good measures the willingness of buyers of the good to buy less of the good as its price increases. 
+b. Price elasticity of demand reflects the many economic, psychological, and social forces that shape consumer tastes. 
+c. Other things equal, if good *x* has close substitutes and good *y* does not have close substitutes, then the demand for good *x* will be more elastic than the demand for good *y*. 
+d. All of the above are correct. 
+ANS:	D	
+
+	If the price of natural gas rises, when is the price elasticity of demand likely to be the highest?
+a. immediately after the price increase 
+b. one month after the price increase 
+c. three months after the price increase 
+d. one year after the price increase 
+ANS:	D	
+
+	If the price of milk rises, when is the price elasticity of demand likely to be the lowest?
+a. immediately after the price increase 
+b. one month after the price increase 
+c. three months after the price increase 
+d. one year after the price increase 
+ANS:	A	
+
+	Which of the following is *not* a determinant of the price elasticity of demand for a good?
+a. the time horizon 
+b. the steepness or flatness of the supply curve for the good 
+c. the definition of the market for the good 
+d. the availability of substitutes for the good 
+ANS:	B	
+
+	The greater the price elasticity of demand, the
+a. more likely the product is a necessity. 
+b. smaller the responsiveness of quantity demanded to a change in price. 
+c. greater the percentage change in price over the percentage change in quantity demanded. 
+d. greater the responsiveness of quantity demanded to a change in price. 
+ANS:	D
+
+	The price elasticity of demand for bread
+a. is computed as the percentage change in quantity demanded of bread divided by the percentage change in price of bread. 
+b. depends, in part, on the availability of close substitutes for bread. 
+c. reflects the many economic, social, and psychological forces that influence consumers' tastes for bread. 
+d. All of the above are correct. 
+ANS:	D	
+
+	Suppose that Jane enjoys Diet Coke so much that she consumes one can every day.  Although she enjoys gourmet cheese, she consumes it sporadically.  If the price of Diet Coke rises, Jane decreases her consumption by only a very small amount.  But if the price of gourmet cheese rises, Jane decreases her consumption by a lot.  These examples illustrate the importance of 
+a. the availability of close substitutes in determining the price elasticity of demand. 
+b. a necessity versus a luxury in determining the price elasticity of demand. 
+c. the definition of a market in determining the price elasticity of demand. 
+d. the time horizon in determining the price elasticity of demand. 
+ANS:	B	
+
+	Suppose that gasoline prices increase dramatically this month.  Lola commutes 100 miles to work each weekday.  Over the next few months, Lola drives less on the weekends to try to save money.  Within the year, she sells her home and purchases one only 10 miles from her place of employment.  These examples illustrate the importance of 
+a. the availability of substitutes in determining the price elasticity of demand. 
+b. a necessity versus a luxury in determining the price elasticity of demand. 
+c. the definition of a market in determining the price elasticity of demand. 
+d. the time horizon in determining the price elasticity of demand. 
+ANS:	D	
+
+	**Refer to Table 5-1.**  Which of the following is consistent with the elasticities given in Table 5-1?
+a. A is a luxury, and B is a necessity. 
+b. A is a good several years after a price increase, and B is that same good several days after the price increase. 
+c. A is a Kit Kat bar, and B is candy. 
+d. A has fewer substitutes than B. 
+ANS:	D	
+
+	**Refer to Table 5-1.**  Which of the following is consistent with the elasticities given in Table 5-1?
+a. A is grapes, and B is fruit. 
+b. A is T-shirts, and B is socks. 
+c. A is train tickets before cars were invented, and B is train tickets after cars were invented. 
+d. A is diamond necklaces, and B is beds. 
+ANS:	C	
+
+	**Refer to Table 5-1.**  Which of the following is consistent with the elasticities given in Table 5-1?
+a. A is root beer, and B is carbonated beverages. 
+b. A is bicycles, and B is mopeds. 
+c. A is airline tickets in the short run, and B is airline tickets in the long run. 
+d. A is gourmet coffee, and B is dentist’s visits. 
+ANS:	C	
+
+	Suppose there is a 6 percent increase in the price of good X and a resulting 6 percent decrease in the quantity of X demanded. Price elasticity of demand for X is
+a. 0\. 
+b. 1\. 
+c. 6\. 
+d. 36\. 
+ANS:	B	
+
+	If the price elasticity of demand for a good is 4.0, then a 10 percent increase in price results in a
+a. 0.4 percent decrease in the quantity demanded. 
+b. 2.5 percent decrease in the quantity demanded. 
+c. 4 percent decrease in the quantity demanded. 
+d. 40 percent decrease in the quantity demanded. 
+ANS:	D	
+
+	If the price elasticity of demand for a good is 1.5, then a 3 percent decrease in price results in a
+a. 0.5 percent increase in the quantity demanded. 
+b. 2 percent increase in the quantity demanded. 
+c. 4.5 percent increase in the quantity demanded. 
+d. 5 percent increase in the quantity demanded. 
+ANS:	C	
+
+	If the price elasticity of demand for a good is 4, then a 12 percent decrease in price results in a
+a. 0.33 percent increase in the quantity demanded. 
+b. 3 percent increase in the quantity demanded. 
+c. 30 percent increase in the quantity demanded. 
+d. 48 percent increase in the quantity demanded. 
+ANS:	D	
+
+	If the price elasticity of demand for a good is 0.8, then which of the following events is consistent with a 4 percent decrease in the quantity of the good demanded?
+a. a 0.2 percent increase in the price of the good 
+b. a 3.2 percent increase in the price of the good 
+c. a 4.8 percent increase in the price of the good 
+d. a 5 percent increase in the price of the good 
+ANS:	D	
+
+For a particular good, a 2 percent increase in price causes a 12 percent decrease in quantity demanded. Which of the following statements is most likely applicable to this good?
+a. There are no close substitutes for this good. 
+b. The good is a luxury. 
+c. The market for the good is broadly defined. 
+d. The relevant time horizon is short. 
+ANS:	B	
+
+	For a particular good, a 5 percent increase in price causes a 15 percent decrease in quantity demanded. Which of the following statements is most likely applicable to this good?
+a. There are many substitutes for this good. 
+b. The good is a necessity. 
+c. The market for the good is broadly defined. 
+d. The relevant time horizon is short. 
+ANS:	A	
+
+	For a particular good, a 10 percent increase in price causes a 15 percent decrease in quantity demanded. Which of the following statements is most likely applicable to this good?
+a. There are no close substitutes for this good. 
+b. The good is a necessity. 
+c. The market for the good is broadly defined. 
+d. The relevant time horizon is long. 
+ANS:	D	
+
+For a particular good, a 5 percent increase in price causes a 2 percent decrease in quantity demanded. Which of the following statements is most likely applicable to this good?
+a. There are many close substitutes for this good. 
+b. The good is a luxury. 
+c. The market for the good is broadly defined. 
+d. The relevant time horizon is long. 
+ANS:	C	
+
+For a particular good, a 12 percent increase in price causes a 3 percent decrease in quantity demanded. Which of the following statements is most likely applicable to this good?
+a. There are many substitutes for this good. 
+b. The good is a necessity. 
+c. The market for the good is narrowly defined. 
+d. The relevant time horizon is long. 
+ANS:	B	
+
+For a particular good, a 3 percent increase in price causes a 10 percent decrease in quantity demanded. Which of the following statements is most likely applicable to this good?
+a. The relevant time horizon is short. 
+b. The good is a necessity. 
+c. The market for the good is broadly defined. 
+d. There are many close substitutes for this good. 
+ANS:	D	
+
+	
+
+Elasticity of demand is closely related to the slope of the demand curve. The more responsive buyers are to a change in price, the
+a. steeper the demand curve will be. 
+b. flatter the demand curve will be. 
+c. further to the right the demand curve will sit. 
+d. closer to the vertical axis the demand curve will sit. 
+ANS:	B	
+
+	As we move downward and to the right along a linear, downward-sloping demand curve, 
+a. both slope and elasticity remain constant. 
+b. slope changes but elasticity remains constant. 
+c. both slope and elasticity change. 
+d. slope remains constant but elasticity changes. 
+ANS:	D	
+
+	The difference between slope and elasticity is that slope 
+a. is a ratio of two changes, and elasticity is a ratio of two percentage changes. 
+b. is a ratio of two percentage changes, and elasticity is a ratio of two changes. 
+c. measures changes in quantity demanded more accurately than elasticity. 
+d. none of the above; there is no difference between slope and elasticity. 
+ANS:	A	
+
+	Goods with many close substitutes tend to have 
+a. more elastic demands. 
+b. less elastic demands. 
+c. price elasticities of demand that are unit elastic. 
+d. income elasticities of demand that are negative. 
+ANS:	A	
+
+	A good will have a more elastic demand, the 
+a. greater the availability of close substitutes. 
+b. more broad the definition of the market. 
+c. shorter the period of time. 
+d. more it is regarded as a necessity. 
+ANS:	A	
+
+	Which of the following statements is correct?
+a. The demand for flat-screen computer monitors is more elastic than the demand for monitors in general. 
+b. The demand for grandfather clocks is more elastic than the demand for clocks in general. 
+c. The demand for cardboard is more elastic over a long period of time than over a short period of time. 
+d. All of the above are correct. 
+ANS:	D	
+
+	The value of the price elasticity of demand for a good will be relatively large when
+a. there are no good substitutes available for the good. 
+b. the time period in question is relatively short. 
+c. the good is a luxury rather than a necessity. 
+d. All of the above are correct. 
+ANS:	C	
+
+	If the price elasticity of demand is 1.5, regardless of which two points on the demand curve are used to compute the elasticity, then demand is 
+a. perfectly inelastic, and the demand curve is vertical. 
+b. elastic, and the demand curve is a straight, downward-sloping line. 
+c. perfectly elastic, and the demand curve is horizontal. 
+d. elastic, and the demand curve is something other than a straight, downward-sloping line. 
+ANS:	D	
+
+	Suppose that quantity demand falls by 30% as a result of a 5% increase in price.  The price elasticity of demand for this good is
+a. inelastic and equal to 6\. 
+b. elastic and equal to 6\. 
+c. inelastic and equal to 0.17. 
+d. elastic and equal to 0.17. 
+ANS:	B	
+
+	Which of the following is likely to have the most price elastic demand?
+a. lattés 
+b. doctor’s visits 
+c. eggs 
+d. natural gas 
+ANS:	A	
+
+	Which of the following is likely to have the most price elastic demand?
+a. dental floss 
+b. milk 
+c. salt 
+d. diamond earrings 
+ANS:	D	
+
+	Which of the following is likely to have the most price elastic demand?
+a. gasoline in the short run 
+b. dentist’s visits 
+c. ice cream 
+d. deodorant 
+ANS:	C		
+
+	Which of the following is likely to have the most price inelastic demand?
+a. white chocolate chip with macadamia nut cookies 
+b. hardback novels 
+c. salt 
+d. box seats at a major league baseball game 
+ANS:	C	
+
+	Which of the following is likely to have the most price inelastic demand?
+a. strawberry-banana milk shakes 
+b. gasoline in the short run 
+c. diamond earrings 
+d. box seats at a major league baseball game 
+ANS:	B	
+
+	Which of the following is likely to have the most price inelastic demand?
+a. chocolate 
+b. Godiva chocolate 
+c. Hershey’s chocolate 
+d. All three would have the same elasticity of demand because they are all related. 
+ANS:	A	
+
+	Which of the following is likely to have the most price inelastic demand?
+a. athletic shoes 
+b. running shoes 
+c. Nike running shoes 
+d. Nike Shox running shoes 
+ANS:	A 
+
+	A person who takes a prescription drug to control high cholesterol most likely has a demand for that drug that is
+a. inelastic. 
+b. unit elastic. 
+c. elastic. 
+d. highly responsive to changes in income. 
+ANS:	A	
+
+	Suppose that quantity demand rises by 10% as a result of a 15% decrease in price.  The price elasticity of demand for this good is
+a. inelastic and equal to 0.67. 
+b. elastic and equal to 0.67. 
+c. inelastic and equal to 1.50. 
+d. elastic and equal to 1.50. 
+ANS:	A	  
+	
+	There are very few, if any, good substitutes for automotive tires.  Therefore, the demand for automotive tires would tend to be 
+a. elastic. 
+b. unit elastic. 
+c. inelastic. 
+d. highly responsive to changes in income as well as changes in prices. 
+ANS:	C	
+
+	If demand is price inelastic, then
+a. buyers do not respond much to a change in price. 
+b. buyers respond substantially to a change in price, but the response is very slow. 
+c. buyers do not alter their quantities demanded much in response to advertising, fads, or general changes in tastes. 
+d. the demand curve is very flat. 
+ANS:	A	
+
+	When the price of bubble gum is $0.50, the quantity demanded is 400 packs per day. When the price falls to $0.40, the quantity demanded increases to 600\. Given this information and using the midpoint method, we know that the demand for bubble gum is
+a. inelastic. 
+b. elastic. 
+c. unit elastic. 
+d. perfectly inelastic. 
+ANS:	B	
+
+	The midpoint method is used to compute elasticity because it
+a. automatically computes a positive number instead of a negative number. 
+b. results in an elasticity that is the same as the slope of the demand curve. 
+c. gives the same answer regardless of the direction of change. 
+d. automatically rounds quantities to the nearest whole unit. 
+ANS:	C	
+
+	Suppose the price of potato chips decreases from $1.45 to $1.25 and, as a result, the quantity of potato chips demanded increases from 2,000 to 2,200. Using the midpoint method, the price elasticity of demand for potato chips in the given price range is
+a. 2.00. 
+b. 1.55. 
+c. 1.00. 
+d. 0.64. 
+ANS:	D	
+
+	Using the midpoint method, the price elasticity of demand for a good is computed to be approximately 2\. Which of the following events is consistent with a 0.1 percent increase in the price of the good?
+a. The quantity of the good demanded decreases from 250 to 150\. 
+b. The quantity of the good demanded decreases from 200 to 100\. 
+c. The quantity of the good demanded decreases by 0.05 percent. 
+d. The quantity of the good demanded decreases by 0.2 percent. 
+ANS:	D	
+
+	Studies indicate that the price elasticity of demand for cigarettes is about 0.4.  A government policy aimed at reducing smoking changed the price of a pack of cigarettes from $2 to $6.  According to the midpoint method, the government policy should have reduced smoking by
+a. 30%. 
+b. 40%. 
+c. 80%. 
+d. 250%. 
+ANS:	B	
+
+	When the price of a bracelet was $25 each, the jewelry shop sold 20 per month. When it raised the price to $35 each, it sold 14 per month. Using the midpoint method, the price elasticity of demand for bracelets is about
+a. 1.66. 
+b. 1.06. 
+c. 0.94. 
+d. 0.60. 
+ANS:	B	
+
+	Suppose that 50 ice cream cones are demanded at a particular price. If the price of ice cream cones rises from that price by 4 percent, the number of ice cream cones demanded falls to 46\. Using the midpoint approach to calculate the price elasticity of demand, it follows that the
+a. demand for ice cream cones in this price range is elastic. 
+b. demand for ice cream cones in this price range is inelastic. 
+c. demand for ice cream cones in this price range is unit elastic. 
+d. price elasticity of demand for ice cream cones in this price range is 0\. 
+ANS:	A	
+
+	ApplicativeThe midpoint method for calculating elasticities is convenient in that it allows us to
+a. ignore the percentage change in quantity demanded and instead focus entirely on the percentage change in price. 
+b. calculate the same value for the elasticity, regardless of whether the price increases or decreases. 
+c. assume that sellers' total revenue stays constant when the price changes. 
+d. restrict all elasticity values to between 0 and 1\. 
+ANS:	B
+
+	**Refer to Table 5-2.**  Using the midpoint method, if the price falls from $80 to $60, the absolute value of the price elasticity of demand is 
+a. 20\. 
+b. 10\. 
+c. 2.33. 
+d. 0.43. 
+ANS:	C	
+
+	**Refer to Table 5-2.**  Using the midpoint method, if the price falls from $60 to $40, the absolute value of the price elasticity of demand is 
+a. 0.4. 
+b. 1\. 
+c. 4\. 
+d. 20\. 
+ANS:	B	
+
+	**Refer to Table 5-2.**  Using the midpoint method, if the price falls from $40 to $20, the absolute value of the price elasticity of demand is 
+a. 20\. 
+b. 10\. 
+c. 2.33. 
+d. 0.43. 
+ANS:	D	
+
+	**Refer to Table 5-2.**  Using the midpoint method, if the price falls from $80 to $60, the price elasticity of demand is 
+a. zero. 
+b. unit elastic. 
+c. inelastic. 
+d. elastic. 
+ANS:	D	
+
+	**Refer to Table 5-2.**  Using the midpoint method, if the price falls from $60 to $40, the price elasticity of demand is 
+a. zero. 
+b. inelastic. 
+c. unit elastic. 
+d. elastic. 
+ANS:	C	
+
+	**Refer to Table 5-2.**  Using the midpoint method, if the price falls from $40 to $20, the price elasticity of demand is 
+a. zero. 
+b. inelastic. 
+c. unit elastic. 
+d. elastic. 
+ANS:	B	
+
+	**Refer to Figure 5-1**. Between point A and point B, price elasticity of demand is equal to
+a. 0.33. 
+b. 0.67. 
+c. 1.5 
+d. 2.67. 
+ANS:	C	
+
+	**Refer to Figure 5-1**. Between point A and point B, the slope is equal to 
+a. \-1/4, and the price elasticity of demand is equal to 2/3. 
+b. \-1/4, and the price elasticity of demand is equal to 3/2. 
+c. \-3/2, and the price elasticity of demand is equal to 1/4. 
+d. \-2/3, and the price elasticity of demand is equal to 3/2. 
+ANS:	B	
+
+	**Refer to Figure 5-1**. Between point A and point B on the graph, demand is
+a. perfectly elastic. 
+b. inelastic. 
+c. unit elastic. 
+d. elastic, but not perfectly elastic. 
+ANS:	D	
+
+	Suppose demand is perfectly elastic, and the supply of the good in question decreases. As a result, 
+a. the equilibrium quantity decreases, and the equilibrium price is unchanged. 
+b. the equilibrium price increases, and the equilibrium quantity is unchanged. 
+c. the equilibrium quantity and the equilibrium price both are unchanged. 
+d. buyers’ total expenditure on the good is unchanged. 
+ANS:	A	
+
+	A perfectly elastic demand implies that
+a. buyers will not respond to any change in price. 
+b. any rise in price above that represented by the demand curve will result in a quantity demanded of zero. 
+c. quantity demanded and price change by the same percent as we move along the demand curve. 
+d. price will rise by an infinite amount when there is a change in quantity demanded. 
+ANS:	B	
+
+	When small changes in price lead to infinite changes in quantity demanded, demand is perfectly
+a. elastic, and the demand curve will be horizontal. 
+b. inelastic, and the demand curve will be horizontal. 
+c. elastic, and the demand curve will be vertical. 
+d. inelastic, and the demand curve will be vertical. 
+ANS:	A	
+
+	Suppose demand is perfectly inelastic, and the supply of the good in question decreases. As a result, 
+a. the equilibrium quantity decreases, and the equilibrium price is unchanged. 
+b. the equilibrium price increases, and the equilibrium quantity is unchanged. 
+c. the equilibrium quantity and the equilibrium price both are unchanged. 
+d. buyers’ total expenditure on the good is unchanged. 
+ANS:	B	
+
+	When demand is perfectly inelastic, the price elasticity of demand
+a. is zero, and the demand curve is vertical. 
+b. is zero, and the demand curve is horizontal. 
+c. approaches infinity, and the demand curve is vertical. 
+d. approaches infinity, and the demand curve is horizontal. 
+ANS:	A	
+
+	Ryan says that he would buy one cup of coffee every day regardless of the price. If he is telling the truth, Ryan’s 
+a. demand for coffee is perfectly inelastic. 
+b. price elasticity of demand for coffee is 1\. 
+c. income elasticity of demand for coffee is 0\. 
+d. None of the above answers is correct. 
+ANS:	A	
+
+	129\.	In which of these instances is demand said to be perfectly inelastic?
+a. An increase in price of 2% causes a decrease in quantity demanded of 2%. 
+b. A decrease in price of 2% causes an increase in quantity demanded of 0%. 
+c. A decrease in price of 2% causes a decrease in total revenue of 0%. 
+d. An increase in price of 2% causes a decrease in quantity demanded of 1/2%. 
+ANS:	B	
+
+	Demand is said to be unit elastic if quantity demanded 
+a. changes by the same percent as the price. 
+b. changes by a larger percent than the price. 
+c. changes by a smaller percent than the price. 
+d. does not respond to a change in price. 
+ANS:	A	
+
+	When quantity moves proportionately the same amount as price, demand is
+a. elastic, and the price elasticity of demand is 1\. 
+b. perfectly elastic, and the price elasticity of demand is infinitely large. 
+c. perfectly inelastic, and the price elasticity of demand is 0\. 
+d. unit elastic, and the price elasticity of demand is 1\. 
+ANS:	D	
+
+	Pierre says that he will spend exactly 75 cents a day on candy bars, regardless of the price of candy bars. Pierre’s demand for candy bars is
+a. perfectly elastic. 
+b. unit elastic. 
+c. perfectly inelastic. 
+d. None of the above answers is correct. 
+ANS:	B	
+
+	When we move upward and to the left along a linear, downward-sloping demand curve, price elasticity of demand
+a. first becomes smaller, then larger. 
+b. always becomes larger. 
+c. always becomes smaller. 
+d. first becomes larger, then smaller. 
+ANS:	B	
+
+	The price elasticity of demand changes as we move along a
+a. horizontal demand curve. 
+b. vertical demand curve. 
+c. linear, downward-sloping demand curve. 
+d. All of the above are correct. 
+ANS:	C	
+
+	**Refer to Figure 5-2**. As price falls from Pa to Pb, which demand curve represents the most elastic demand?
+a. D1 
+b. D2 
+c. D3 
+d. All of the above are equally elastic. 
+ANS:	A	
+
+	**Refer to Figure 5-2**. As price falls from Pa to Pb, we could use the three demand curves to calculate three different values of the price elasticity of demand. Which of the three demand curves would produce the smallest elasticity?
+a. D1 
+b. D2 
+c. D3 
+d. All of the above are equally elastic. 
+ANS:	C	
+
+	**Refer to Figure 5-3.**  The demand curve representing the demand for a luxury good with several close substitutes is
+a. A. 
+b. B. 
+c. C. 
+d. D. 
+ANS:	C	
+
+	**Refer to Figure 5-3.**  Mark says he would buy one Mt. Dew per day regardless of the price.  If this is true, then Mark's demand for Mt. Dew is represented by demand curve
+a. A. 
+b. B. 
+c. C. 
+d. D. 
+ANS:	A	
+
+	**Refer to Figure 5-3.**  Which demand curve is perfectly elastic?
+a. A 
+b. B 
+c. C 
+d. D 
+ANS:	D	
+
+	**Refer to Figure 5-3.**  Which demand curve is perfectly inelastic?
+a. A 
+b. B 
+c. C 
+d. D 
+ANS:	A	
+
+	**Refer to Figure 5-3.**  Which demand curve is unit elastic?
+a. A 
+b. B 
+c. D 
+d. None of the above. 
+ANS:	D	
+
+	When the price of good A is $50, the quantity demanded of good A is 500 units.  When the price of good A rises to $70, the quantity demanded of good A falls to 400 units.  Using the midpoint method, the price elasticity of demand for good A is
+a. 1.50, and an increase in price will result in an increase in total revenue for good A. 
+b. 1.50, and an increase in price will result in a decrease in total revenue for good A. 
+c. 0.67, and an increase in price will result in an increase in total revenue for good A. 
+d. 0.67, and an increase in price will result in a decrease in total revenue for good A. 
+ANS:	C	
+
+	When the local used bookstore prices economics books at $15 each, it generally sells 70 books per month. If it lowers the price to $7, sales increase to 90 books per month. Given this information, we know that the price elasticity of demand for economics books is about
+a. 2.91, and an increase in price from $7 to $15 results in an increase in total revenue. 
+b. 2.91, and an increase in price from $7 to $15 results in a decrease in total revenue. 
+c. 0.34, and an increase in price from $7 to $15 results in an increase in total revenue. 
+d. 0.34, and an increase in price from $7 to $15 results in a decrease in total revenue. 
+ANS:	C	
+
+	Fiona’s Fish Emporium increased its total monthly revenue from $1,500 to $1,800 when it raised the price of tropical fish from $5 to $9. The price elasticity of demand for Fiona’s Fish Emporium is
+a. 0.57. 
+b. 0.70. 
+c. 1.43. 
+d. 2.20. 
+ANS:	B	
+
+	Melvin’s Magnets earned $200 in total revenue last month when it sold 100 souvenir magnets. This month it earned $300 in total revenue when it sold 60 souvenir magnets. The price elasticity of demand for Marvin’s Magnets is
+a. 0.27. 
+b. 0.58. 
+c. 1.25. 
+d. 1.71. 
+ANS:	B	
+
+	Suppose that when the price of ginger ale is $2 per bottle, firms can sell 4 million bottles. When the price of ginger ale is $3 per bottle, firms can sell 2 million bottles. Which of the following statements is true?
+a. The demand for ginger ale is income inelastic, so an increase in the price of ginger ale will increase the total revenue of ginger ale producers. 
+b. The demand for ginger ale is income elastic, so an increase in the price of ginger ale will increase the total revenue of ginger ale producers. 
+c. The demand for ginger ale is price inelastic, so an increase in the price of ginger ale will increase the total revenue of ginger ale producers. 
+d. The demand for ginger ale is price elastic, so an increase in the price of ginger ale will decrease the total revenue of ginger ale producers. 
+ANS:	D	
+
+	An increase in price causes an increase in total revenue when demand is 
+a. elastic. 
+b. inelastic. 
+c. unit elastic. 
+d. All of the above are possible. 
+ANS:	B	
+
+	Suppose that demand is inelastic within a certain price range.  For that price range,
+a. an increase in price would increase total revenue because the decrease in quantity demanded is proportionately less than the increase in price. 
+b. an increase in price would decrease total revenue because the decrease in quantity demanded is proportionately greater than the increase in price. 
+c. a decrease in price would increase total revenue because the increase in quantity demanded is proportionately smaller than the decrease in price. 
+d. a decrease in price would not affect total revenue. 
+ANS:	A	
+
+	When demand is inelastic, the price elasticity of demand is
+a. less than 1, and price and total revenue will move in the same direction. 
+b. less than 1, and price and total revenue will move in opposite directions. 
+c. greater than 1, and price and total revenue will move in the same direction. 
+d. greater than 1, and price and total revenue will move in opposite directions. 
+ANS:	A	
+
+	How does total revenue change as one moves downward and to the right along a linear demand curve?
+a. It always increases. 
+b. It always decreases. 
+c. It first increases, then decreases. 
+d. It is unaffected by a movement along the demand curve. 
+ANS:	C	
+
+	On a downward-sloping linear demand curve, total revenue reaches its maximum value at the
+a. midpoint of the demand curve. 
+b. lower end of the demand curve. 
+c. upper end of the demand curve. 
+d. It is impossible to tell without knowing prices and quantities demanded. 
+ANS:	A	
+
+	A city wants to raise revenues to build a new municipal swimming pool next year.  The mayor suggests that the city raise the price of admission to the current municipal pools this year to raise revenues.  The city manager suggests that the city lower the price of admission to raise revenues.  Who is correct?
+a. Both the mayor and city manager would be correct if demand were price elastic. 
+b. Both the mayor and city manager would be correct if demand were price inelastic. 
+c. The mayor would be correct if demand were price elastic; the city manager would be correct if demand were price inelastic. 
+d. The mayor would be correct if demand were price inelastic; the city manager would be correct if demand were price elastic. 
+ANS:	D	
+
+	When demand is inelastic, a decrease in price will cause
+a. an increase in total revenue. 
+b. a decrease in total revenue. 
+c. no change in total revenue but an increase in quantity demanded. 
+d. no change in total revenue but a decrease in quantity demanded. 
+ANS:	B	
+
+	When demand is elastic, an increase in price will cause
+a. an increase in total revenue. 
+b. a decrease in total revenue. 
+c. no change in total revenue but an increase in quantity demanded. 
+d. no change in total revenue but a decrease in quantity demanded. 
+ANS:	B	
+
+	Which of the following could be the price elasticity of demand for a good for which a decrease in price would increase revenue?
+a. 0 
+b. 0.2 
+c. 1 
+d. 2.1 
+ANS:	D	
+
+	Which of the following could be the price elasticity of demand for a good for which a decrease in price would decrease revenue?
+a. 0.5 
+b. 1 
+c. 1.5 
+d. All of the above could be correct. 
+ANS:	A	
+
+	If the price elasticity of demand for tuna is 0.7, then a 1.5% increase in the price of tuna will decrease the quantity demanded of tuna by
+a. 1.05%, and tuna sellers' total revenue will increase as a result. 
+b. 1.05%, and tuna sellers' total revenue will decrease as a result. 
+c. 2.14%, and tuna sellers' total revenue will increase as a result. 
+d. 2.14%, and tuna sellers' total revenue will decrease as a result. 
+ANS:	A	
+
+If a change in the price of a good results in no change in total revenue, then
+a. the demand for the good must be elastic. 
+b. the demand for the good must be inelastic. 
+c. the demand for the good must be unit elastic. 
+d. buyers must not respond very much to a change in price. 
+ANS:	C	
+
+	In which of the following situations will total revenue increase?
+a. Price elasticity of demand is 1.2, and the price of the good decreases. 
+b. Price elasticity of demand is 0.5, and the price of the good increases. 
+c. Price elasticity of demand is 3.0, and the price of the good decreases. 
+d. All of the above are correct. 
+ANS:	D	
+
+	You have just been hired as a business consultant to determine what pricing policy would be appropriate in order to increase the total revenue of a bakery. The first step you would take would be to
+a. increase the price of every loaf of bread in the store. 
+b. look for ways to cut costs and increase profit for the bakery. 
+c. determine the price elasticity of demand for the bakery's products. 
+d. determine the price elasticity of supply for the bakery’s products. 
+ANS:	C  
+	
+
+	You are in charge of the local city-owned aquatic center. You need to increase the revenue generated by the aquatic center in order to meet expenses. The mayor advises you to decrease the price of a day pass.  The city manager recommends increasing the price of a day pass. You realize that
+a. the mayor thinks demand is elastic, and the city manager thinks demand is inelastic. 
+b. both the mayor and the city manager think that demand is elastic. 
+c. both the mayor and the city manager think that demand is inelastic. 
+d. the mayor thinks demand is inelastic, and the city manager thinks demand is elastic. 
+ANS:	A	
+
+	Get Smart University is contemplating an increase in tuition to enhance revenue. If GSU feels that raising tuition would enhance revenue, it is 
+a. ignoring the law of demand. 
+b. assuming that the demand for university education is elastic. 
+c. assuming that the demand for university education is inelastic. 
+d. assuming that the supply of university education is elastic. 
+ANS:	C	
+
+	If the demand for donuts is elastic, then a decrease in the price of donuts will
+a. increase total revenue of donut sellers. 
+b. decrease total revenue of donut sellers. 
+c. not change total revenue of donut sellers. 
+d. There is not enough information to answer this question. 
+ANS:	A	
+
+	If the demand for textbooks is inelastic, then an increase in the price of textbooks will
+a. increase total revenue of textbook sellers. 
+b. decrease total revenue of textbook sellers. 
+c. not change total revenue of textbook sellers. 
+d. There is not enough information to answer this question. 
+ANS:	A	
+
+	Suppose you are in charge of setting prices at a local sandwich shop. The business needs to increase its total revenue, and your job is on the line. If the demand for sandwiches is elastic, you
+a. should increase the price of sandwiches. 
+b. should decrease the price of sandwiches. 
+c. should not change the price of sandwiches. 
+d. could not determine what to do with price until you determine whether supply is elastic or inelastic. 
+ANS:	B	
+
+	Your younger sister needs $50 to buy a new bike. She has opened a lemonade stand to make the money she needs. Your mother is paying for all of the ingredients.  She currently is charging 25 cents per cup, but she wants to adjust her price to earn the $50 faster. If you know that the demand for lemonade is elastic, what is your advice to her?
+a. Leave the price at 25 cents and be patient. 
+b. Raise the price to increase total revenue. 
+c. Lower the price to increase total revenue. 
+d. There isn't enough information given to answer this question. 
+ANS:	C	
+
+	Suppose the point (Q \= 2,000, P \= $60) is the midpoint on a certain downward-sloping, linear demand curve. Then
+a. an increase in price from $40 to $42 will increase total revenue. 
+b. a decrease in price from $61 to $59 will leave total revenue unchanged. 
+c. the maximum value of total revenue is $120,000. 
+d. All of the above are correct. 
+ANS:	D	
+
+	**Refer to Figure 5-4**. Suppose the point labeled B is the “halfway point” on the demand curve and it corresponds to a price of $5.00. Then, between prices of $4.99 and $5.01, the price elasticity of demand is 
+a. less than 1 but greater than zero. 
+b. equal to 1\. 
+c. greater than 1\. 
+d. equal to zero. 
+ANS:	B	
+
+	**Refer to Figure 5-4**. The section of the demand curve from A to B represents the
+a. elastic section of the demand curve. 
+b. inelastic section of the demand curve. 
+c. unit elastic section of the demand curve. 
+d. perfectly elastic section of the demand curve. 
+ANS:	A	
+
+	**Refer to Figure 5-4**. The section of the demand curve from B to C represents the
+a. elastic section of the demand curve. 
+b. inelastic section of the demand curve. 
+c. unit elastic section of the demand curve. 
+d. perfectly elastic section of the demand curve. 
+ANS:	B	
+
+	**Refer to Figure 5-4**. The section of the demand curve at point B represents the
+a. elastic section of the demand curve. 
+b. inelastic section of the demand curve. 
+c. unit elastic section of the demand curve. 
+d. perfectly elastic section of the demand curve. 
+ANS:	C	
+
+	**Refer to Figure 5-4**. Assume the section of the demand curve from A to B corresponds to prices between $8 and $16. Then, when the price changes between $9 and $10, 
+a. quantity demanded changes proportionately less than the price. 
+b. quantity demanded changes proportionately more than the price. 
+c. quantity demanded changes the same amount proportionately as price. 
+d. the price elasticity of demand equals 1\. 
+ANS:	B	
+
+	**Refer to Figure 5-4**. Assume the section of the demand curve from A to B corresponds to prices between $6 and $12. Then, when the price increases from $8 to $10,
+a. the percent decrease in the quantity demanded exceeds the percent increase in the price. 
+b. the percent increase in the price exceeds the percent decrease in the quantity demanded. 
+c. sellers’ total revenue increases as a result. 
+d. it is possible that the quantity demanded fell from 550 to 500 as a result. 
+ANS:	A	
+
+	**Refer to Figure 5-4**. Assume, for the good in question, two specific points on the demand curve are (Q = 1,000, P \= $40) and (Q \= 1,500, P \= $30). Then which of the following scenarios is possible?
+a. Both of these points lie on the section of the demand curve from B to C. 
+b. The vertical intercept of the demand curve is the point (Q \= 0, P \= $60). 
+c. The horizontal intercept of the demand curve is the point (Q \= 1,800, P \= $0). 
+d. Any of these scenarios is possible. 
+ANS:	B	
+
+	**Refer to Figure 5-4**. The section of the demand curve from B to C represents the
+a. elastic section of the demand curve. 
+b. perfectly elastic section of the demand curve. 
+c. unit elastic section of the demand curve. 
+d. inelastic section of the demand curve. 
+ANS:	D	
+
+	**Refer to Figure 5-4**. Assume the section of the demand curve from B to C corresponds to prices between $0 and $15. Then, when the price changes between $7 and $9, 
+a. quantity demanded changes proportionately less than the price. 
+b. quantity demanded changes proportionately more than the price. 
+c. quantity demanded changes the same amount proportionately as price. 
+d. the price elasticity of demand equals zero. 
+ANS:	A	
+
+	**Refer to Figure 5-4**. Assume, for the good in question, two specific points on the demand curve are (Q = 2,000, P \= $15) and (Q \= 2,400, P \= $12). Then which of the following scenarios is possible?
+a. Both of these points lie on section BC of the demand curve. 
+b. The vertical intercept of the demand curve is the point (Q \= 0, P \= $22). 
+c. The horizontal intercept of the demand curve is the point (Q \= 5,000, P \= $0). 
+d. Any of these scenarios is possible. 
+ANS:	A	
+
+	**Refer to Figure 5-4**. If the price decreases in the region of the demand curve between points A and B, we can expect total revenue to 
+a. increase. 
+b. stay the same. 
+c. decrease. 
+d. first decrease, then increase until total revenue is maximized. 
+ANS:	A	
+
+	**Refer to Figure 5-4**. If the price increases in the region of the demand curve between points A and B, we can expect total revenue to 
+a. increase. 
+b. stay the same. 
+c. decrease. 
+d. first increase, then decrease until total revenue is maximized. 
+ANS:	C	
+
+	**Refer to Figure 5-4**. If the price decreases in the region of the demand curve between points B and C, we can expect total revenue to 
+a. increase. 
+b. stay the same. 
+c. decrease. 
+d. first increase, then decrease until total revenue is maximized. 
+ANS:	C	
+
+	**Refer to Figure 5-4**. If the price increases in the region of the demand curve between points B and C, we can expect total revenue to 
+a. increase. 
+b. stay the same. 
+c. decrease. 
+d. first decrease, then increase until total revenue is maximized. 
+ANS:	A	
+
+	**Refer to Figure 5-5**. Using the midpoint method, demand is unit elastic between prices of
+a. $18 and $24. 
+b. $24 and $30. 
+c. $24 and $36. 
+d. $30 and $36. 
+ANS:	C	
+
+	**Refer to Figure 5-5.** Using the midpoint method, between prices of $12 and $18, price elasticity of demand is
+a. 0.33. 
+b. 0.67. 
+c. 1.33. 
+d. 1.89. 
+ANS:	A	
+
+	**Refer to Figure 5-5.** Using the midpoint method, between prices of $48 and $54, price elasticity of demand is about
+a. 0.92. 
+b. 3.89. 
+c. 4.33. 
+d. 5.67. 
+ANS:	D	
+
+	**Refer to Figure 5-5.** Using the midpoint method, between prices of $30 and $36, price elasticity of demand is about
+a. 0.5. 
+b. 0.82. 
+c. 1.22. 
+d. 2\. 
+ANS:	C	
+
+	**Refer to Figure 5-5**. The maximum value of total revenue corresponds to a price of
+a. $18. 
+b. $30. 
+c. $42. 
+d. $48. 
+ANS:	B	
+
+	**Refer to** **Figure 5-5**. At a price of $48 per unit, sellers' total revenue equals 
+a. $150. 
+b. $200. 
+c. $288. 
+d. $364. 
+ANS:	C	
+
+	**Refer to** **Figure 5-5**. At a price of $12 per unit, sellers' total revenue equals 
+a. $150. 
+b. $200. 
+c. $288. 
+d. $364. 
+ANS:	C	
+
+	**Refer to** **Figure 5-5**. At a price of $30 per unit, sellers' total revenue equals 
+a. $150. 
+b. $200. 
+c. $288. 
+d. $450. 
+ANS:	D	
+
+	**Refer to Figure 5-10**. When the price is $30, total revenue is
+a. $3,000. 
+b. $5,000. 
+c. $7,000. 
+d. $9,000. 
+ANS:	D	
+
+	**Refer to Figure 5-10**. When price falls from $50 to $40, demand is 
+a. inelastic, since total revenue decreases from $8,000 to $5,000. 
+b. inelastic, since total revenue increases from $5,000 to $8,000. 
+c. elastic, since total revenue increases from $5,000 to $8,000. 
+d. unit elastic, since total revenue does not change. 
+ANS:	C	
+
+	**Refer to Figure 5-10**. An increase in price from $20 to $30 would
+a. increase total revenue by $2,000. 
+b. decrease total revenue by $2,000. 
+c. increase total revenue by $1,000. 
+d. decrease total revenue by $1,000. 
+ANS:	C	
+
+	**Refer to Figure 5-10**. An increase in price from $30 to $35 would
+a. increase total revenue by $250 
+b. decrease total revenue by $250. 
+c. increase total revenue by $500. 
+d. decrease total revenue by $500. 
+ANS:	B	
+
+	**Refer to Figure 5-11.**  Using the midpoint method, the price elasticity of demand between point A and point B is about 
+a. 0.33. 
+b. 0.5. 
+c. 2.0. 
+d. 3.0. 
+ANS:	D	
+
+	**Refer to Figure 5-11.**  Using the midpoint method, the price elasticity of demand between point C and point D is about 
+a. 0.29. 
+b. 0.54. 
+c. 1.86. 
+d. 2.0. 
+ANS:	B	
+
+	**Refer to Figure 5-11.**  If the price falls from point A to point B, total revenue
+a. increases, and demand is price elastic. 
+b. decreases, and demand is price elastic. 
+c. increases, and demand is price inelastic. 
+d. decreases, and demand is price inelastic. 
+ANS:	A	
+
+	**Refer to Figure 5-11.**  If the price rises from point D to point C, total revenue  
+a. increases, and demand is price elastic. 
+b. decreases, and demand is price elastic. 
+c. increases, and demand is price inelastic. 
+d. decreases, and demand is price inelastic. 
+ANS:	C	
+
+	A key determinant of the price elasticity of supply is the 
+a. time horizon. 
+b. income of consumers. 
+c. price elasticity of demand. 
+d. importance of the good in a consumer’s budget. 
+ANS:	A	
+
+	The price elasticity of supply measures how much
+a. the quantity supplied responds to changes in input prices. 
+b. the quantity supplied responds to changes in the price of the good. 
+c. the price of the good responds to changes in supply. 
+d. sellers respond to changes in technology. 
+ANS:	B	
+
+	The price elasticity of supply measures how responsive
+a. sellers are to a change in price. 
+b. sellers are to a change in buyers' income. 
+c. buyers are to a change in production costs. 
+d. equilibrium price is to a change in supply. 
+ANS:	A	
+
+	A linear, upward-sloping supply curve has 
+a. a constant slope and a changing price elasticity of supply. 
+b. a changing slope and a constant price elasticity of supply. 
+c. both a constant slope and a constant price elasticity of supply. 
+d. both a changing slope and a changing price elasticity of supply. 
+ANS:	A	
+
+	A key determinant of the price elasticity of supply is the time period under consideration. Which of the following statements best explains this fact?
+a. Supply curves are steeper over long periods of time than over short periods of time. 
+b. Buyers of goods tend to be more responsive to price changes over long periods of time than over short periods of time. 
+c. The number of firms in a market tends to be more variable over long periods of time than over short periods of time. 
+d. Firms prefer to change their prices in the short run rather than in the long run. 
+ANS:	C	
+
+	Some firms eventually experience problems with their capacity to produce output as their output levels increase. For these firms,
+a. market power is substantial. 
+b. supply is perfectly inelastic. 
+c. supply is more elastic at low levels of output and less elastic at high levels of output. 
+d. supply is less elastic at low levels of output and more elastic at high levels of output. 
+ANS:	C 
+
+	The price elasticity of supply along a typical supply curve is
+a. constant. 
+b. equal to zero. 
+c. higher at low levels of quantity supplied and lower at high levels of quantity supplied. 
+d. lower at low levels of quantity supplied and higher at high levels of quantity supplied. 
+ANS:	C	  
+	  
+	Suppose that two supply curves pass through the same point.  One is steep, and the other is flat.  Which of the following statements is correct?
+a. The flatter supply curve represents a supply that is inelastic relative to the supply represented by the steeper supply curve. 
+b. The steeper supply curve represents a supply that is inelastic relative to the supply represented by the flatter supply curve. 
+c. Given two prices with which to calculate the price elasticity of supply, that elasticity would be the same for both curves. 
+d. A decrease in demand will increase total revenue if the steeper supply curve is relevant, while a decrease in demand will decrease total revenue if the flatter supply cure is relevant. 
+ANS:	B	
+
+	If the price elasticity of supply is 1.5, and a price increase led to a 1.8% increase in quantity supplied, then the price increase is about 
+a. 0.67%. 
+b. 0.83%. 
+c. 1.20%. 
+d. 2.70%. 
+ANS:	C	
+
+	If the price elasticity of supply is 1.5, and a price increase led to a 3% increase in quantity supplied, then the price increase is about
+a. 0.2%. 
+b. 0.5%. 
+c. 2.0%. 
+d. 4.5%. 
+ANS:	C	
+
+	If the price elasticity of supply is 1.2, and a price increase led to a 5% increase in quantity supplied, then the price increase is about
+a. 0.24%. 
+b. 4.2%. 
+c. 6%. 
+d. 6.2%. 
+ANS:	B	
+
+	Suppose the price elasticity of supply for candles is 0.3 in the short run and 1.2 in the long run.  If an increase in the demand for candles causes the price of candles to increase by 36%, then the quantity supplied of candles will increase by about
+a. 0.8% in the short run and 3.3% in the long run. 
+b. 1.2% in the short run and 0.3% in the long run. 
+c. 10.8% in the short run and 43.2% in the long run. 
+d. 120% in the short run and 30% in the long run. 
+ANS:	C	
+
+	**Refer to Scenario 5-1.**  The price elasticity of supply for aged cheddar cheese could be
+a. \-1. 
+b. 0\. 
+c. 0.5. 
+d. 1.5. 
+ANS:	C	
+
+	**Refer to Scenario 5-1.**  The price elasticity of supply for bread could be
+a. \-1. 
+b. 0\. 
+c. 0.5. 
+d. 1.5. 
+ANS:	D	
+
+	**Refer to Table 5-5**. Which of the three supply curves represents the least elastic supply?
+a. supply curve A 
+b. supply curve B 
+c. supply curve C 
+d. There is no difference in the elasticity of the three supply curves. 
+ANS:	A	
+
+	**Refer to Table 5-5**. Which of the three supply curves represents the most elastic supply?
+a. supply curve A 
+b. supply curve B 
+c. supply curve C 
+d. There is no difference in the elasticity of the three supply curves. 
+ANS:	C	
+
+	**Refer to Table 5-5**. Along which of the supply curves does quantity supplied move proportionately more than the price?
+a. along supply curve B only 
+b. along supply curves B and C 
+c. along all three supply curves 
+d. None.  Quantity supplied moves proportionately less than the price along all of the three supply curves. 
+ANS:	D	
+
+	A manufacturer produces 400 units when the market price of $10 per unit and produces 600 units when the market price is $12 per unit.  Using the midpoint method, for this range of prices, the price elasticity of supply is about
+a. 0.45. 
+b. 2.0. 
+c. 2.2. 
+d. 200\. 
+ANS:	C	
+
+	On a certain supply curve, one point is (quantity supplied \= 200, price \= $4.00) and another point is (quantity supplied \= 250, price \= $4.50). Using the midpoint method, the price elasticity of supply is about
+a. 0.22. 
+b. 0.53. 
+c. 1.00. 
+d. 1.89. 
+ANS:	D	
+
+	Holding all other factors constant and using the midpoint method, if a candy manufacturer increases production by 20 percent when the market price of candy increases from $0.50 to $0.60, then supply is
+a. inelastic, since the price elasticity of supply is equal to .91. 
+b. inelastic, since the price elasticity of supply is equal to 1.1. 
+c. elastic, since the price elasticity of supply is equal to 0.91. 
+d. elastic, since the price elasticity of supply is equal to 1.1. 
+ANS:	D	
+
+	A bakery would be willing to supply 500 donuts per day at a price of $0.50 each. At a price of $0.80, the bakery would be willing to supply 1,100 donuts. Using the midpoint method, the price elasticity of supply for donuts is about 
+a. 0.62, and supply is elastic. 
+b. 0.62, and supply is inelastic. 
+c. 1.63, and supply is elastic. 
+d. 1.63, and supply is inelastic. 
+ANS:	C	
+
+	**Refer to Figure 5-13.**  Over which range is the supply curve in this figure the most elastic?
+a. $16 to $40 
+b. $40 to $100 
+c. $100 to $220 
+d. $220 to $430 
+ANS:	A	
+
+	**Refer to Figure 5-13.**  Over which range is the supply curve in this figure the least elastic?
+a. $16 to $40 
+b. $40 to $100 
+c. $100 to $220 
+d. $220 to $430 
+ANS:	D	
+
+	**Refer to Figure 5-13.**  Using the midpoint method, what is the price elasticity of supply between $16 and $40?
+a. 0.125 
+b. 0.86 
+c. 1.0 
+d. 2.5 
+ANS:	C	
+
+	**Refer to Figure 5-13.**  Using the midpoint method, what is the price elasticity of supply between $100 and $220?
+a. 0.58 
+b. 0.67 
+c. 1.00 
+d. 1.73 
+ANS:	A	
+
+	53\.	**Refer to Figure 5-15.**  Using the midpoint method, what is the price elasticity of supply between $4 and $6?
+a. 0.75 
+b. 1.00 
+c. 1.20 
+d. 1.25 
+ANS:	D	
+
+	54\.	**Refer to Figure 5-15.**  Using the midpoint method, what is the price elasticity of supply between $6 and $8?
+a. 0.86 
+b. 1.00 
+c. 1.17 
+d. 1.25 
+ANS:	C	
+
+	The supply of a good will be more elastic, the
+a. more the good is considered a luxury. 
+b. broader is the definition of the market for the good. 
+c. larger the number of close substitutes for the good. 
+d. longer the time period being considered. 
+ANS:	D	
+
+	When a supply curve is relatively flat, the 
+a. sellers are not at all responsive to a change in price. 
+b. equilibrium price changes substantially when the demand for the good changes. 
+c. supply is relatively elastic. 
+d. supply is relatively inelastic. 
+ANS:	C	
+
+	As price elasticity of supply increases, the supply curve 
+a. becomes flatter. 
+b. becomes steeper. 
+c. becomes downward sloping. 
+d. shifts to the right. 
+ANS:	A	
+
+	If the price elasticity of supply for wheat is less than 1, then the supply of wheat is
+a. inelastic. 
+b. elastic. 
+c. unit elastic. 
+d. quite sensitive to changes in income. 
+ANS:	A	
+
+	If sellers respond to very small changes in price by adjusting their quantity supplied by extremely large amounts, the price elasticity of supply approaches  
+a. zero, and the supply curve is horizontal. 
+b. zero, and the supply curve is vertical. 
+c. infinity, and the supply curve is horizontal. 
+d. infinity, and the supply curve is vertical. 
+ANS:	C	
+
+	Which of the following statements is valid when supply is perfectly elastic at a price of $4?
+a. The elasticity of supply approaches infinity. 
+b. The supply curve is vertical. 
+c. At a price below $4, quantity supplied is infinite. 
+d. At a price above $4, quantity supplied is zero. 
+ANS:	A	
+
+	Which of the following statements is *not* valid when supply is perfectly elastic?
+a. The elasticity of supply approaches infinity. 
+b. The supply curve is horizontal. 
+c. Very small changes in price lead to very large changes in quantity supplied. 
+d. The time period under consideration is more likely a short period rather than a long period. 
+ANS:	D	
+
+	If sellers do not adjust their quantity supplied at all in response to a change in price, the price elasticity of supply is 
+a. zero, and the supply curve is horizontal. 
+b. zero, and the supply curve is vertical. 
+c. infinity, and the supply curve is horizontal. 
+d. infinity, and the supply curve is vertical. 
+ANS:	B	
+
+	Which of the following statements is valid when the market supply curve is vertical?
+a. Market quantity supplied does not change when the price changes. 
+b. Supply is perfectly elastic. 
+c. An increase in market demand will increase the equilibrium quantity. 
+d. An increase in market demand will not increase the equilibrium price. 
+ANS:	A	
+
+	Which of the following statements is *not* valid when the market supply curve is vertical?
+a. Market quantity supplied does not change when the price changes. 
+b. Supply is perfectly inelastic. 
+c. An increase in market demand will increase the equilibrium quantity. 
+d. An increase in market demand will increase the equilibrium price. 
+ANS:	C	
+
+	If the quantity supplied is the same regardless of price, then supply is
+a. elastic. 
+b. perfectly elastic. 
+c. perfectly inelastic. 
+d. inelastic. 
+ANS:	C	
+
+	If sellers do not adjust their quantities supplied at all in response to a change in price,
+a. advances in technology must be prevalent. 
+b. the time period under consideration must be very long. 
+c. supply is perfectly elastic. 
+d. supply is perfectly inelastic. 
+ANS:	D	
+
+	If the price elasticity of supply is zero, then
+a. supply is more elastic than it is in any other case. 
+b. the supply curve is horizontal. 
+c. the quantity supplied is the same, regardless of price. 
+d. a change in demand will cause a relatively small change in the equilibrium price. 
+ANS:	C	
+
+	**Refer to Figure 5-17.**  Which of the following statements is *not* correct?
+a. Supply curve A is perfectly inelastic. 
+b. Supply curve B is perfectly elastic. 
+c. Supply curve C is unit elastic. 
+d. Supply curve D is more elastic than supply curve C. 
+ANS:	C	
+
+	**Refer to Figure 5-17.**  Which of the following statements is correct?
+a. Supply curve A is perfectly elastic. 
+b. Supply curve B is perfectly inelastic. 
+c. Supply curve C is more inelastic than supply curve D. 
+d. Supply curve D is unit elastic. 
+ANS:	C
