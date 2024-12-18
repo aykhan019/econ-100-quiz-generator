@@ -103,21 +103,21 @@ c. the definition of a market in determining the price elasticity of demand.
 d. the time horizon in determining the price elasticity of demand. 
 ANS:	D	
 
-	**Refer to Table 5-1.**  Which of the following is consistent with the elasticities given in Table 5-1?
+	**Refer to Table 5-1**  Which of the following is consistent with the elasticities given in Table 5-1?
 a. A is a luxury, and B is a necessity. 
 b. A is a good several years after a price increase, and B is that same good several days after the price increase. 
 c. A is a Kit Kat bar, and B is candy. 
 d. A has fewer substitutes than B. 
 ANS:	D	
 
-	**Refer to Table 5-1.**  Which of the following is consistent with the elasticities given in Table 5-1?
+	**Refer to Table 5-1**  Which of the following is consistent with the elasticities given in Table 5-1?
 a. A is grapes, and B is fruit. 
 b. A is T-shirts, and B is socks. 
 c. A is train tickets before cars were invented, and B is train tickets after cars were invented. 
 d. A is diamond necklaces, and B is beds. 
 ANS:	C	
 
-	**Refer to Table 5-1.**  Which of the following is consistent with the elasticities given in Table 5-1?
+	**Refer to Table 5-1**  Which of the following is consistent with the elasticities given in Table 5-1?
 a. A is root beer, and B is carbonated beverages. 
 b. A is bicycles, and B is mopeds. 
 c. A is airline tickets in the short run, and B is airline tickets in the long run. 
@@ -399,42 +399,42 @@ c. assume that sellers' total revenue stays constant when the price changes.
 d. restrict all elasticity values to between 0 and 1\. 
 ANS:	B
 
-	**Refer to Table 5-2.**  Using the midpoint method, if the price falls from $80 to $60, the absolute value of the price elasticity of demand is 
+	**Refer to Table 5-2**  Using the midpoint method, if the price falls from $80 to $60, the absolute value of the price elasticity of demand is 
 a. 20\. 
 b. 10\. 
 c. 2.33. 
 d. 0.43. 
 ANS:	C	
 
-	**Refer to Table 5-2.**  Using the midpoint method, if the price falls from $60 to $40, the absolute value of the price elasticity of demand is 
+	**Refer to Table 5-2**  Using the midpoint method, if the price falls from $60 to $40, the absolute value of the price elasticity of demand is 
 a. 0.4. 
 b. 1\. 
 c. 4\. 
 d. 20\. 
 ANS:	B	
 
-	**Refer to Table 5-2.**  Using the midpoint method, if the price falls from $40 to $20, the absolute value of the price elasticity of demand is 
+	**Refer to Table 5-2**  Using the midpoint method, if the price falls from $40 to $20, the absolute value of the price elasticity of demand is 
 a. 20\. 
 b. 10\. 
 c. 2.33. 
 d. 0.43. 
 ANS:	D	
 
-	**Refer to Table 5-2.**  Using the midpoint method, if the price falls from $80 to $60, the price elasticity of demand is 
+	**Refer to Table 5-2**  Using the midpoint method, if the price falls from $80 to $60, the price elasticity of demand is 
 a. zero. 
 b. unit elastic. 
 c. inelastic. 
 d. elastic. 
 ANS:	D	
 
-	**Refer to Table 5-2.**  Using the midpoint method, if the price falls from $60 to $40, the price elasticity of demand is 
+	**Refer to Table 5-2**  Using the midpoint method, if the price falls from $60 to $40, the price elasticity of demand is 
 a. zero. 
 b. inelastic. 
 c. unit elastic. 
 d. elastic. 
 ANS:	C	
 
-	**Refer to Table 5-2.**  Using the midpoint method, if the price falls from $40 to $20, the price elasticity of demand is 
+	**Refer to Table 5-2**  Using the midpoint method, if the price falls from $40 to $20, the price elasticity of demand is 
 a. zero. 
 b. inelastic. 
 c. unit elastic. 
@@ -560,35 +560,35 @@ c. D3
 d. All of the above are equally elastic. 
 ANS:	C	
 
-	**Refer to Figure 5-3.**  The demand curve representing the demand for a luxury good with several close substitutes is
+	**Refer to Figure 5-3**  The demand curve representing the demand for a luxury good with several close substitutes is
 a. A. 
 b. B. 
 c. C. 
 d. D. 
 ANS:	C	
 
-	**Refer to Figure 5-3.**  Mark says he would buy one Mt. Dew per day regardless of the price.  If this is true, then Mark's demand for Mt. Dew is represented by demand curve
+	**Refer to Figure 5-3**  Mark says he would buy one Mt. Dew per day regardless of the price.  If this is true, then Mark's demand for Mt. Dew is represented by demand curve
 a. A. 
 b. B. 
 c. C. 
 d. D. 
 ANS:	A	
 
-	**Refer to Figure 5-3.**  Which demand curve is perfectly elastic?
+	**Refer to Figure 5-3**  Which demand curve is perfectly elastic?
 a. A 
 b. B 
 c. C 
 d. D 
 ANS:	D	
 
-	**Refer to Figure 5-3.**  Which demand curve is perfectly inelastic?
+	**Refer to Figure 5-3**  Which demand curve is perfectly inelastic?
 a. A 
 b. B 
 c. C 
 d. D 
 ANS:	A	
 
-	**Refer to Figure 5-3.**  Which demand curve is unit elastic?
+	**Refer to Figure 5-3**  Which demand curve is unit elastic?
 a. A 
 b. B 
 c. D 
@@ -883,21 +883,21 @@ c. $24 and $36.
 d. $30 and $36. 
 ANS:	C	
 
-	**Refer to Figure 5-5.** Using the midpoint method, between prices of $12 and $18, price elasticity of demand is
+	**Refer to Figure 5-5** Using the midpoint method, between prices of $12 and $18, price elasticity of demand is
 a. 0.33. 
 b. 0.67. 
 c. 1.33. 
 d. 1.89. 
 ANS:	A	
 
-	**Refer to Figure 5-5.** Using the midpoint method, between prices of $48 and $54, price elasticity of demand is about
+	**Refer to Figure 5-5** Using the midpoint method, between prices of $48 and $54, price elasticity of demand is about
 a. 0.92. 
 b. 3.89. 
 c. 4.33. 
 d. 5.67. 
 ANS:	D	
 
-	**Refer to Figure 5-5.** Using the midpoint method, between prices of $30 and $36, price elasticity of demand is about
+	**Refer to Figure 5-5** Using the midpoint method, between prices of $30 and $36, price elasticity of demand is about
 a. 0.5. 
 b. 0.82. 
 c. 1.22. 
@@ -911,21 +911,21 @@ c. $42.
 d. $48. 
 ANS:	B	
 
-	**Refer to** **Figure 5-5**. At a price of $48 per unit, sellers' total revenue equals 
+	**Refer to Figure 5-5**. At a price of $48 per unit, sellers' total revenue equals 
 a. $150. 
 b. $200. 
 c. $288. 
 d. $364. 
 ANS:	C	
 
-	**Refer to** **Figure 5-5**. At a price of $12 per unit, sellers' total revenue equals 
+	**Refer to Figure 5-5**. At a price of $12 per unit, sellers' total revenue equals 
 a. $150. 
 b. $200. 
 c. $288. 
 d. $364. 
 ANS:	C	
 
-	**Refer to** **Figure 5-5**. At a price of $30 per unit, sellers' total revenue equals 
+	**Refer to Figure 5-5**. At a price of $30 per unit, sellers' total revenue equals 
 a. $150. 
 b. $200. 
 c. $288. 
@@ -1072,14 +1072,14 @@ c. 10.8% in the short run and 43.2% in the long run.
 d. 120% in the short run and 30% in the long run. 
 ANS:	C	
 
-	**Refer to Scenario 5-1.**  The price elasticity of supply for aged cheddar cheese could be
+	**Refer to Scenario 5-1**  The price elasticity of supply for aged cheddar cheese could be
 a. \-1. 
 b. 0\. 
 c. 0.5. 
 d. 1.5. 
 ANS:	C	
 
-	**Refer to Scenario 5-1.**  The price elasticity of supply for bread could be
+	**Refer to Scenario 5-1**  The price elasticity of supply for bread could be
 a. \-1. 
 b. 0\. 
 c. 0.5. 

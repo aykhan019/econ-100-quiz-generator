@@ -9,13 +9,14 @@ from tkinter import messagebox
 #############################################
 # Configuration
 #############################################
-SOURCE_FILE = "source.txt"
-SCENARIO_FILE = "scenarios-ps6.txt"
-FIGURE_DIR = "images-ps6/figures"
-TABLE_DIR = "images-ps6/tables"
+PS = 'ps6'
+SOURCE_FILE = PS + "/source.txt"
+SCENARIO_FILE = PS + "/scenarios-ps6.txt"
+FIGURE_DIR = PS + "/images-ps6/figures"
+TABLE_DIR = PS + "/images-ps6/tables"
 SESSION_FILE = "session.json"
-LEFT_AD_IMAGE = "left_ad.png"
-RIGHT_AD_IMAGE = "right_ad.png"
+LEFT_AD_IMAGE = "assets/left_ad.png"
+RIGHT_AD_IMAGE = "assets/right_ad.png"
 
 #############################################
 # Parse Scenarios
@@ -39,7 +40,6 @@ if os.path.exists(SCENARIO_FILE):
                 if current_scenario_key:
                     current_scenario_text.append(line)
 
-        # Store the last scenario if any
         if current_scenario_key:
             scenario_dict[current_scenario_key] = "\n".join(current_scenario_text).strip()
 else:
@@ -92,7 +92,7 @@ for line in lines:
 # Determine question type (figure/table/scenario/normal)
 #############################################
 def identify_question_type(question_text):
-    fig_match = re.search(r"Refer to Figure\s+(\d+-\d+)\.", question_text, re.IGNORECASE)
+    fig_match = re.search(r"Refer to Figure\s+(\d+-\d+)", question_text, re.IGNORECASE)
     if fig_match:
         return ("figure", fig_match.group(1))
     table_match = re.search(r"Refer to Table\s+(\d+-\d+)\.", question_text, re.IGNORECASE)
@@ -101,22 +101,40 @@ def identify_question_type(question_text):
     scenario_match = re.search(r"Refer to Scenario\s+(\d+-\d+)\.", question_text, re.IGNORECASE)
     if scenario_match:
         return ("scenario", scenario_match.group(1))
-
     return ("normal", None)
 
 #############################################
 # Session Handling
 #############################################
 def load_session():
+    current_index = 0
+    finished_count = 0
+    correctness = {}
     if os.path.exists(SESSION_FILE):
         with open(SESSION_FILE, "r", encoding="utf-8") as f:
             data = json.load(f)
-            return data.get("current_index", 0)
-    return 0
+            ps_data = data.get(PS, {})
+            current_index = ps_data.get("current_index", 0)
+            finished_count = ps_data.get("finished_count", 0)
+            correctness_list = ps_data.get("correctness", [])
+            correctness = {k: v for k, v in correctness_list}
+    return current_index, finished_count, correctness
 
-def save_session(index):
+def save_session(index, finished_count, correctness):
+    session_data = {}
+    if os.path.exists(SESSION_FILE):
+        with open(SESSION_FILE, "r", encoding="utf-8") as f:
+            session_data = json.load(f)
+
+    correctness_list = [(k, v) for k, v in correctness.items()]
+    session_data[PS] = {
+        "current_index": index,
+        "finished_count": finished_count,
+        "correctness": correctness_list
+    }
+
     with open(SESSION_FILE, "w", encoding="utf-8") as f:
-        json.dump({"current_index": index}, f)
+        json.dump(session_data, f)
 
 #############################################
 # Helper to load and tile ad images
@@ -148,7 +166,7 @@ def tile_image_vertically(base_img, height):
 # GUI Quiz Application
 #############################################
 class QuizApp:
-    def __init__(self, master, questions, scenarios, figure_dir, table_dir, start_index=0):
+    def __init__(self, master, questions, scenarios, figure_dir, table_dir, start_index=0, finished_count=0, correctness=None):
         self.master = master
         self.questions = questions
         self.scenarios = scenarios
@@ -157,6 +175,8 @@ class QuizApp:
         self.index = start_index if 0 <= start_index < len(self.questions) else 0
         self.score = 0
         self.num_questions = len(self.questions)
+        self.finished_count = finished_count
+        self.correctness = correctness if correctness is not None else {}
 
         self.master.attributes('-fullscreen', True)
 
@@ -189,62 +209,94 @@ class QuizApp:
         choice_font = ("Arial", 20)
         button_font = ("Arial", 20, "bold")
 
-        self.content_frame = tk.Frame(self.center_frame)
-        self.content_frame.pack(fill=tk.BOTH, expand=True, padx=10, pady=10)
+        # Canvas and scrollbar for scrolling
+        self.content_canvas = tk.Canvas(self.center_frame)
+        self.content_canvas.pack(side=tk.TOP, fill=tk.BOTH, expand=True)
 
-        self.image_label = tk.Label(self.content_frame)
-        self.image_label.pack(pady=10)
+        self.content_frame = tk.Frame(self.content_canvas)
+        self.content_window = self.content_canvas.create_window((0,0), window=self.content_frame, anchor='nw')
 
-        self.scenario_label = tk.Label(self.content_frame, text="", font=scenario_font, justify=tk.LEFT, wraplength=700)
+        self.content_canvas.bind("<Configure>", self.on_canvas_configure)
+
+        def on_content_frame_configure(event):
+            self.content_canvas.configure(scrollregion=self.content_canvas.bbox("all"))
+        self.content_frame.bind("<Configure>", on_content_frame_configure)
+
+        # Inner frame for centering the container
+        self.inner_frame = tk.Frame(self.content_frame, bd=2, relief='solid')
+        self.inner_frame.pack(fill=tk.X)
+        self.inner_frame.pack_propagate(False)  # Turn off propagation
+        self.inner_frame.config(height=1000)    # Now height request will be honored
+
+        self.scrollbar = tk.Scrollbar(self.inner_frame, orient="vertical", command=self.content_canvas.yview)
+        self.scrollbar.pack(side=tk.RIGHT, fill=tk.Y)
+        self.content_canvas.configure(yscrollcommand=self.scrollbar.set)
+
+        # Image top
+        self.image_label = tk.Label(self.inner_frame)
+        self.image_label.pack(pady=0)
+
+        self.scenario_label = tk.Label(self.inner_frame, text="", font=scenario_font, justify=tk.LEFT, wraplength=700, anchor='w')
         self.scenario_label.pack(pady=5)
 
-        self.question_label = tk.Label(self.content_frame, text="", font=question_font, wraplength=700, justify=tk.LEFT)
+        # Question label
+        self.question_label = tk.Label(self.inner_frame, text="", font=question_font, wraplength=700, justify=tk.LEFT, anchor='w')
         self.question_label.pack(pady=10)
 
         self.var = tk.StringVar(value='')
 
-        self.choice_frame = tk.Frame(self.content_frame)
+        # Choices frame
+        self.choice_frame = tk.Frame(self.inner_frame)
         self.choice_frame.pack(pady=10)
 
         self.choice_buttons = []
         for i in range(4):
-            rb = tk.Radiobutton(self.choice_frame, text="", variable=self.var, value="", font=choice_font, wraplength=700, justify=tk.LEFT, anchor='w')
+            rb = tk.Radiobutton(self.choice_frame, text="", variable=self.var, value="", font=choice_font, wraplength=700, anchor='w', justify=tk.LEFT)
             rb.pack(anchor='w', pady=5)
             self.choice_buttons.append(rb)
 
-        self.button_frame = tk.Frame(self.content_frame)
-        self.button_frame.pack(pady=10)
+        self.buttons_frame = tk.Frame(self.center_frame)
+        self.buttons_frame.pack(side=tk.TOP, pady=10)
 
-        # For next and previous use arrows, submit in the middle
-        self.prev_button = tk.Button(self.button_frame, text="←", command=self.prev_question, font=button_font, bg="lightblue", fg="black")
+        # Navigation and submit buttons
+        self.prev_button = tk.Button(self.buttons_frame, text="←", command=self.prev_question, font=button_font, bg="lightblue", fg="black")
         self.prev_button.grid(row=0, column=0, padx=10)
 
-        self.submit_button = tk.Button(self.button_frame, text="Submit", command=self.check_answer, font=button_font, bg="lightblue", fg="black")
+        self.submit_button = tk.Button(self.buttons_frame, text="Submit", command=self.check_answer, font=button_font, bg="lightblue", fg="black")
         self.submit_button.grid(row=0, column=1, padx=10)
 
-        self.next_button = tk.Button(self.button_frame, text="→", command=self.next_question, font=button_font, bg="lightblue", fg="black")
+        self.next_button = tk.Button(self.buttons_frame, text="→", command=self.next_question, font=button_font, bg="lightblue", fg="black")
         self.next_button.grid(row=0, column=2, padx=10)
 
-        self.result_label = tk.Label(self.content_frame, text="", font=("Arial", 20))
+        self.result_label = tk.Label(self.inner_frame, text="", font=("Arial", 20), justify=tk.LEFT, anchor='w')
         self.result_label.pack(pady=10)
 
-        self.question_rank_label = tk.Label(self.content_frame, text="", font=("Arial", 18))
-        self.question_rank_label.pack(pady=5)
-
-        # Scoreboard frame to show dynamic subset of questions
         self.scoreboard_frame = tk.Frame(self.center_frame)
         self.scoreboard_frame.pack(side=tk.BOTTOM, pady=10)
 
-        # Create labels for each question (status)
         self.question_status = []
         for i in range(self.num_questions):
-            # Initially all gray
             lbl = tk.Label(self.scoreboard_frame, text=str(i+1), width=4, height=2, bg="gray", font=("Arial", 14, "bold"))
-            # We'll pack dynamically later, not now
             self.question_status.append(lbl)
 
         self.load_question(self.index)
         self.master.bind("<Escape>", self.exit_fullscreen)
+
+        # Restore previous correctness states
+        self.restore_correctness()
+
+    def restore_correctness(self):
+        # If correctness was loaded, update scoreboard colors
+        for i, lbl in enumerate(self.question_status):
+            if i in self.correctness:
+                if self.correctness[i]:
+                    lbl.config(bg="green")
+                else:
+                    lbl.config(bg="red")
+
+    def on_canvas_configure(self, event):
+        # Ensure content frame width matches canvas width
+        self.content_canvas.itemconfig(self.content_window, width=event.width)
 
     def exit_fullscreen(self, event=None):
         self.master.attributes('-fullscreen', False)
@@ -274,7 +326,23 @@ class QuizApp:
     def load_image(self, path):
         if os.path.exists(path):
             img = Image.open(path)
-            img = img.resize((300, 300), Image.Resampling.LANCZOS)
+            min_width = 200
+            min_height = 200
+            max_width = 400
+            max_height = 350
+            w, h = img.size
+
+            if w < min_width or h < min_height:
+                ratio = max(min_width / w, min_height / h)
+                new_width = int(w * ratio)
+                new_height = int(h * ratio)
+                img = img.resize((new_width, new_height), Image.Resampling.LANCZOS)
+            elif w > max_width or h > max_height:
+                ratio = min(max_width / w, max_height / h)
+                new_width = int(w * ratio)
+                new_height = int(h * ratio)
+                img = img.resize((new_width, new_height), Image.Resampling.LANCZOS)
+
             self.photo = ImageTk.PhotoImage(img)
             self.image_label.config(image=self.photo, text="")
             self.image_label.image = self.photo
@@ -307,7 +375,7 @@ class QuizApp:
             scenario_text = self.scenarios.get(q_ref, "(Scenario not found)")
             self.scenario_label.config(text=scenario_text)
 
-        self.question_label.config(text=q["question"])
+        self.question_label.config(text=f"{self.index+1}. {q['question']}")
 
         keys = list(q["choices"].keys())
         for i, rb in enumerate(self.choice_buttons):
@@ -318,36 +386,42 @@ class QuizApp:
                 rb.config(text="", value="", state="disabled")
                 rb.deselect()
 
-        self.question_rank_label.config(text=f"Question {self.index+1} of {self.num_questions}")
-
-        # Make next button always enabled
         self.submit_button.config(state="normal")
         self.next_button.config(state="normal")
 
-        # Previous button disabled if at first question
         if self.index == 0:
             self.prev_button.config(state="disabled")
         else:
             self.prev_button.config(state="normal")
 
-        # Update scoreboard to show only q +/- 5
         self.update_scoreboard()
+        self.master.update_idletasks()
 
     def update_scoreboard(self):
-        # Clear all current packing
         for lbl in self.question_status:
             lbl.pack_forget()
 
         start = max(0, self.index - 5)
-        end = min(self.num_questions, self.index + 5 + 1)  # +1 because range end is exclusive
+        end = min(self.num_questions, self.index + 5 + 1)
         for i in range(start, end):
             self.question_status[i].pack(side=tk.LEFT, padx=5)
+
+        # Update scoreboard with correctness info
+        for i, lbl in enumerate(self.question_status):
+            if i in self.correctness:
+                if self.correctness[i]:
+                    lbl.config(bg="green")
+                else:
+                    lbl.config(bg="red")
 
     def check_answer(self):
         if self.index < len(self.questions):
             q = self.questions[self.index]
             selected = self.var.get()
-            if selected == q["answer"]:
+            self.finished_count += 1
+            was_correct = (selected == q["answer"])
+            self.correctness[self.index] = was_correct
+            if was_correct:
                 self.result_label.config(text="Correct!", fg="green")
                 self.score += 1
                 self.question_status[self.index].config(bg="green")
@@ -357,13 +431,13 @@ class QuizApp:
                 self.question_status[self.index].config(bg="red")
 
             self.submit_button.config(state="disabled")
-            # Next button should remain enabled now
             self.next_button.config(state="normal")
+            self.save_current_data()  # Save after each answer
 
     def next_question(self):
         if self.index < self.num_questions - 1:
             self.index += 1
-            self.save_current_index()
+            self.save_current_data()
             self.load_question(self.index)
         else:
             self.show_score()
@@ -371,20 +445,22 @@ class QuizApp:
     def prev_question(self):
         if self.index > 0:
             self.index -= 1
-            self.save_current_index()
+            self.save_current_data()
             self.load_question(self.index)
 
     def show_score(self):
-        messagebox.showinfo("Quiz Complete", f"You answered {self.score} out of {len(self.questions)} questions correctly.")
-        self.save_current_index()
+        messagebox.showinfo("Quiz Complete",
+                            f"You answered {self.score} out of {len(self.questions)} questions correctly.\n"
+                            f"You finished {self.finished_count} questions.")
+        self.save_current_data()
         self.master.destroy()
 
-    def save_current_index(self):
-        save_session(self.index)
+    def save_current_data(self):
+        save_session(self.index, self.finished_count, self.correctness)
 
 
 if __name__ == "__main__":
-    start_index = load_session()
+    start_index, finished_count, correctness = load_session()
     root = tk.Tk()
-    app = QuizApp(root, questions, scenario_dict, FIGURE_DIR, TABLE_DIR, start_index=start_index)
+    app = QuizApp(root, questions, scenario_dict, FIGURE_DIR, TABLE_DIR, start_index=start_index, finished_count=finished_count, correctness=correctness)
     root.mainloop()
