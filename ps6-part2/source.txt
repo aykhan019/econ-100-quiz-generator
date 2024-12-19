@@ -1,0 +1,237 @@
+1.	For which of the following goods is demand most elastic?
+a.	blue cheese
+b.	cheese
+c.	food
+d.	All three would have the same price elasticity of demand since they are all related.
+ANS: B
+
+2.	Newspapers report that the number of subway rides has declined by nearly 200,000 after subway fares were increased from 2 lira to 3 lira. The demand for subway use
+a.	is completely inelastic
+b.	is price elastic
+c.	is price inelastic
+d.	cannot be computed from this information
+ANS: D
+
+3.	A 4% decrease in income results in a 6% increase in the quantity demanded of a good. The income elasticity of demand is
+a.	negative and therefore the good is a normal good.
+b.	negative and therefore the good is an inferior good.
+c.	positive and therefore the good is an inferior good.
+d.	positive and therefore the good is a normal good.
+ANS: B
+	
+4.	The price elasticity of demand measures how much
+a.	price responds to a change in demand.
+b.	quantity demanded responds to a change in price.
+c.	quantity demanded responds to a change in income.
+d.	demand responds to a change in supply.
+ANS: B
+
+5.	Which of the following is not a determinant of the price elasticity of demand for a good?
+a.	the time horizon
+b.	the definition of the market for the good
+c.	the steepness or flatness of the supply curve for the good
+d.	the availability of substitutes for the good
+ANS: C
+
+6.	If the price of good X falls by $2.5 from $25 to $22.50, and the quantity demanded increases by 5 units from 20 to 25 units, then the price elasticity of demand at P = $25 is	
+a. −0.40			
+b. −2.00 			
+c. −2.50 			
+d. −0.50 	
+ANS: C
+	
+7.	When the price of bubble gum is $0.50, the quantity demanded is 400. When the price is $0.40, the quantity demanded is 600. At P = $0.50 the demand for bubble gum is	
+a. inelastic.	
+b. elastic.	
+c. unit elastic.	
+d. completely inelastic.	
+ANS: B
+
+8.	Economists compute the price elasticity of demand as the	
+a. change in quantity demanded divided by the change in the price.	
+b. percentage change in quantity demanded divided by the percentage change in price.	
+c. percentage change in price divided by the percentage change in quantity demanded.	
+d. percentage change in quantity demanded divided by the percentage change in income.	
+ANS: B
+
+9.	If the price elasticity of demand for a good is –0.4, then a 2 percent increase in price results in a.  _______  decrease in the quantity demanded.
+a. 0.2 percent		
+b. 2 percent		
+c. 0.8 percent		
+d. 5 percent
+ANS: C
+		
+10.	The price elasticity of demand measures how much	
+a. price responds to a change in demand.	
+b. demand responds to a change in supply.	
+c. quantity demanded responds to a change in income.	
+d. quantity demanded responds to a change in price.	
+ANS: D
+
+11.	In the market for good XYZ the price was P = 10 last year and 10,000 units were bought and sold. This year the price is P = 9.5 and 10,500 units are bought and sold. We can use these observations to
+a. Compute the price elasticity of supply if we are confident that there has been no change in non-price determinants of supply over the last year
+b. Compute the price elasticity of demand if we are confident that there has been no change in non-price determinants of demand over the last year
+c. prove that the law of supply is not working for good XYZ because this year the price is lower but the quantity supplied is higher.
+d. Compute the price elasticity of demand if we are confident that there has been no change in non-price determinants of either demand or supply over the last year
+ANS: B
+	
+12	A decrease in the price of eggs from $1.50 to $1.30 per dozen resulted in an increase in egg purchases in two cities. In Philadelphia (population 1.5 million), daily egg purchases increased from 6000 to 6200 dozens; in nearby Dover (population 36,000), daily egg purchases increased from 300 to 310 dozens. The price elasticity of demand is therefore
+a. certainly affected by population differences in different markets.
+b. lower in the smaller city as would be expected.
+c. greater in the smaller city as would be expected.
+d. the same in Philadelphia as in Dover.
+ANS: D
+	
+13.	A firm is selling 120 units of output when price is $5.  If the firm lowers the price to $4.5, it will sell 120 units. The price elasticity of demand for this firm is
+a   –1			
+b      0				
+c     1			
+d     None of the above.
+ANS: B
+	
+14.	The government decides to require that automobile manufacturers install new anti-pollution equipment that costs $2,000 per car. Assuming the car market is perfectly competitive, the price will increase by almost $2000 if __________, but it will increase very little if ____________
+a. Demand for cars is highly price elastic, demand for cars is completely price inelastic
+b. Demand for cars is unit elastic, cars are an inferior good
+c. Price elasticity of demand for cars is extremely low, demand for cars is highly price elastic
+d. Price elasticity of demand for cars is extremely low, cars are a normal good
+ANS: C
+	
+15.	The government decides to require that automobile manufacturers install new anti-pollution equipment that costs $2,000 per car. Assuming the car market is perfectly competitive, the quantity of cars sold will not change much if 
+a. Demand for cars is unit elastic
+b. Demand for cars has a very low price elasticity
+c. Demand for cars is highly sensitive to price
+d. Demand for cars is highly price elastic
+ANS: B
+	
+16.	The price elasticity of demand depends on
+a. neither the units used to measure price nor the units used to measure quantity.
+b. the units used to measure quantity but not the units used to measure price.
+c. the units used to measure price and the units used to measure quantity.
+d. the units used to measure price but not the units used to measure quantity.
+ANS: A
+	
+2.1.	If demand satisfies “the law of demand” and it is price inelastic at P = Po, then a small decrease in price will cause
+a.	no change in quantity demanded and no change in total revenue.
+b.	an increase in quantity demanded and a decrease in total revenue.
+c.	an increase in quantity demanded and an increase in total revenue.
+d.	a decrease in quantity demanded and an increase in total revenue.
+ANS: B
+
+2.2.	If the price elasticity of demand for tuna is 0.7, then a 1.5% increase in the price of tuna will decrease the quantity demanded of tuna by
+a.	1.05% and tuna sellers’ total revenue will increase as a result.
+b.	1.05% and tuna sellers’ total revenue will decrease as a result.
+c.	2.14% and tuna sellers’ total revenue will increase as a result.
+d.	2.14% and tuna sellers’ total revenue will decrease as a result.
+ANS: A
+
+2.3.	The price elasticity of demand for good X is –2 at price P = $15. A small decrease in price of good X will cause
+a.	no change in total revenue, but a decrease in quantity demanded.
+b.	an increase in total revenue.
+c.	a decrease in total revenue.
+d.	no change in total revenue, but an increase in quantity demanded.
+ANS: B
+
+2.4.	Research shows that demand for mass transit services (toplu taşıma) is inelastic. In the short run (the first year after the price change), the elasticity of demand is approximately 0.3. Over the long run (five to ten years), elasticity value is around 0.7. Suppose New York City raised subway and bus fares from the current $2.00 to $2.50. What would happen to revenue in the long run? (New Yorkers take about 2 billion trips each year.)
+a. Number of trips will increase by 350 million; mass transit revenues will increase by $125 million per year.
+b. Number of trips will decrease by 140 million; mass transit revenues will increase by $65 million per year.
+c. Number of trips will decrease by 350 million; mass transit revenues will increase by $125 million per year.
+d. Number of trips will increase by 140 million; mass transit revenues will decrease by $65 million per year.
+ANS: C
+	
+2.5.	If demand for good XYZ is ___________ then price cuts will __________ total revenue
+a. price elastic, increase
+b. price inelastic, not affect
+c. price elastic, decrease
+d. price inelastic, increase
+ANS: A
+
+2.6.	**Refer to Figure 1-1** Starting at P = $12, if we decrease price by 1%,
+a.	total revenue will increase; demand is elastic at P = $12.
+b.	total revenue will increase; demand is inelastic at P = $12.
+c.	total revenue will decrease; demand is inelastic at P = 12.
+d.	total revenue will decrease; demand is elastic At P = $12.
+ANS: A
+
+2.7.	**Refer to Figure 1-1** Total revenue will increase if the price is
+a.	increased from $4 to $6.
+b.	increased from $16 to $18.
+c.	decreased from $8 to $6.
+d.	All of the above are correct.
+ANS: A
+
+2.8.	**Refer to Figure 1-1** Total revenue will increase if the price is
+a.	increased from $6 to $8.
+b.	decreased from $18 to $16.
+c.	decreased from $16 to $15.
+d.	All of the above are correct.
+ANS: D
+
+3.1. Income elasticity of demand measures how
+a.	the quantity demanded changes as consumer income changes.
+b.	consumer purchasing power is affected by a change in the price of a good.
+c.	the price of a good is affected when there is a change in consumer income.
+d.	many units of a good a consumer can buy given a certain income level.
+ANS: A
+
+3.2. Last year, Sheila bought 10 pairs of shoes when her income was $40,000. This year, her income is $44,000 and she purchased  12 pairs of shoes. Assuming other factors are constant it follows that Sheila’s income elasticity of demand for shoes is about
+a.	0.5 and Sheila regards shoes as an inferior good.
+b.	0.5 and Sheila regards shoes as a normal good.
+c.	2.0 and Sheila regards shoes as an inferior good.
+d.	2.0 and Sheila regards shoes as a normal good.
+ANS: D
+
+3.3. Necessities such as food and clothing tend to have
+a.	high price elasticities of demand and high income elasticities of demand.
+b.	high price elasticities of demand and low income elasticities of demand.
+c.	low price elasticities of demand and high income elasticities of demand.
+d.	low price elasticities of demand and low income elasticities of demand.
+ANS: D
+
+3.4. To determine whether a good is considered normal or inferior, one could examine the value of the
+a.	income elasticity of demand for that good.
+b.	price elasticity of demand for that good.
+c.	price elasticity of supply for that good.
+d.	cross-price elasticity of demand for that good.
+ANS: A
+
+3.5. Suppose good X has a negative income elasticity of demand. This implies that good X is
+a.	a normal good.
+b.	a necessity.
+c.	an inferior good.
+d.	a luxury.
+ANS: C
+
+3.6. Which of the following expressions represents a cross-price elasticity of demand?
+a.	percentage change in quantity demanded of apples divided by percentage change in quantity supplied of apples
+b.	percentage change in quantity demanded of apples divided by percentage change in price of pears
+c.	percentage change in price of apples divided by percentage change in quantity demanded of apples
+d.	percentage change in quantity demanded of apples divided by percentage change in income
+ANS: B
+
+3.7. The price elasticity of supply measures how much
+a.	the quantity supplied responds to changes in input prices.
+b.	the quantity supplied responds to changes in the price of the good.
+c.	the price of the good responds to changes in supply.
+d.	sellers respond to changes in technology.
+ANS: B
+
+3.8. Holding all other factors constant, if a pencil manufacturer increases production by 10 percent after the market price of pencils has increased from $0.50 to $0.60, then supply is
+a.	inelastic at P = $0.50, since the price elasticity of supply is about 0.50.
+b.	inelastic at P = $0.50, since the price elasticity of supply is equal to 2.00.
+c.	elastic at P = $0.50, since the price elasticity of supply is equal to 0.50.
+d.	elastic at P = $0.50, since the price elasticity of supply is equal to 2.00.
+ANS: A
+
+3.9. **Refer to Figure 1-2** The price elasticity of supply at P = 6 is approximately (the formula for price elasticity of supply is ES = (1/slope)x(P/QS), QS is the quantity supplied)
+a.	0.60.
+b.	0.75.
+c.	1.00.
+d.	1.25
+ANS: B
+
+3.10. The price elasticity of supply at P = 8 is approximately
+a.	1.50.
+b.	1.30.
+c.	0.100.
+d.	0.80.
+ANS: D

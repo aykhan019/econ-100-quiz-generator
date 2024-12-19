@@ -7,13 +7,61 @@ import tkinter as tk
 from tkinter import messagebox
 
 #############################################
+# Before we define constants, we need to know which PS sets are available.
+# We'll scan the current working directory for directories that start with "ps" and are not "assets".
+#############################################
+
+root_dir = os.getcwd()
+all_dirs = [d for d in os.listdir(root_dir) 
+            if os.path.isdir(os.path.join(root_dir, d)) 
+            and d.startswith("ps") 
+            and d != "assets"]
+
+if not all_dirs:
+    print("No problem sets found.")
+    sys.exit(1)
+
+#############################################
+# Create a small selection window to pick a PS set from the list `all_dirs`.
+#############################################
+
+class PSSelector(tk.Toplevel):
+    def __init__(self, master, ps_list):
+        super().__init__(master)
+        self.title("Select Problem Set")
+        self.ps_var = tk.StringVar(value=ps_list[0])
+        tk.Label(self, text="Select a Problem Set:",width=30, height=3,  font=("Arial", 14)).pack(pady=0)
+        
+        # Create radio buttons for each PS directory
+        for ps in ps_list:
+            tk.Radiobutton(self, text=ps, variable=self.ps_var, value=ps).pack(anchor='w', padx=10)
+        
+        tk.Button(self, text="Select", command=self.on_select).pack(pady=10)
+        self.selected_ps = None
+    
+    def on_select(self):
+        self.selected_ps = self.ps_var.get()
+        self.destroy()
+
+
+root_prompt = tk.Tk()
+root_prompt.withdraw()  # Hide the main window
+selector = PSSelector(root_prompt, all_dirs)
+root_prompt.wait_window(selector)
+PS = selector.selected_ps
+root_prompt.destroy()
+
+if not PS or PS not in all_dirs:
+    print("Invalid problem set selection.")
+    sys.exit(1)
+
+#############################################
 # Configuration
 #############################################
-PS = 'ps6'
-SOURCE_FILE = PS + "/source.txt"
-SCENARIO_FILE = PS + "/scenarios-ps6.txt"
-FIGURE_DIR = PS + "/images-ps6/figures"
-TABLE_DIR = PS + "/images-ps6/tables"
+SOURCE_FILE = os.path.join(PS, "source.txt")
+SCENARIO_FILE = os.path.join(PS, "scenarios.txt")
+FIGURE_DIR = os.path.join(PS, "images", "figures")
+TABLE_DIR = os.path.join(PS, "images", "tables")
 SESSION_FILE = "session.json"
 LEFT_AD_IMAGE = "assets/left_ad.png"
 RIGHT_AD_IMAGE = "assets/right_ad.png"
@@ -30,16 +78,24 @@ if os.path.exists(SCENARIO_FILE):
         current_scenario_text = []
 
         for line in lines:
-            scenario_match = re.match(r"\*\*\*Scenario\s+(\d+-\d+)\*\*\*", line, re.IGNORECASE)
+            # Modified regex to also capture any trailing text after the scenario title
+            scenario_match = re.match(r"\*\*\*Scenario\s+(\d+-\d+)\*\*\*(.*)", line, re.IGNORECASE)
             if scenario_match:
+                # If we were processing another scenario, save it first
                 if current_scenario_key:
                     scenario_dict[current_scenario_key] = "\n".join(current_scenario_text).strip()
+
+                # Start a new scenario
                 current_scenario_key = scenario_match.group(1)
                 current_scenario_text = []
+                trailing_text = scenario_match.group(2).strip()
+                if trailing_text:
+                    current_scenario_text.append(trailing_text)
             else:
                 if current_scenario_key:
                     current_scenario_text.append(line)
 
+        # Save the last scenario if there is one
         if current_scenario_key:
             scenario_dict[current_scenario_key] = "\n".join(current_scenario_text).strip()
 else:
@@ -69,7 +125,7 @@ for line in lines:
         correct_answer = ans_match.group(1).lower()
         if current_question and current_choices:
             questions.append({
-                "question": current_question,
+                "question": current_question.strip(),
                 "choices": current_choices,
                 "answer": correct_answer
             })
@@ -95,10 +151,10 @@ def identify_question_type(question_text):
     fig_match = re.search(r"Refer to Figure\s+(\d+-\d+)", question_text, re.IGNORECASE)
     if fig_match:
         return ("figure", fig_match.group(1))
-    table_match = re.search(r"Refer to Table\s+(\d+-\d+)\.", question_text, re.IGNORECASE)
+    table_match = re.search(r"Refer to Table\s+(\d+-\d+)", question_text, re.IGNORECASE)
     if table_match:
         return ("table", table_match.group(1))
-    scenario_match = re.search(r"Refer to Scenario\s+(\d+-\d+)\.", question_text, re.IGNORECASE)
+    scenario_match = re.search(r"Refer to Scenario\s+(\d+-\d+)", question_text, re.IGNORECASE)
     if scenario_match:
         return ("scenario", scenario_match.group(1))
     return ("normal", None)
@@ -139,6 +195,8 @@ def save_session(index, finished_count, correctness):
 #############################################
 # Helper to load and tile ad images
 #############################################
+from PIL import Image, ImageTk
+
 def load_ad_image(path):
     if os.path.exists(path):
         img = Image.open(path)
@@ -225,8 +283,8 @@ class QuizApp:
         # Inner frame for centering the container
         self.inner_frame = tk.Frame(self.content_frame, bd=2, relief='solid')
         self.inner_frame.pack(fill=tk.X)
-        self.inner_frame.pack_propagate(False)  # Turn off propagation
-        self.inner_frame.config(height=1000)    # Now height request will be honored
+        self.inner_frame.pack_propagate(False)
+        self.inner_frame.config(height=1000)
 
         self.scrollbar = tk.Scrollbar(self.inner_frame, orient="vertical", command=self.content_canvas.yview)
         self.scrollbar.pack(side=tk.RIGHT, fill=tk.Y)
@@ -286,7 +344,6 @@ class QuizApp:
         self.restore_correctness()
 
     def restore_correctness(self):
-        # If correctness was loaded, update scoreboard colors
         for i, lbl in enumerate(self.question_status):
             if i in self.correctness:
                 if self.correctness[i]:
@@ -295,7 +352,6 @@ class QuizApp:
                     lbl.config(bg="red")
 
     def on_canvas_configure(self, event):
-        # Ensure content frame width matches canvas width
         self.content_canvas.itemconfig(self.content_window, width=event.width)
 
     def exit_fullscreen(self, event=None):
@@ -406,7 +462,6 @@ class QuizApp:
         for i in range(start, end):
             self.question_status[i].pack(side=tk.LEFT, padx=5)
 
-        # Update scoreboard with correctness info
         for i, lbl in enumerate(self.question_status):
             if i in self.correctness:
                 if self.correctness[i]:
@@ -451,7 +506,7 @@ class QuizApp:
     def show_score(self):
         messagebox.showinfo("Quiz Complete",
                             f"You answered {self.score} out of {len(self.questions)} questions correctly.\n"
-                            f"You finished {self.finished_count} questions.")
+                            f"You finished {self.finished_count} questions in {PS}.")
         self.save_current_data()
         self.master.destroy()
 

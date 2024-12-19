@@ -1,0 +1,1638 @@
+    Welfare economics is the study of how 
+a. the allocation of resources affects economic well-being.
+b.a price ceiling compares to a price floor.
+c. the government helps poor people.
+d. a consumer’s optimal choice affects her demand curve.
+ANS:	A	
+
+    Which of the *Ten Principles of Economics* does welfare economics explain more fully?
+a. The cost of something is what you give up to get it.Rational people think at the margin.
+c. Markets are usually a good way to organize economic activity.
+d. People respond to incentives.
+ANS:	C	
+
+    A result of welfare economics is that the equilibrium price of a product is considered to be the best price because it
+a. maximizes both the total revenue for firms and the quantity supplied of the product.
+b.maximizes the combined welfare of buyers and sellers.
+c. minimizes costs and maximizes output.
+d. minimizes the level of welfare payments.
+ANS:	B	
+
+    Welfare economics explains which of the following in the market for DVDs?
+a. The government sets the price of DVDs; firms respond to the price by producing a specific level of output.
+b.The government sets the quantity of DVDs; firms respond to the quantity by charging a specific price.
+c. The market equilibrium price for DVDs maximizes the total welfare to DVD buyers and sellers.
+d. The market equilibrium price for DVDs maximizes consumer welfare but minimizes producer welfare.
+ANS:	C	
+
+    The maximum price that a buyer will pay for a good is called the 
+a. cost.
+b.willingness to pay.
+c. equity.
+d. efficiency.
+ANS:	B	
+
+    Suppose Larry, Moe, and Curly are bidding in an auction for a mint-condition video of Charlie Chaplin's first movie. Each has in mind a maximum amount that he will bid. This maximum is called
+a. a resistance price.
+b.willingness to pay.
+c. consumer surplus.
+d. producer surplus.
+ANS:	B	
+
+    Willingness to pay 
+a. measures the value that a buyer places on a good.
+b.is the amount a seller actually receives for a good minus the minimum amount the seller is willing to accept.
+c. is the maximum amount a buyer is willing to pay minus the minimum amount a seller is willing to accept.
+d. is the amount a buyer is willing to pay for a good minus the amount the buyer actually pays for it.
+ANS:	A	
+
+    A demand curve reflects each of the following *except* the
+a. willingness to pay of all buyers in the market.
+b.value each buyer in the market places on the good.
+c. highest price buyers are willing to pay for each quantity.
+d. ability of buyers to obtain the quantity they desire.
+ANS:	D	
+
+    Consumer surplus is
+a. the amount a buyer is willing to pay for a good minus the amount the buyer actually pays for it.
+b.the amount a buyer is willing to pay for a good minus the cost of producing the good.
+c. the amount by which the quantity supplied of a good exceeds the quantity demanded of the good.
+d. a buyer's willingness to pay for a good plus the price of the good.
+ANS:	A	
+
+    On a graph, the area below a demand curve and above the price measures
+a. producer surplus.
+b.consumer surplus.
+c. deadweight loss.
+d. willingness to pay.
+ANS:	B	
+
+    In a market, the marginal buyer is the buyer
+a. whose willingness to pay is higher than that of all other buyers and potential buyers.
+b.whose willingness to pay is lower than that of all other buyers and potential buyers.
+c. who is willing to buy exactly one unit of the good.
+d. who would be the first to leave the market if the price were any higher.
+ANS:	D	
+
+    **Refer to Table 7-1**. If the price of the product is $15, then who would be willing to purchase the product?
+a. Lori
+b.Lori and Audrey
+c. Lori, Audrey, and Zach
+d. Lori, Audrey, Zach, and Calvin
+ANS:	C	
+
+    **Refer to Table 7-1**. If the price of the product is $22, then who would be willing to purchase the product?
+a. Lori
+b.Lori and Audrey
+c. Lori, Audrey, and Zach
+d. Lori, Audrey, Zach, and Calvin
+ANS:	B	
+
+    **Refer to Table 7-1**. If the price of the product is $51, then who would be willing to purchase the product?
+a. Lori
+b.Lori and Audrey
+c. Lori, Audrey, and Zach
+d. no one
+ANS:	D	
+
+    **Refer to Table 7-1**. If the price of the product is $18, then the total consumer surplus is
+a. $38.
+b.$42.
+c. $46.
+d. $72.
+ANS:	C	
+
+    **Refer to Table 7-1**. If price of the product is $30, then the total consumer surplus is
+a. $-10.
+b.$-6.
+c. $20.
+d. $30.
+ANS:	C	
+
+    **Refer to Table 7-3**  If the market price for the good is $20, who will purchase the good?
+a. Ming-la only
+b.Carlos and Quilana only
+c. Quilana and Wilbur only
+d. Quilana, Wilbur, and Ming-la only
+ANS:	D	
+
+    **Refer to Table 7-3**  If there is only one unit of the good and if the buyers bid against each other for the right to purchase it, then the good will sell for
+a. $15 or slightly less.
+b.$25 or slightly more.
+c. $35 or slightly more.
+d. $45 or slightly less.
+ANS:	C	
+
+    **Refer to Table 7-3**  If there is only one unit of the good and if the buyers bid against each other for the right to purchase it, then the consumer surplus will be
+a. $0 or slightly more.
+b.$10 or slightly less.
+c. $30 or slightly more.
+d. $45 or slightly less.
+ANS:	B	
+
+    **Refer to Table 7-3**  If the price is $20, then consumer surplus in the market is 
+a. $20, and Wilbur and Ming-la purchase the good.
+b.$45, and Carlos and Quilana purchase the good.
+c. $45, and Quilana, Wilbur, and Ming-la purchase the good.
+d. $55, and Carlos, Wilbur, and Ming-la purchase the good.
+ANS:	C	
+
+    **Refer to Table 7-3**  Who experiences the largest *loss* of consumer surplus when the price of the good increases from $20 to $22?
+a. Quilana
+b.Wilbur
+c. Ming-la
+d. All three buyers experience the same loss of consumer surplus.
+ANS:	D	
+
+    **Refer to Table 7-4**  If you have a ticket that you sell to the group in an auction, what will be the selling price?
+a. $21
+b.$26
+c. $51
+d. $61
+ANS:	C	
+
+    **Refer to Table 7-4**  If you have a ticket that you sell to the group in an auction, who will buy the ticket?
+a. Dan
+b.David
+c. Ken
+d. Lisa
+ANS:	D	
+
+    **Refer to Table 7-4**  If tickets sell for $20 each, then what is the total consumer surplus in the market?
+a. $5
+b.$30
+c. $40
+d. $75
+ANS:	D	
+
+    **Refer to Table 7-4**  If tickets sell for $25 each, then what is the total consumer surplus in the market?
+a. $25
+b.$35
+c. $60
+d. $110
+ANS:	C	
+
+    **Refer to Table 7-4**  If you have two (essentially) identical tickets that you sell to the group in an auction, what will be the selling price for each ticket?
+a. $21
+b.$26
+c. $51
+d. $61
+ANS:	B	
+
+    **Refer to Table 7-5** If the market price of an orange is $1.20, then the market quantity of oranges demanded per day is
+a. 1\.
+b.2\.
+c. 3\.
+d. 4\.
+ANS:	C	
+
+    **Refer to Table 7-5** If the market price of an orange is $0.70, then the market quantity of oranges demanded per day is
+a. 5\.
+b.6\.
+c. 7\.
+d. 9\.
+ANS:	C	
+
+    **Refer to Table 7-5** The market quantity of oranges demanded per day is exactly 5 if the price of an orange, *P*, satisfies
+a. $1.00 < *P* < $1.50.
+b.$0.80 < *P* < $1.50.
+c. $0.80 < *P* < $1.00.
+d. $0.75 < *P* < $0.80.
+ANS:	D	
+
+    **Refer to Table 7-5** If the market price of an orange is $1.20, then consumer surplus amounts to
+a. $0.70.
+b.$1.10.
+c. $1.40.
+d. $5.00.
+ANS:	C	
+
+    **Refer to Table 7-5** If the market price of an orange is $0.40, then
+a. 6 oranges are demanded per day, and consumer surplus amounts to $4.45.
+b.6 oranges are demanded per day, and consumer surplus amounts to $5.10.
+c. 7 oranges are demanded per day, and consumer surplus amounts to $5.35.
+d. 7 oranges are demanded per day, and consumer surplus amounts to $5.50.
+ANS:	D	
+
+    **Refer to Table 7-5** If the market price of an orange increases from $0.60 to $1.05, then consumer surplus 
+a. increases by $2.90.
+b.decreases by $2.25.
+c. decreases by $2.70.
+d. decreases by $3.85.
+ANS:	B	
+
+    **Refer to Table 7-5** If the market price of an orange increases from $0.70 to $1.40, then consumer surplus 
+a. increases by $2.50.
+b.decreases by $0.80.
+c. decreases by $2.60.
+d. decreases by $3.40.
+ANS:	C	
+
+    **Refer to Table 7-5** Who experiences the largest *loss* of consumer surplus when the price of an orange increases from $0.70 to $1.40?
+a. Allison
+b.Bob
+c. Charisse
+d. All three individuals experience the same loss of consumer surplus.
+ANS:	A	
+
+    **Refer to Table 7-5** Who experiences the largest *gain* in consumer surplus when the price of an orange decreases from $1.05 to $0.75?
+a. Allison
+b.Bob
+c. Charisse
+d. Allison and Bob experience the same gain in consumer surplus, and Charisse’s gain is zero.
+ANS:	D	
+
+    **Refer to Table 7-5** Which of the following statements is correct?
+a. Neither Bob’s consumer surplus nor Charisse’s consumer surplus can exceed Allison’s consumer surplus, for any price of an orange.
+b.All three individuals will buy at least one orange only if the price of an orange is less than $0.25.
+c. If the price of an orange is $0.60, then consumer surplus is $4.90.
+d. All of the above are correct.
+ANS:	A	
+
+    **Refer to Table 7-6**  You have an extra ticket to the Midwest Regional Sweet 16 game in the men’s NCAA basketball tournament.  The table shows the willingness to pay of the four potential buyers in the market for a ticket to the game.  You hold an auction to sell the ticket.  Who makes the winning bid, and what does he offer to pay for the ticket?
+a. Michael; $501
+b.Michael; more than $400 but less than or equal to $500
+c. Earvin; $400
+d. Earvin; more than $350 but less than or equal to $400
+ANS:	B	
+
+**Refer to Table 7-6**  You have an extra ticket to the Midwest Regional Sweet 16 game in the men’s NCAA basketball tournament.  The table shows the willingness to pay of the four potential buyers in the market for a ticket to the game.  You hold an auction to sell the ticket.  Michael bids $410 for the ticket, and you sell him the ticket.  What is his consumer surplus?
+a. $410
+b.$90
+c. $10
+d. $0
+ANS:	B	
+
+    **Refer to Table 7-6**  You have two essentially identical extra tickets to the Midwest Regional Sweet 16 game in the men’s NCAA basketball tournament.  The table shows the willingness to pay of the four potential buyers in the market for a ticket to the game.  You hold an auction to sell the two tickets.  Who makes the winning bids, and what do they offer to pay for the tickets?
+a. Michael and Earvin; more than $350 but less than or equal to $400
+b.Michael and Earvin; more than $400 but less than or equal to $500
+c. Earvin and Larry; more than $300 but less than or equal to $350
+d. Larry and Charles; less than $300
+ANS:	A	
+
+    **Refer to Table 7-6**  You have two essentially identical extra tickets to the Midwest Regional Sweet 16 game in the men’s NCAA basketball tournament.  The table shows the willingness to pay of the four potential buyers in the market for a ticket to the game.  You hold an auction to sell the two tickets.  Michael and Earvin each offer to pay $360 for a ticket, and you sell them the two tickets.  What is the total consumer surplus in the market?
+a. $720
+b.$180
+c. $140
+d. $40
+ANS:	B	
+
+
+
+
+
+
+
+
+
+    **Refer to Table 7-6**  You have four essentially identical extra tickets to the Midwest Regional Sweet 16 game in the men’s NCAA basketball tournament.  The table shows the willingness to pay of the four potential buyers in the market for a ticket to the game.  You offer to sell the tickets for $400.  How many tickets do you sell, and what is the total consumer surplus in the market?
+a. one ticket; $100
+b.two tickets; $100
+c. two tickets; $0
+d. three tickets; $0
+ANS:	B	
+
+**Refer to Table 7-6**  You are selling extra tickets to the Midwest Regional Sweet 16 game in the men’s NCAA basketball tournament.  The table shows the willingness to pay of the four potential buyers in the market for a ticket to the game.  Which of the following graphs represents the market demand curve?
+a. ![](Aspose.Words.58d32fd9-cf71-41b8-8623-0d7ede32c326.001.png)|c. |![](Aspose.Words.58d32fd9-cf71-41b8-8623-0d7ede32c326.002.png)|
+| :- | :- | :- | :- |
+|b.|![](Aspose.Words.58d32fd9-cf71-41b8-8623-0d7ede32c326.003.png)|d.|![](Aspose.Words.58d32fd9-cf71-41b8-8623-0d7ede32c326.004.png)
+ANS:	A	
+
+**Refer to Table 7-6**  You have four essentially identical extra tickets to the Midwest Regional Sweet 16 game in the men’s NCAA basketball tournament.  The table shows the willingness to pay of the four potential buyers in the market for a ticket to the game.  You offer to sell the tickets for $325.  How many tickets do you sell, and what is the total consumer surplus in the market?
+a. one ticket; $175
+b.two tickets; $225
+c. three tickets; $225
+d. three tickets; $275
+ANS:	D	
+
+A drought in California destroys many red grapes.  As a result of the drought, the consumer surplus in the market for red grapes
+a. increases, and the consumer surplus in the market for red wine increases.
+b.increases, and the consumer surplus in the market for red wine decreases.
+c. decreases, and the consumer surplus in the market for red wine increases.
+d. decreases, and the consumer surplus in the market for red wine decreases.
+ANS:	D	
+
+If a consumer is willing and able to pay $20 for a particular good and if he pays $16 for the good, then for that consumer, consumer surplus amounts to
+a. $4.
+b.$16.
+c. $20.
+d. $36.
+ANS:	A	
+
+    Kelly is willing to pay $68 for a pair of shoes for a wedding. She finds a pair at her favorite outlet shoe store for $58. Kelly's consumer surplus is
+a. $10.
+b.$28.
+c. $58.
+d. $68.
+ANS:	A	
+
+    Suppose Lauren, Leslie and Lydia all purchase bulletin boards for their rooms for $15 each. Lauren's willingness to pay was $35, Leslie's willingness to pay was $25, and Lydia's willingness to pay was $30. Total consumer surplus for these three would be
+a. $15.
+b.$30.
+c. $45.
+d. $90.
+ANS:	C	
+
+    Sarah buys a new MP3 player for $135. She receives consumer surplus of $25 on her purchase if her willingness to pay is
+a. $25.
+b.$110.
+c. $135.
+d. $160.
+ANS:	D	
+
+
+Abraham drinks Mountain Dew. He can buy as many cans of Mountain Dew as he wishes at a price of $0.55 per can. On a particular day, he is willing to pay $0.95 for the first can, $0.80 for the second can, $0.60 for the third can, and $0.40 for the fourth can. Assume Abraham is rational in deciding how many cans to buy. His consumer surplus is
+a. $0.50.
+b.$0.60.
+c. $0.70.
+d. $1.00.
+ANS:	C	
+
+
+
+
+
+Henry is willing to pay 45 cents, and Janine is willing to pay 55 cents, for 1 pound of bananas.  When the price of bananas falls from 50 cents a pound to 40 cents a pound,
+a. Henry experiences an increase in consumer surplus, but Janine does not.
+b.Janine experiences an increase in consumer surplus, but Henry does not.
+c. both Janine and Henry experience an increase in consumer surplus.
+d. neither Janine nor Henry experiences an increase in consumer surplus.
+ANS:	C	
+
+Dawn’s bridal boutique is having a sale on evening dresses.  The increase in consumer surplus comes from the benefit of the lower prices to 
+a. only existing customers who now get lower prices on the gowns they were already planning to purchase.
+b.only new customers who enter the market because of the lower prices.
+c. both existing customers who now get lower prices on the gowns they were already planning to purchase and new customers who enter the market because of the lower prices.
+d. Consumer surplus does not increase; it decreases.
+ANS:	C	
+
+Denise values a stainless steel dishwasher for her new house at $500. The actual price of the dishwasher is $650. Denise
+a. buys the dishwasher, and on her purchase she experiences a consumer surplus of $150.
+b.buys the dishwasher, and on her purchase she experiences a consumer surplus of $-150.
+c. does not buy the dishwasher, and on her purchase she experiences a consumer surplus of $150.
+d. does not buy the dishwasher, and on her purchase she experiences a consumer surplus of $0.
+ANS:	D	
+
+Suppose there is an early freeze in California that reduces the size of the lemon crop. What happens to consumer surplus in the market for lemons?
+a. Consumer surplus increases.
+b.Consumer surplus decreases.
+c. Consumer surplus is not affected by this change in market forces.
+d. We would have to know whether the demand for lemons is elastic or inelastic to make this determination.
+ANS:	B	
+
+Suppose the market demand curve for a good passes through the point (quantity demanded = 100, price = $25). If there are five buyers in the market, then
+a. the marginal buyer's willingness to pay for the 100<sup>th</sup> unit of the good is $25.
+b.the sum of the five buyers' willingness to pay for the 100<sup>th</sup> unit of the good is $25.
+c. the average of the five buyers' willingness to pay for the 100<sup>th</sup> unit of the good is $25.
+d. all of the five buyers are willing to pay at least $25 for the 100<sup>th</sup> unit of the good.
+ANS:	A	
+
+All else equal, what happens to consumer surplus if the price of a good increases?
+a. Consumer surplus increases.
+b.Consumer surplus decreases.
+c. Consumer surplus is unchanged.
+d. Consumer surplus may increase, decrease, or remain unchanged.
+ANS:	B	
+
+
+
+
+All else equal, what happens to consumer surplus if the price of a good decreases?
+a. Consumer surplus increases.
+b.Consumer surplus decreases.
+c. Consumer surplus is unchanged.
+d. Consumer surplus may increase, decrease, or remain unchanged.
+ANS:	A	
+
+Which of the following will cause an increase in consumer surplus?
+a. an increase in the production cost of the good
+b.a technological improvement in the production of the good
+c. a decrease in the number of sellers of the good
+d. the imposition of a binding price floor in the market
+ANS:	B	
+
+If the price of oak lumber increases, what happens to consumer surplus in the market for oak cabinets?
+a. Consumer surplus increases.
+b.Consumer surplus decreases.
+c. Consumer surplus will not change consumer surplus; only producer surplus changes.
+d. Consumer surplus depends on what event led to the increase in the price of oak lumber.
+ANS:	B	
+
+Suppose televisions are a normal good and buyers of televisions experience a decrease in income. As a result, consumer surplus in the television market
+a. decreases.
+b.is unchanged.
+c. increases.
+d. may increase, decrease, or remain unchanged.
+ANS:	D	
+
+Motor oil and gasoline are complements. If the price of motor oil increases, consumer surplus in the gasoline market
+a. decreases.
+b.is unchanged.
+c. increases.
+d. may increase, decrease, or remain unchanged.
+ANS:	D	
+
+Dallas buys strawberries, and he would be willing to pay more than he now pays. Suppose that Dallas has a change in his tastes such that he values strawberries more than before. If the market price is the same as before, then
+a. Dallas's consumer surplus would be unaffected.
+b.Dallas's consumer surplus would increase.
+c. Dallas's consumer surplus would decrease.
+d. Dallas would be wise to buy fewer strawberries than before.
+ANS:	B	
+
+    **Refer to Figure 7-2**. When the price is P1, consumer surplus is
+a. a. 
+b.A+B.
+c. A+B+c. 
+d. A+B+D.
+ANS:	C	
+
+**Refer to Figure 7-2**. When the price is P2, consumer surplus is
+a. a. 
+b.B.
+c. A+B.
+d. A+B+c. 
+ANS:	A	
+
+    **Refer to Figure 7-2**. When the price rises from P1 to P2, consumer surplus
+a. increases by an amount equal to a. 
+b.decreases by an amount equal to B+c. 
+c. increases by an amount equal to B+c. 
+d. decreases by an amount equal to c. 
+ANS:	B	
+
+    **Refer to Figure 7-2**. Area C represents the 
+a. decrease in consumer surplus that results from a downward-sloping demand curve.
+b.consumer surplus to new consumers who enter the market when the price falls from P2 to P1.
+c. increase in producer surplus when quantity sold increases from Q2 to Q1.
+d. decrease in consumer surplus to each consumer in the market when the price increases from P1 to P2.
+ANS:	B	
+
+    **Refer to Figure 7-2**. When the price rises from P1 to P2, which of the following statements is *not* true?
+a. The buyers who still buy the good are worse off because they now pay more.
+b.Some buyers leave the market because they are not willing to buy the good at the higher price.
+c. Buyers place a higher value on the good after the price increase.
+d. Consumer surplus in the market falls.
+ANS:	C	
+
+    **Refer to Figure 7-3**. Which area represents consumer surplus at a price of P1?
+a. ABD
+b.ACG
+c. BCDF
+d. DFG
+ANS:	A	
+
+    **Refer to Figure 7-3**. Which area represents consumer surplus at a price of P2?
+a. ABD
+b.ACG
+c. BCDF
+d. DFG
+ANS:	B	
+
+    **Refer to Figure 7-3**. Which area represents the increase in consumer surplus when the price falls from P1 to P2?
+a. ABD
+b.ACG
+c. DFG
+d. BCGD
+ANS:	D	
+
+    **Refer to Figure 7-3**. When the price falls from P1 to P2, which area represents the increase in consumer surplus to existing buyers?
+a. ABD
+b.ACG
+c. BCFD
+d. DFG
+ANS:	C	
+
+    **Refer to Figure 7-3**. When the price falls from P1 to P2, which area represents the increase in consumer surplus to new buyers entering the market?
+a. ABD
+b.ACG
+c. BCDF
+d. DFG
+ANS:	D	
+
+    **Refer to Figure 7-4**. If the price of the good is $6, then consumer surplus is
+a. $16.
+b.$24.
+c. $30.
+d. $36.
+ANS:	D	
+
+    **Refer to Figure 7-4**. If the price of the good is $12, then consumer surplus is
+a. $9.
+b.$11.
+c. $13.
+d. $16.
+ANS:	D	
+
+    When the supply of a good increases and the demand for the good remains unchanged, consumer surplus
+a. decreases.
+b.is unchanged.
+c. increases.
+d. may increase, decrease, or remain unchanged.
+ANS:	C	
+
+    What happens to consumer surplus in the iPod market if iPods are normal goods and buyers of iPods experience an increase in income?
+a. Consumer surplus decreases.
+b.Consumer surplus remains unchanged.
+c. Consumer surplus increases.
+d. Consumer surplus may increase, decrease, or remain unchanged.
+ANS:	D	PTS:	1	DIF:	3	REF:	7-1
+
+As a result of a decrease in price,
+a. new buyers enter the market, increasing consumer surplus.
+b.new buyers enter the market, decreasing consumer surplus.
+c. existing buyers exit the market, increasing consumer surplus.
+d. existing buyers exit the market, decreasing consumer surplus.
+ANS:	A	
+
+    A seller’s opportunity cost measures the 
+a. value of everything she must give up to produce a good.
+b.amount she is paid for a good minus her cost of providing it.
+c. consumer surplus.
+d. out of pocket expenses to produce a good but not the value of her time.
+ANS:	A	
+
+    Cost is a measure of the
+a. seller's willingness to sell.
+b.seller's producer surplus.
+c. producer shortage.
+d. seller's willingness to buy.
+ANS:	A	
+
+    A supply curve can be used to measure producer surplus because it reflects
+a. the actions of sellers.
+b.quantity supplied.
+c. sellers' costs.
+d. the amount that will be purchased by consumers in the market.
+ANS:	C	
+
+    Producer surplus is 
+a. measured using the demand curve for a good.
+b.always a negative number for sellers in a competitive market.
+c. the amount a seller is paid minus the cost of production.
+d. the opportunity cost of production minus the cost of producing goods that go unsold.
+ANS:	C	
+
+    Producer surplus measures the 
+a. benefits to sellers of participating in a market.
+b.costs to sellers of participating in a market.
+c. price that buyers are willing to pay for sellers’ output of a good or service.
+d. benefit to sellers of producing a greater quantity of a good or service than buyers demand.
+ANS:	A	
+
+    A seller’s willingness to sell is 
+a. measured by the seller’s cost of production.
+b.related to her supply curve, just as a buyer’s willingness to buy is related to his demand curve.
+c. less than the price received if producer surplus is a positive number.
+d. All of the above are correct.
+ANS:	D	
+
+    Caroline sharpens knives in her spare time for extra income. Buyers of her service are willing to pay $2.95 per knife for as many knives as Caroline is willing to sharpen. On a particular day, she is willing to sharpen the first knife for $2.00, the second knife for $2.25, the third knife for $2.75, and the fourth knife for $3.50.  Assume Caroline is rational in deciding how many knives to sharpen. Her producer surplus is
+a. $0.95.
+b.$1.15.
+c. $1.30.
+d. $1.85.
+ANS:	D	
+
+    Anita sharpens knives in her spare time for extra income. Buyers of her service are willing to pay $3.50 per knife for as many knives as Anita is willing to sharpen. On a particular day, she is willing to sharpen the first knife for $2.00, the second knife for $2.50, the third knife for $3.00, and the fourth knife for $3.50. Assume Anita is rational in deciding how many knives to sharpen. Her producer surplus is
+a. $3.50.
+b.$3.00.
+c. $2.00.
+d. $0.50.
+ANS:	B	
+
+    Ivana produces cookies. Her production cost is $6 per dozen. She sells the cookies for $8 per dozen. Her producer surplus per dozen cookies is
+a. $2.
+b.$6.
+c. $8.
+d. $14.
+ANS:	A	
+
+    At Nick's Bakery, the cost to make homemade chocolate cake is $3 per cake. As a result of selling three cakes, Nick experiences a producer surplus in the amount of $19.50. Nick must be selling his cakes for
+a. $6.50 each.
+b.$7.50 each.
+c. $9.50 each.
+d. $10.50 each.
+ANS:	C	
+
+    Kristi and Rebecca sell lemonade on the corner. It costs them 9 cents to make each cup. On a certain day, they sell 40 cups, and their producer surplus for that day amounts to $12.40. Kristi and Rebecca sold each cup for
+a. 36 cents.
+b.40 cents.
+c. 45 cents.
+d. 52 cents.
+ANS:	B	
+
+    **Refer to Table 7-9**  You wish to purchase 10 piano lessons, so you take bids from each of the sellers.  You will not accept a bid below a seller’s cost because you are concerned that the seller will not provide all 10 lessons.  What bid will you accept?
+a. $351
+b.$251
+c. $249
+d. $199
+ANS:	C	
+
+    **Refer to Table 7-9**  You wish to purchase 10 piano lessons for yourself and for your brother, so you take bids from each of the sellers.  You will take lessons at the same time, so one teacher cannot provide lessons to both of you.  You must pay the same price for both sets of lessons, and you will not accept a bid below a seller’s cost because you are concerned that the seller will not provide all 10 lessons.  What bid will you accept?
+a. $351
+b.$349
+c. $201
+d. $199
+ANS:	B	
+
+
+    **Refer to Table 7-9**  The equilibrium market price for 10 piano lessons is $400.  What is the total producer surplus in the market?  
+a. $0
+b.$300
+c. $400
+d. $700
+ANS:	C	
+
+    **Refer to Table 7-9**  The equilibrium market price for 10 piano lessons is $300.  What is the total producer surplus in the market?  
+a. $50
+b.$150
+c. $1,050
+d. $1,500
+ANS:	B	
+
+    **Refer to Table 7-9**  You wish to purchase 10 piano lessons, so you take bids from each of the sellers.  The bids are required to be rounded to the nearest dollar.  You will not accept a bid below a seller’s cost because you are concerned that the seller will not provide all 10 lessons.  Your parents have given you $450 to spend on piano lessons.  You believe that the sellers with higher opportunity costs offer higher quality lessons.  You want the highest quality lessons that you can afford, but you can spend any remaining money on dinner with friends.   From whom will you take lessons, and how much money will you spend?
+a. Peter; $450
+b.Cindy; $450
+c. Greg; $401
+d. Cindy; $401
+ANS:	C	
+
+
+    **Refer to Table 7-10**  You want to hire a professional photographer to take pictures of your family.  The table shows the costs of the four potential sellers in the local photography market.  You take bids from the sellers.  Who offers the winning bid, and what does he offer to charge for the photography session?
+a. Steve; more than $400 but less than $450
+b.Steve; $399
+c. LeBron; more than $700
+d. LeBron; more than $600 but less than $700
+ANS:	A	
+
+
+**Refer to Table 7-10**  You and your best friend want to hire a professional photographer to take pictures of your two families.  The table shows the costs of the four potential sellers in the local photography market.  You and your friend take bids from the sellers.  Who offers the two winning bids, and what do they offer to charge for the photography sessions?
+a. LeBron and Kobe; more than $450 but less than $600
+b.Kevin and Steve; more than $450 but less than $600
+c. LeBron and Kobe; more than $700
+d. Kevin and Steve; less than $400
+ANS:	B	
+
+    **Refer to Table 7-10**  You want to hire a professional photographer to take pictures of your family.  The table shows the costs of the four potential sellers in the local photography market.  You hire Kevin for a price of $500.  What is his producer surplus?
+a. $500
+b.$150
+c. $100
+d. $50
+ANS:	D	
+
+
+**Refer to Table 7-10**  You and your best friend want to hire a professional photographer to take pictures of your two families.  The table shows the costs of the four potential sellers in the local photography market.  You and your friend agree to offer $500 for each session.  Who accepts the offer, and what is the total producer surplus in the market?
+a. LeBron and Kobe; $500
+b.Kevin and Steve; $500
+c. LeBron and Kobe; $300
+d. Kevin and Steve; $150
+ANS:	D	
+
+    **Refer to Figure 7-7**. If the price of the good is $9.50, then producer surplus is
+a. $2.50.
+b.$6.50.
+c. $8.00.
+d. $10.00.
+ANS:	D	
+
+    **Refer to Figure 7-7**. If the price of the good is $14, then producer surplus is
+a. $17.
+b.$22.
+c. $25.
+d. $28.
+ANS:	C	
+
+    **Refer to Figure 7-7**. If producer surplus is $14, then the price of the good is 
+a. $11.00.
+b.$12.00.
+c. $13.50.
+d. $14.75.
+ANS:	A	
+
+    **Refer to Figure 7-8**. Which area represents producer surplus when the price is P1?
+a. BCG
+b.ACH
+c. ABGD
+d. DGH
+ANS:	A	
+
+    **Refer to Figure 7-8.** Which area represents producer surplus when the price is P2?
+a. BCG
+b.ACH
+c. ABGD
+d. AHGB
+ANS:	B	
+
+    **Refer to Figure 7-8**. Which area represents the *increase* in producer surplus when the price rises from P1 to P2?
+a. BCG
+b.ACH
+c. ABGD
+d. AHGB
+ANS:	D	
+
+    **Refer to Figure 7-8**. When the price rises from P1 to P2, which area represents the increase in producer surplus to existing producers?
+a. BCG
+b.ACH
+c. DGH
+d. ABGD
+ANS:	D	
+
+    **Refer to Figure 7-8**. Which area represents the increase in producer surplus when the price rises from P1 to P2 due to new producers entering the market?
+a. BCG
+b.ACH
+c. DGH
+d. AHGB
+ANS:	C	
+
+    **Refer to Figure 7-9.**  If the supply curve is S, the demand curve is D, and the equilibrium price is $100, what is the producer surplus?
+a. $625
+b.$1,250
+c. $2,500
+d. $5,000
+ANS:	C	
+
+    **Refer to Figure 7-9.**  If the supply curve is S’, the demand curve is D, and the equilibrium price is $150, what is the producer surplus?
+a. $625
+b.$1,250
+c. $2,500
+d. $5,000
+ANS:	A	
+
+    **Refer to Figure 7-9.**  If the demand curve is D and the supply curve shifts from S’ to S, what is the *change* in producer surplus?
+a. Producer surplus increases by $625.
+b.Producer surplus increases by $1,875.
+c. Producer surplus decreases by $625.
+d. Producer surplus decreases by $1,875.
+ANS:	B	
+
+    **Refer to Figure 7-9.**  If the supply curve is S and the demand curve shifts from D to D’, what is the *change* in producer surplus?
+a. Producer surplus increases by $3,125.
+b.Producer surplus increases by $5,625.
+c. Producer surplus decreases by $3,125.
+d. Producer surplus decreases by $5,625.
+ANS:	A	
+
+
+    **Refer to Figure 7-9.**  If the supply curve is S and the demand curve shifts from D to D’, what is the increase in producer surplus to existing producers?
+a. $625
+b.$2,500
+c. $3,125
+d. $5,625
+ANS:	B	
+
+    **Refer to Figure 7-9.**  If the supply curve is S and the demand curve shifts from D to D’, what is the increase in producer surplus due to new producers entering the market?
+a. $625
+b.$2,500
+c. $3,125
+d. $5,625
+ANS:	A	
+
+    **Refer to Figure 7-12**. When the price is P2, producer surplus is
+a. a. 
+b.A+c. 
+c. A+B+c. 
+d. D+G.
+ANS:	C	
+
+    **Refer to Figure 7-12**. Suppose producer surplus is larger than C but smaller than A+B+c.   The price of the good must be
+a. lower than P1.
+b.P1.
+c. between P1 and P2.
+d. higher than P2.
+ANS:	C	
+
+    **Refer to Figure 7-12**. When the price is P1, producer surplus is
+a. a. 
+b.c. 
+c. A+B.
+d. C+D.
+ANS:	B	
+
+    **Refer to Figure 7-12**. When the price falls from P2 to P1, producer surplus
+a. decreases by an amount equal to c. 
+b.decreases by an amount equal to A+B.
+c. decreases by an amount equal to A+c. 
+d. increases by an amount equal to A+B.
+ANS:	B	
+
+    **Refer to Figure 7-12**. When the price rises from P1 to P2, what area represents the increase in producer surplus?
+a. A
+b.A+B
+c. A+B+C
+d. G
+ANS:	B	
+
+    **Refer to Figure 7-12**. When the price rises from P1 to P2, which area represents the increase in producer surplus to existing producers?
+a. A
+b.A+B
+c. A+B+C
+d. G
+ANS:	A	
+
+    **Refer to Figure 7-12**. When the price rises from P1 to P2, which area represents the increase in producer surplus due to new producers entering the market?
+a. A
+b.B
+c. A+B
+d. G
+ANS:	B	
+
+    **Refer to Figure 7-12**. Area A represents
+a. producer surplus to new producers entering the market as the result of an increase in price from P1 to P2.
+b.the increase in consumer surplus that results from an upward-sloping supply curve.
+c. the increase in total surplus when sellers are willing and able to increase supply from Q1 to Q2.
+d. the increase in producer surplus to those producers already in the market when the price increases from P1 to P2.
+ANS:	D	
+
+    **Refer to Figure 7-12.** Area B represents
+a. the combined profits of all producers when the price is P2.
+b.the increase in producer surplus to all producers as the result of an increase in the price from P1 to P2.
+c. producer surplus to new producers entering the market as the result of an increase in the price from P1 to P2.
+d. that portion of the increase in producer surplus that is offset by a loss in consumer surplus when the price increases from P1 to P2.
+ANS:	C	
+
+**Refer to Figure 7-12**. When the price falls from P2 to P1, which of the following would *not* be true?
+a. The sellers who still sell the good are worse off because they now receive less.
+b.Some sellers leave the market because they are not willing to sell the good at the lower price.
+c. The total cost of what is now sold by sellers is actually higher than it was before the decrease in the price.
+d. Producer surplus would fall by area A + B.
+ANS:	C	
+
+    The marginal seller is the seller who
+a. cannot compete with the other sellers in the market.
+b.would leave the market first if the price were any lower.
+c. can produce at the lowest cost.
+d. has the largest producer surplus.
+ANS:	B	
+
+    The marginal seller is the seller 
+a. for whom the marginal cost of producing one more unit of output is the lowest among all sellers, and the marginal buyer is the buyer for whom the marginal benefit of one more unit of the good is the highest among all buyers.
+b.who supplies the smallest quantity of the good among all sellers, and the marginal buyer is the buyer who demands the smallest quantity of the good among all buyers.
+c. who would leave the market first if the price were any lower, and the marginal buyer is the buyer who would leave the market first if the price were any higher.
+d. who has the largest producer surplus, and the marginal buyer is the buyer who has the largest consumer surplus.
+ANS:	C	
+
+    Suppose the demand for peanuts increases. What will happen to producer surplus in the market for peanuts?
+a. It increases.
+b.It decreases.
+c. It remains unchanged.
+d. It may increase, decrease, or remain unchanged.
+ANS:	A	PTS:	1	DIF:	2	REF:	7-2
+
+    Which of the following will cause an increase in producer surplus?
+a. the imposition of a binding price ceiling in the market
+b.buyers expect the price of the good to be lower next month
+c. the price of a substitute increases
+d. income increases and buyers consider the good to be inferior
+ANS:	C	
+
+    If the demand for leather decreases, producer surplus in the leather market
+a. increases.
+b.decreases.
+c. remains the same.
+d. may increase, decrease, or remain the same.
+ANS:	B	
+
+    The Surgeon General announces that eating chocolate increases tooth decay. As a result, the equilibrium price of chocolate
+a. increases, and producer surplus increases.
+b.increases, and producer surplus decreases.
+c. decreases, and producer surplus increases.
+d. decreases, and producer surplus decreases.
+ANS:	D	
+
+    Suppose consumer income increases. If grass seed is a normal good, the equilibrium price of grass seed will
+a. decrease, and producer surplus in the industry will decrease.
+b.increase, and producer surplus in the industry will increase.
+c. decrease, and producer surplus in the industry will increase.
+d. increase, and producer surplus in the industry will decrease.
+ANS:	B	
+
+    ABC Company incurs a cost of 50 cents to produce a dozen eggs, while XYZ Company incurs a cost of 70 cents to produce a dozen eggs.  Which of the following price increases would cause *both* companies to experience an increase in producer surplus?
+a. The price of a dozen eggs increases from 40 cents to 55 cents.
+b.The price of a dozen eggs increases from 55 cents to 70 cents.
+c. The price of a dozen eggs increases from 55 cents to 75 cents.
+d. All of these price increases would cause both companies to experience a loss in producer surplus.
+ANS:	C	
+
+Kristi and Rebecca sell lemonade on the corner. It costs them 7 cents to make each cup. On a certain day, they sell 40 cups. Their producer surplus for that day amounts to $19.20. Kristi & Rebecca sold each cup for
+a. 31 cents.
+b.38 cents.
+c. 45 cents.
+d. 55 cents.
+ANS:	D	
+
+Bill created a new software program he is willing to sell for $200. He sells his first copy and enjoys a producer surplus of $150. What is the price paid for the software?
+a. $50.
+b.$150.
+c. $200.
+d. $350.
+ANS:	D	
+
+Donald produces nails at a cost of $350 per ton. If he sells the nails for $500 per ton, his producer surplus is
+a. $150.
+b.$350.
+c. $500.
+d. $850.
+ANS:	A	
+
+    Suppose that the market price for pizzas increases.  The increase in producer surplus comes from the benefit of the higher prices to 
+a. only existing sellers who now receive higher prices on the pizzas they were already selling.
+b.only new sellers who enter the market because of the higher prices.
+c. both existing sellers who now receive higher prices on the pizzas they were already selling and new sellers who enter the market because of the higher prices.
+d. Producer surplus does not increase; it decreases.
+ANS:	C	
+
+**MARKET EFFICIENCY**
+
+Economists typically measure efficiency using 
+a. the price paid by buyers.
+b.the quantity supplied by sellers.
+c. total surplus.
+d. profits to firms.
+ANS:	C	
+
+Consumer surplus equals the 
+a. value to buyers minus the amount paid by buyers.
+b.value to buyers minus the cost to sellers.
+c. amount received by sellers minus the cost to sellers.
+d. amount received by sellers minus the amount paid by buyers.
+ANS:	A	
+
+    Producer surplus equals the 
+a. value to buyers minus the amount paid by buyers.
+b.value to buyers minus the cost to sellers.
+c. amount received by sellers minus the cost to sellers.
+d. amount received by sellers minus the amount paid by buyers.
+ANS:	C	
+
+    Total surplus
+a. can be used to measure a market’s efficiency.
+b.is the sum of consumer and producer surplus.
+c. is the to value to buyers minus the cost to sellers.
+d. All of the above are correct.
+ANS:	D	
+
+    Total surplus is
+a. the total cost to sellers of providing the good minus the total value of the good to buyers.
+b.the total value of the good to buyers minus the cost to sellers of providing the good.
+c. the difference between consumer surplus and sellers’ cost.
+d. always smaller than producer surplus.
+ANS:	B	
+
+    Total surplus is
+a. equal to producer surplus plus consumer surplus.
+b.equal to the total cost to sellers minus the total value to buyers.
+c. equal to consumers' willingness to pay plus producers’ cost.
+d. greater than the sum of consumer surplus plus producer surplus.
+ANS:	A	
+
+
+
+    We can say that the allocation of resources is efficient if
+a. producer surplus is maximized.
+b.consumer surplus is maximized.
+c. total surplus is maximized.
+d. sellers’ costs are minimized.
+ANS:	C	
+
+    Efficiency in a market is achieved when
+a. a social planner intervenes and sets the quantity of output after evaluating buyers' willingness to pay and sellers' costs.
+b.the sum of producer surplus and consumer surplus is maximized.
+c. all firms are producing the good at the same low cost per unit.
+d. no buyer is willing to pay more than the equilibrium price for any unit of the good.
+ANS:	B	
+
+    At the equilibrium price of a good, the good will be purchased by those buyers who
+a. value the good more than price.
+b.value the good less than price.
+c. have the money to buy the good.
+d. consider the good a necessity.
+ANS:	A	
+
+    Which of the following statements is *not* correct about a market in equilibrium?
+a. The price determines which buyers and which sellers participate in the market.
+b.Those buyers who value the good more than the price choose to buy the good.
+c. Those sellers whose costs are less than the price choose to produce and sell the good.
+d. Consumer surplus will be equal to producer surplus.
+ANS:	D	
+
+    Efficiency is attained when
+a. total surplus is maximized.
+b.producer surplus is maximized.
+c. all resources are being used.
+d. consumer surplus is maximized and producer surplus is minimized.
+ANS:	A	
+
+    If an allocation of resources is efficient, then
+a. consumer surplus is maximized.
+b.producer surplus is maximized.
+c. all potential gains from trade among buyers are sellers are being realized.
+d. the allocation achieves equality as well.
+ANS:	C	
+
+    **Refer to Table 7-11**. The equilibrium price is
+a. $10.00.
+b.$8.00.
+c. $6.00.
+d. $4.00.
+ANS:	D	
+
+    **Refer to Table 7-11**. At a price of $2.00, total surplus is
+a. larger than it would be at the equilibrium price.
+b.smaller than it would be at the equilibrium price.
+c. the same as it would be at the equilibrium price.
+d. There is insufficient information to make this determination.
+ANS:	B	
+
+    **Refer to Figure 7-14**.  Suppose the willingness to pay of the marginal buyer of the 3<sup>rd</sup> unit is $225.  Then total surplus is maximized if 
+a. 1 unit of the good is produced and sold.
+b.2 units of the good are produced and sold.
+c. 3 units of the good are produced and sold.
+d. 4 units of the good are produced and sold.
+ANS:	C	
+
+    **Refer to Figure 7-15.**  At the equilibrium price, consumer surplus is 
+a. $150.
+b.$200.
+c. $250.
+d. $350.
+ANS:	A	
+
+    **Refer to Figure 7-15.**  At the equilibrium price, producer surplus is 
+a. $80.
+b.$100.
+c. $120.
+d. $135.
+ANS:	B	
+
+    **Refer to Figure 7-15.**  At the equilibrium price, total surplus is 
+a. $150.
+b.$200.
+c. $250.
+d. $300.
+ANS:	C	
+
+    **Refer to Figure 7-16.**  Total surplus can be measured as the area 
+a. JNK.
+b.JNML.
+c. JRL.
+d. JNL.
+ANS:	D	
+
+    **Refer to Figure 7-16.**  For quantities less than M, the value to the marginal buyer is  
+a. greater than the cost to the marginal seller, so increasing the quantity increases total surplus.
+b.less than the cost to the marginal seller, so increasing the quantity increases total surplus.
+c. greater than the cost to the marginal seller, so decreasing the quantity increases total surplus.
+d. less than the cost to the marginal seller, so decreasing the quantity increases total surplus.
+ANS:	A	
+
+    **Refer to Figure 7-16.**  For quantities greater than M, the value to the marginal buyer is  
+a. greater than the cost to the marginal seller, so increasing the quantity increases total surplus.
+b.less than the cost to the marginal seller, so increasing the quantity increases total surplus.
+c. greater than the cost to the marginal seller, so decreasing the quantity increases total surplus.
+d. less than the cost to the marginal seller, so decreasing the quantity increases total surplus.
+ANS:	D	
+
+    **Refer to Figure 7-18**. At the equilibrium price, consumer surplus is
+a. $480.
+b.$640.
+c. $1,120.
+d. $1,280.
+ANS:	A	
+
+    **Refer to Figure 7-18**. If the price decreases from $22 to $16 due to a shift in the supply curve, consumer surplus increases by
+a. $120.
+b.$360.
+c. $480.
+d. $600.
+ANS:	B	
+
+    **Refer to Figure 7-18**. At the equilibrium price, producer surplus is
+a. $480.
+b.$640.
+c. $1,120.
+d. $1,280.
+ANS:	B	
+
+    **Refer to Figure 7-18**. At the equilibrium price, total surplus is
+a. $480.
+b.$640.
+c. $1,120.
+d. $1,280.
+ANS:	C	
+
+    **Refer to Figure 7-18**. Assume demand increases and as a result, equilibrium price increases to $22 and equilibrium quantity increases to 110. The increase in producer surplus due to new producers entering the market would be 
+a. $90.
+b.$210.
+c. $360.
+d. $480.
+ANS:	A	
+
+    **Refer to Figure 7-18**. Assume demand increases and as a result, equilibrium price increases to $22 and equilibrium quantity increases to 110. The increase in producer surplus to producers already in the market would be 
+a. $90.
+b.$210.
+c. $360.
+d. $480.
+ANS:	D	
+
+    **Refer to Figure 7-18.** Assume demand increases and as a result, equilibrium price increases to $22 and equilibrium quantity increases to 110. The increase in producer surplus would be 
+a. $210.
+b.$360.
+c. $480.
+d. $570.
+ANS:	D	
+
+    **Refer to Figure 7-18**. The efficient price is
+a. $22, and the efficient quantity is 40.
+b.$22, and the efficient quantity is 110.
+c. $16, and the efficient quantity is 80.
+d. $8, and the efficient quantity is 40.
+ANS:	C	
+
+    **Refer to Figure 7-18.** If 110 units of the good are being bought and sold, then
+a. the marginal cost to sellers is equal to the marginal value to buyers.
+b.the marginal value to buyers is greater than the marginal cost to sellers.
+c. the marginal cost to sellers is greater than the marginal value to buyers.
+d. producer surplus is greater than consumer surplus.
+ANS:	C	
+
+    **Refer to Figure 7-18**. If 40 units of the good are being bought and sold, then
+a. the marginal cost to sellers is equal to the marginal value to buyers.
+b.the marginal value to buyers is greater than the marginal cost to sellers.
+c. the marginal cost to sellers is greater than the marginal value to buyers.
+d. producer surplus would be greater than consumer surplus.
+ANS:	B	
+
+    **Refer to Figure 7-20.** At equilibrium, consumer surplus is measured by the area
+a. ACG.
+b.AFG.
+c. KBG.
+d. CFG.
+ANS:	B	
+
+    **Refer to Figure 7-20.** At equilibrium, consumer surplus is 
+a. $36.
+b.$72.
+c. $108.
+d. $144.
+ANS:	A	
+
+    **Refer to Figure 7-20**. At equilibrium, producer surplus is measured by the area
+a. ACG.
+b.AFG.
+c. KBG.
+d. CFG.
+ANS:	D	
+
+    **Refer to Figure 7-20**. At equilibrium, producer surplus is 
+a. $36.
+b.$72.
+c. $108.
+d. $144.
+ANS:	B	
+
+    **Refer to Figure 7-20**. At equilibrium, total surplus is measured by the area
+a. ACG.
+b.AFG.
+c. KBG.
+d. CFG.
+ANS:	A	
+
+    **Refer to Figure 7-20**. At equilibrium, total surplus is 
+a. $36.
+b.$72.
+c. $108.
+d. $144.
+ANS:	C	
+
+    **Refer to Figure 7-20**. The equilibrium allocation of resources is
+a. efficient because total surplus is maximized at the equilibrium.
+b.efficient because consumer surplus is maximized at the equilibrium.
+c. inefficient because consumer surplus is larger than producer surplus at the equilibrium.
+d. inefficient because total surplus is maximized when 10 units of output are produced and sold.
+ANS:	A	
+
+    **Refer to Figure 7-20**. If 4 units of the good are produced and sold, then
+a. the cost to sellers exceeds the value to buyers.
+b.producer surplus is maximized.
+c. total surplus is minimized.
+d. the allocation of resources is inefficient.
+ANS:	D	
+
+    **Refer to Figure 7-20**. If 10 units of the good are produced and sold, then
+a. the marginal cost to sellers exceeds the marginal value to buyers.
+b.producer surplus is maximized.
+c. total surplus is minimized.
+d. the marginal value to buyers exceeds the marginal cost to sellers.
+ANS:	A	
+
+    **Refer to Figure 7-20**. If 6 units of the good are produced and sold, then
+a. consumer surplus is maximized.
+b.producer surplus is maximized.
+c. the sum of consumer surplus and producer surplus is maximized.
+d. the marginal value to buyers exceeds the marginal cost to sellers.
+ANS:	C	
+
+    **Refer to Figure 7-20**. If 6 units of the good are produced and sold, then
+a. efficiency is achieved in this market.
+b.the marginal value to buyers equals the marginal cost to sellers.
+c. the sum of consumer surplus and producer surplus is maximized.
+d. All of the above are correct.
+ANS:	D	
+
+    Inefficiency exists in an economy when a good is
+a. not being consumed by buyers who value it most highly.
+b.not distributed fairly among buyers.
+c. not produced because buyers do not value it very highly.
+d. being produced with less than all available resources.
+ANS:	A	
+
+    The "invisible hand" refers to
+a. the marketplace guiding the self-interests of market participants into promoting general economic well-being.
+b.the fact that social planners sometimes have to intervene, even in perfectly competitive markets, to make those markets more efficient.
+c. the equality that results from market forces allocating the goods produced in the market.
+d. the automatic maximization of consumer surplus in free markets.
+ANS:	A	
+
+    Suppose that Firms A and B each produce high-resolution computer monitors, but Firm A can do so at a lower cost.  Cassie and David each want to purchase a high-resolution computer monitor, but David is willing to pay more than Cassie.  If Firm B produces a monitor that David buys, then the market outcome illustrates which of the following principles? (i)|Free markets allocate the supply of goods to the buyers who value them most highly, as measured by their willingness to pay. (ii)|Free markets allocate the demand for goods to the sellers who can produce them at the least cost.||||
+a. (i) only
+b. (ii) only
+c. both (i) and (ii)
+d. neither (i) nor (ii)
+ANS:	A	
+
+    Suppose that Firms A and B each produce high-resolution computer monitors, but Firm A can do so at a lower cost.  Cassie and David each want to purchase a high-resolution computer monitor, but David is willing to pay more than Cassie.  If Firm A produces a monitor that Cassie buys but David does not, then the market outcome illustrates which of the following principles? (i)|Free markets allocate the supply of goods to the buyers who value them most highly, as measured by their willingness to pay. (ii)|Free markets allocate the demand for goods to the sellers who can produce them at the least cost.||||
+a. (i) only
+b. (ii) only
+c. both (i) and (ii)
+d. neither (i) nor (ii)
+ANS:	B	
+
+Patterns of trade among nations are primarily determined by
+a. cultural considerations.
+b.political considerations.
+c. comparative advantage.
+d. differences in the income elasticity of demand among nations.
+ANS:	C
+
+The nation of Pineland forbids international trade.  In Pineland, you can buy 1 pound of fish for 2 pounds of pineapples.  In other countries, you can buy 1 pound of fish for 1.5 pounds of pineapples.  These facts indicate that
+a. Pineland has a comparative advantage, relative to other countries, in producing fish.
+b.other countries have a comparative advantage, relative to Pineland, in producing pineapples.
+c. the price of pineapples in Pineland exceeds the world price of pineapples.
+d. if Pineland were to allow trade, it would import fish.
+ANS:	D
+
+The nation of Falconia forbids international trade.  In Falconia, you can obtain a computer by trading 3 bicycles.  In other countries, you can obtain a computer by trading 5 bicycles.  These facts indicate that
+a. if Falconia were to allow trade, it would export computers.
+b.Falconia has an absolute advantage, relative to other countries, in producing computers.
+c. Falconia has a comparative advantage, relative to other countries, in producing bicycles.
+d. All of the above are correct.
+ANS:	A
+
+The principle of comparative advantage asserts that
+a. not all countries can benefit from trade with other countries.
+b.the world price of a good will prevail in all countries, regardless of whether those countries allow international trade in that good.
+c. countries can become better off by exporting goods, but they cannot become better off by importing goods.
+d. countries can become better off by specializing in what they do best.
+ANS:	D
+
+A tax on an imported good is called a
+a. quota. 
+b.tariff.
+c. supply tax.
+d. trade tax.
+ANS:	B
+
+The price of sugar that prevails in international markets is called the
+a. export price of sugar.
+b.import price of sugar.
+c. comparative-advantage price of sugar.
+d. world price of sugar.
+ANS:	D
+
+If a country allows trade and, for a certain good, the domestic price without trade is higher than the world price,
+a. the country will be an exporter of the good.
+b.the country will be an importer of the good.
+c. the country will be neither an exporter nor an importer of the good.
+d. Additional information is needed about demand to determine whether the country will be an exporter of the good, an importer of the good, or neither.
+ANS:	B
+
+    For any country, if the world price of zinc is higher than the domestic price of zinc without trade, that country should
+a. export zinc, since that country has a comparative advantage in zinc. 
+b.import zinc, since that country has a comparative advantage in zinc. 
+c. neither export nor import zinc, since that country cannot gain from trade.
+d. neither export nor import zinc, since that country already produces zinc at a low cost compared to other countries.
+ANS:	A	
+
+Assume, for the U.S., that the domestic price of pineapples without international trade is lower than the world price of pineapples. This suggests that, in the production of pineapples,
+a. the U.S. has a comparative advantage over other countries and the U.S. will export pineapples.
+b.the U.S. has a comparative advantage over other countries and the U.S. will import pineapples.
+c. other countries have a comparative advantage over the U.S. and the U.S. will export pineapples.
+d. other countries have a comparative advantage over the U.S. and the U.S. will import pineapples.
+ANS:	A
+
+Suppose Guatemala has an absolute advantage over other countries in producing sugar, but other countries have a comparative advantage over Guatemala in producing sugar. If trade in sugar is allowed, Guatemala
+a. will import sugar.
+b.will export sugar.
+c. will either export sugar or export sugar, but it is not clear from the given information.
+d. would have nothing to gain either from exporting or importing sugar.
+ANS:	A
+
+    **Refer to Figure 9-1**.  From the figure it is apparent that 
+a. Scotland will experience a shortage of wool if trade is not allowed.
+b.Scotland will experience a surplus of wool if trade is not allowed.
+c. Scotland has a comparative advantage in producing wool, relative to the rest of the world.
+d. foreign countries have a comparative advantage in producing wool, relative to Scotland.
+ANS:	C	
+
+    **Refer to Figure 9-1**.  From the figure it is apparent that 
+a. Scotland will export wool if trade is allowed.
+b.Scotland will import wool if trade is allowed.
+c. Scotland has nothing to gain either by importing or exporting wool.
+d. the world price will fall if Scotland begins to allow its citizens to trade with other countries.
+ANS:	A	
+
+    **Refer to Figure 9-1**.  With trade, Scotland will
+a. export 11 units of wool.
+b.export 5 units of wool.
+c. import 15 units of wool.
+d. import 6 units of wool.
+ANS:	A	
+
+
+
+**Refer to Figure 9-1**.  In the absence of trade, the equilibrium price of wool in Scotland is 
+a. $15.
+b.$45.
+c. $55.
+d. $70.
+ANS:	B	
+
+    **Refer to Figure 9-1**.  In the absence of trade, total surplus in Scotland is represented by the area
+a. A + B + c. 
+b.A + B + C + D + F.
+c. A + B + C + D + F + G.
+d. A + B + C + D + F + G + H.
+ANS:	B	
+
+    **Refer to Figure 9-1**.  When trade in wool is allowed, consumer surplus in Scotland
+a. increases by the area B + D.
+b.increases by the area C + F.
+c. decreases by the area B + D.
+d. decreases by the area D + G.
+ANS:	C	
+
+    **Refer to Figure 9-1**.  When trade in wool is allowed, producer surplus in Scotland
+a. increases by the area B + D.
+b.increases by the area B + D + G.
+c. decreases by the area C + F.
+d. decreases by the area G.
+ANS:	B	
+
+    **Refer to Figure 9-1**.  When trade is allowed, 
+a. Scotland producers of wool become better off and Scotland consumers of wool become worse off.
+b.Scotland consumers of wool become better off and Scotland producers of wool become worse off.
+c. both Scotland producers and consumers of wool become better off.
+d. both Scotland producers and consumers of wool become worse off.
+ANS:	A	
+
+    **Refer to Figure 9-1**.  Relative to the no-trade situation, trade with the rest of the world results in
+a. Scotland consumers paying a higher price for wool.
+b.a decrease in producer surplus in Scotland.
+c. a decrease in total surplus in Scotland.
+d. All of the above are correct.
+ANS:	A	
+
+    **Refer to Figure 9-1**.  In the absence of trade, total surplus in the Scotland wool market amounts to
+a. 187\.5
+b.275\.0
+c. 378\.5
+d. 412\.5
+ANS:	D	
+
+    **Refer to Figure 9-1**.  With trade, total surplus in the Scotland wool market amounts to
+a. 312\.5.
+b.367\.0.
+c. 467\.5.
+d. 495\.0.
+ANS:	C	
+
+
+    When a country allows international trade and becomes an exporter of a good,
+a. domestic producers of the good become better off.
+b.domestic consumers of the good become worse off.
+c. the gains of the winners exceed the losses of the losers.
+d. All of the above are correct.
+ANS:	D
+
+    The world price of a simple electronic calculator is $5.00. Before Zimbabwe allowed trade in calculators, the price of a calculator there was $7.50. Once Zimbabwe began allowing trade in calculators with other countries, Zimbabwe began 
+a. importing calculators and the price of a calculator in Zimbabwe decreased to $5.00.
+b.importing calculators and the price of a calculator in Zimbabwe remained at $7.50.
+c. exporting calculators and the price of a calculator in Zimbabwe decreased to $5.00.
+d. exporting calculators and the price of a calculator in Zimbabwe remained at $7.50.
+ANS:	A
+
+    The world price of a pound of T-bone steak is $9.00. Before Latvia allowed trade in beef, the price of a pound of T-bone steak there was $7.50. Once Latvia began allowing trade in beef with other countries, Latvia began 
+a. exporting T-bone steak and the price per pound in Latvia remained at $7.50.
+b.exporting T-bone steak and the price per pound in Latvia increased to $9.00.
+c. importing T-bone steak and the price per pound in Latvia remained at $7.50.
+d. importing T-bone steak and the price per pound in Latvia increased to $9.00.
+ANS:	B
+
+    **Refer to Figure 9-2**. Without trade, consumer surplus is
+a. $210.
+b.$245.
+c. $455.
+d. $490.
+ANS:	B	
+
+    **Refer to Figure 9-2**. Without trade, producer surplus is
+a. $210.
+b.$245.
+c. $455.
+d. $490.
+ANS:	A	
+
+    **Refer to Figure 9-2**. With free trade, this country will
+a. import 40 baskets.
+b.import 70 baskets.
+c. export 35 baskets.
+d. export 65 baskets.
+ANS:	D	
+
+    **Refer to Figure 9-2**. If this country chooses to trade, the price of baskets in this country will be
+a. $10 and 40 baskets will be sold domestically.
+b.$10 and 105 baskets will be sold domestically.
+c. $7 and 70 baskets will be sold domestically.
+d. $7 and 40 baskets will be sold domestically.
+ANS:	A	
+
+    **Refer to Figure 9-2**. With free trade, consumer surplus is
+a. $45.
+b.$80.
+c. $210.
+d. $245.
+ANS:	B	
+
+    **Refer to Figure 9-2**. With free trade, producer surplus is
+a. $80.00.
+b.$210.00.
+c. $245.50.
+d. $472.50.
+ANS:	D	
+
+    **Refer to Figure 9-2**. As a result of trade, total surplus increases by
+a. $80.
+b.$97.50.
+c. $162.50.
+d. $495.50.
+ANS:	B	
+
+    **Refer to Figure 9-2**. This country
+a. has a comparative advantage in baskets.
+b.should export baskets.
+c. is a price taker in the world economy.
+d. All of the above are correct.
+ANS:	D	
+
+    **Refer to Figure 9-2**. The world price for baskets represents
+a. the demand for baskets from the rest of the world.
+b.the supply of baskets from the rest of the world.
+c. the level of inefficiency in the domestic market caused by trade.
+d. the gap between domestic quantity demanded and domestic quantity supplied and the resulting shortage.
+ANS:	A	
+
+    **Refer to Figure 9-2**. At the world price and with free trade,
+a. the domestic quantity of baskets demanded is greater than the domestic quantity of baskets supplied.
+b.the basket market is in equilibrium.
+c. the domestic demand for baskets is perfectly inelastic. 
+d. both domestic producers of baskets and domestic consumers of baskets are better off than they were without free trade.
+ANS:	B	
+
+    **Refer to Figure 9-4**. With trade, Nicaragua 
+a. imports 150 calculators.
+b.imports 250 calculators.
+c. exports 100 calculators.
+d. exports 250 calculators.
+ANS:	B	
+
+    **Refer to Figure 9-4**. Consumer surplus in Nicaragua without trade is
+a. $375.
+b.$2,000.
+c. $2,250.
+d. $8,700.
+ANS:	C	
+
+    **Refer to Figure 9-4**. The change in total surplus in Nicaragua because of trade is
+a. $625, and this is an increase in total surplus.
+b.$750, and this is an increase in total surplus.
+c. $625, and this is a decrease in total surplus.
+d. $750, and this is a decrease in total surplus.
+ANS:	A	
+
+    **Refer to Figure 9-4**. Which of the following statements is accurate?
+a. Consumer surplus with trade is $3,200.
+b.Producer surplus with trade is $375.
+c. The gains from trade amount to $800.
+d. The gains from trade are represented on the graph by the area bounded by the points (0, $12), (300, $12), (300, $7) and (0, $7).
+ANS:	B	
+
+***Scenario 9-1***
+
+The before-trade domestic price of peaches in the United States is $40 per bushel. The world price of peaches is $52 per bushel. The U.S. is a price-taker in the market for peaches.
+
+    **Refer to Scenario 9-1**. If trade in peaches is allowed, the United States
+a. will become an importer of peaches.
+b.will become an exporter of peaches.
+c. may become either an importer or an exporter of peaches, but this cannot be determined.
+d. will experience increases in both consumer surplus and producer surplus.
+ANS:	B	
+
+    **Refer to Scenario 9-1**. If trade in peaches is allowed, the price of peaches in the United States
+a. will increase, and this will cause consumer surplus to decrease.
+b.will decrease, and this will cause consumer surplus to increase.
+c. will be unaffected, and consumer surplus will be unaffected as well.
+d. could increase or decrease or be unaffected; this cannot be determined.
+ANS:	A	
+
+    **Refer to Scenario 9-1**. If trade in peaches is allowed, the price of peaches in the United States
+a. will be greater than the world price.
+b.will be equal to the world price.
+c. will be less than the world price.
+d. could be greater than, equal to, or less than the world price; this cannot be determined.
+ANS:	B	
+
+    **Refer to Scenario 9-1**. If trade in peaches is allowed, U.S. producers of peaches
+a. will be better off.
+b.will be worse off.
+c. will be unaffected.
+d. will experience a decrease in their collective producer surplus.
+ANS:	A	
+
+**Refer to Scenario 9-1**. If trade in peaches is allowed, the
+a. price paid by American consumers of peaches is unchanged relative to the no-trade situation.
+b.total well-being of American producers of peaches is diminished relative to the no-trade situation.
+c. total well-being of American consumers of peaches is enhanced relative to the no-trade situation.
+d. total well-being of the United States is enhanced relative to the no-trade situation.
+ANS:	D	
+
+    **Refer to Figure 9-6**. Without trade, the equilibrium price of carnations is
+a. $8 and the equilibrium quantity is 300.
+b.$6 and the equilibrium quantity is 200.
+c. $6 and the equilibrium quantity is 400.
+d. $4 and the equilibrium quantity is 500.
+ANS:	A	
+
+    **Refer to Figure 9-6**. With trade and without a tariff,
+a. the domestic price is equal to the world price.
+b.carnations are sold at $8 in this market.
+c. there is a shortage of 400 carnations in this market.
+d. this country imports 200 carnations.
+ANS:	A	
+
+    **Refer to Figure 9-6**. Before the tariff is imposed, this country 
+a. imports 200 carnations.
+b.imports 400 carnations.
+c. exports 200 carnations.
+d. exports 400 carnations.
+ANS:	B	
+
+    **Refer to Figure 9-6**. The size of the tariff on carnations is
+a. $8 per dozen.
+b.$6 per dozen.
+c. $4 per dozen.
+d. $2 per dozen.
+ANS:	D	
+
+
+    **Refer to Figure 9-6**. The imposition of a tariff on carnations
+a. increases the number of carnations imported by 100.
+b.increases the number of carnations imported by 200.
+c. decreases the number of carnations imported by 200.
+d. decreases the number of carnations imported by 400.
+ANS:	C	
+
+    **Refer to Figure 9-6**. The amount of revenue collected by the government from the tariff is
+a. $200.
+b.$400.
+c. $500.
+d. $600.
+ANS:	B	
+
+    **Refer to Figure 9-6**. When a tariff is imposed in the market, domestic producers
+a. gain by $100.
+b.gain by $200.
+c. gain by $300.
+d. lose by $100.
+ANS:	C	
+
+    **Refer to Figure 9-6**. The amount of deadweight loss caused by the tariff equalsa.  $100.
+b.$200.
+c. $400.
+d. $500.
+ANS:	B	
+
+    **Refer to Figure 9-6**. When the tariff is imposed, domestic consumersa.  lose by $500.
+b.lose by $900.
+c. gain by $500.
+d. gain by $900.
+ANS:	B	
