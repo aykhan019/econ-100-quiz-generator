@@ -1,0 +1,357 @@
+1\. **Refer to Figure 7-1** The table represents the willingness to pay of four buyers. If the price of the product is $15, then who would be willing to purchase the product?
+a. 	Mike
+b. Mike and Sandy
+c. Mike, Sandy, and Jonathan
+d. Mike, Sandy, Jonathan, and Haley
+ANS: C
+
+2\.	**Refer to Figure 7-1** If the price of the product is $18, then their total consumer surplus is
+a. 	$38
+b. $42
+c. $46.
+d. $72
+ANS: C
+
+3\. **Refer to Figure 7-1**	If the price of the product is $30, then their total consumer surplus is
+a. 	$-10
+b. $-6
+c. $20.
+d. $30
+ANS: C
+
+4\.	A consumer’s willingness to pay directly measures
+a. 	the extent to which advertising and other external forces have influenced the consumer’s decisions regarding his or her purchases of goods and services
+b. the cost of a good to the buyer
+c. how much a buyer values a good.
+d. consumer surplus
+ANS: C
+
+5\.	Consumer surplus is
+a. 	the amount a buyer is willing to pay for a good minus the amount the buyer actually pays for it
+b. the amount a buyer is willing to pay for a good minus the cost of producing the good
+c. the amount by which the quantity supplied of a good exceeds the quantity demanded of the good.
+d. a buyer’s willingness to pay for a good plus the price of the good
+ANS: A
+
+6\.	If the cost of producing sofas decreases, then consumer surplus in the sofa market will
+a. 	increase
+b. decrease
+c. remain constant.
+d. increase for some buyers and decrease for other buyers
+ANS: A
+
+7\.	If the price of oak lumber increases, what happens to consumer surplus in the market for oak cabinets?
+a. 	It increases
+b. It decreases
+c. It will not change consumer surplus; only producer surplus changes.
+d. It depends on what event led to the increase in the price of oak lumber
+ANS: B
+
+8\.	Which of the following is not true when the price of a good or service falls?
+a. 	Buyers who were already buying the good or service are better off
+b. Some new buyers, who are now willing to buy, enter the market
+c. The total consumer surplus in the market increases.
+d. The total value of purchases before and after the price change is the same
+ANS: D
+
+*Refer to Figure 7-1** When the price is P_1, consumer surplus is
+a. 	A
+b. A + B
+c. A + B + C.
+d. A + B + D
+ANS: C
+
+10\.	**Refer to Figure 7-1** When the price is P_2, consumer surplus is
+a. 	A.				b.	B
+c. A + B.				d.	A + B + C
+ANS: A
+
+11\.	**Refer to Figure 7-1** When the price rises from P_1 to P_2, consumer surplus
+a. 	increases by an amount equal to A
+b. decreases by an amount equal to B + C
+c. increases by an amount equal to B + C.
+d. decreases by an amount equal to C
+ANS: B
+
+12\.	**Refer to Figure 7-1** Area C represents
+a. 	the decrease in consumer surplus that results from a downward-sloping demand curve
+b. consumer surplus to new consumers who enter the market when the price falls from P_2 to P_1
+c. the increase in producer surplus when quantity sold increases from Q_2 to Q_1.
+d. the decrease in consumer surplus to each consumer in the market when the price increases from P_1 to P_2
+ANS: B
+
+13\.	**Refer to Figure 7-1** When the price rises from P1 to P2, which of the following statements is not true?
+a. 	The buyers who still buy the good are worse off because they now pay more
+b. Some buyers leave the market because they are not willing to buy the good at the higher price
+c. Buyers place a higher value on the good after the price increase.
+d. Consumer surplus in the market falls
+ANS: C
+
+14\.	A seller is willing to sell a product only if the seller receives a price that is at least as great as
+a. 	the seller’s producer surplus
+b. the seller’s cost of production
+c. the seller’s profit.
+d. the average willingness to pay of buyers of the product
+ANS: B
+
+
+15\.	Producer surplus is 
+a. 	measured using the demand curve for a good
+b. always a negative number for sellers in a competitive market
+c. the amount a seller is paid minus the cost of production.
+d. the opportunity cost of production minus the cost of producing goods that go unsold
+ANS: C
+
+16\.	Producer surplus measures
+a. 	the benefits to sellers of participating in a market
+b. the costs to sellers of participating in a market
+c. the price that buyers are willing to pay for sellers’ output of a good or service.
+d. the benefit to sellers of producing a greater quantity of a good or service than buyers demand
+ANS: A
+
+17\.	**Refer to Figure 7-4** Which area represents producer surplus when the price is P_1?
+a.  BCE
+b. ACF
+c. ABED
+d. DEF
+ANS: A
+
+18\.	**Refer to Figure 7-4** Which area represents producer surplus when the price is P_2?
+a. 	BCE
+b. ACF
+c. ABED
+d. AFEB
+ANS: B
+
+19\.	**Refer to Figure 7-4** Which area represents the increase in producer surplus when the price rises from P_1 to P_2?
+a. 	BCE
+b. ACF
+c. ABED
+d. AFEB
+ANS: D
+
+20\.	**Refer to Figure 7-4** When the price rises from P_1 to P_2, which area represents the increase in producer surplus to existing producers?
+a. 	BCE
+b. ACF
+c. DEF
+d. ABED
+ANS: D
+
+21\.	**Refer to Figure 7-4** Which area represents the increase in producer surplus when the price rises from P_1 to P_2 due to new producers entering the market?
+a. 	BCE
+b. ACF
+c. DEF
+d. AFEB
+ANS: C
+
+22\.	Refer to Table 7-4. If the market price is $1,000, the producer surplus in the market is
+a. 	$700
+b. $750
+c. $2,250.
+d. $3,700
+ANS: B
+
+23\.	Refer to Table 7-4. If the market price is $1,100, the combined total cost of all participating sellers is
+a. 	$3,700
+b. $2,700
+c. $2,250.
+d. $1,500
+ANS: C
+
+24\.	Refer to Table 7-4. If the price is $1,000,
+a. 	Denise is an eager supplier
+b. Catherine is an eager supplier
+c. Dale’s producer surplus is $500.
+d. All of the above are correct
+ANS: B
+
+25\.	Refer to Table 7-4. If the price is $775, who would be willing to supply the product?
+a. 	Dale and Jill
+b. Dale, Jill and Denise
+c. Denise, Catherine and Jackson
+d. Catherine and Jackson
+ANS: D
+
+26\.	Refer to Table 7-4. Suppose each of the five sellers can supply at most one unit of the good; then the market quantity supplied is exactly 3 if the price is 
+a. 	$670
+b. $770
+c. $970.
+d. $1,170
+ANS: D
+
+2. 1\. For the next six questions please assume that the market is in equilibrium. The consumer surplus is a monetary measure of the net benefit enjoyed by the consumers from being able to purchase a product at the going market price. More specifically, we defined CS as “CS = value to buyer – amount paid by the buyers.” Which area represents the value to buyers?
+a.  A+B+C						
+b. A+B+D+F
+c. A+B+C+D+E+F+G					
+d. D+E+F+G
+ANS: C
+
+2. 2\. Which area represents the amount paid by the buyers?
+a.  A+B+C						
+b. A+B+D+F
+c. A+B+C+D+E+F+G					
+d. D+E+F+G
+ANS: D
+
+2. 3\. Which area represents the consumer surplus?
+a.  A+B+C						
+b. A+B+D+F
+c. A+B+C+D+E+F+G					
+d. D+E+F+G
+ANS: A
+
+2. 4\. Producer surplus is the monetary measure of the net benefit enjoyed by the sellers from being able to sell their product at the going market price. Producer surplus equal “the amount the sellers receive – the sellers’ cost”.
+
+Which area represents the amount sellers receive?
+a.  D+E+F+G+H						
+b. A+B+C+D+E
+c. A+B+C+D+E+F+G+H					
+d. D+E+F+G
+ANS: D
+
+2. 5\. Which area represents the cost to sellers?
+a.  F+G+H						
+b. F+G
+c. A+B+C+D+E+F+G+H					
+d. D+E+F+G
+ANS: B
+
+2. 6\. Which area represents the producer surplus?
+a.  D+E+B+C						
+b. D+E
+c. A+B+C+D+E					
+d. A+B+C+D+E+F+G+H
+ANS: B
+
+2. 7\. Given the definition of “efficiency”, we can say that efficiency in a market is achieved when
+a.  there is no scarcity.
+b. consumer surplus equals producer surplus
+c. the sum of producer surplus and consumer surplus is maximized.
+d. demand = supply
+ANS: C
+
+2. 8\. If this market is currently producing at Q1, then total economic well-being would increase if output
+a.  increased to Q2.
+b. increased to Q3.
+c. increased to Q4.
+d. stayed at Q1
+ANS: A
+
+2. 9\. The equilibrium quantity would be 
+a.  Q1.
+b. Q2.
+c. Q3.
+d. Q4
+ANS: C
+
+2. 10\. The socially optimal quantity would be
+a.  Q1.
+b. Q2.
+c. Q3.
+d. Q4
+ANS: B
+
+2. 11\. The equilibrium (market-clearing) price is
+a. P1.				
+b.  P2.** 				
+c.  P3.				
+d.  P4
+ANS: B
+
+2. 12\.  At the equilibrium, total consumer surplus is represented by the area
+a. A.				
+b.  A + B + C.		
+c.  D + E + F.			
+d.  A + B + C + D + E + F
+ANS: B
+
+2. 13\.  At the market-clearing equilibrium, total producer surplus is represented by the area
+a. F.				
+b.  F + G.			
+c.  D + E + F.			
+d.  D + E + F + G + H
+ANS: C
+
+2. 14\.  At the market-clearing equilibrium, total surplus is represented by the area
+a. A + B + C.			
+b.  A + B + D + F.
+c.  A + B + C + D + E + F.		
+d.  A + B + C + D + E + F + G + H
+ANS: C
+
+2. 15\. At the equilibrium price, consumer surplus is
+a. 	$480
+b. $640.
+c.	$1,120. 
+d. $1,280
+ANS: A
+
+2. 16\. At the equilibrium price, producer surplus is
+a. 	$480
+b. $640
+c. $1,120.
+d. $1,280
+ANS: B
+
+2. 17\. At the equilibrium price, total surplus is
+a. 	$480
+b. $640
+c. $1,120.
+d. $1,280
+ANS: C
+
+2. 18\.  A result of welfare economics is that the equilibrium price of a product is considered to be the best price because it
+a. 	maximizes total revenue for firms and maximizes the quantity supplied of the product
+b. maximizes the combined welfare of buyers and sellers
+c. minimizes costs and maximizes profits of sellers.
+d. minimizes the level of welfare payments to those who no longer live below the poverty line
+ANS: B
+
+2. 19\. Economists when they say that the allocation of resources is efficient they mean that 
+a. 	producer surplus is maximized
+b. consumer surplus is maximized
+c. total surplus is maximized.
+d. sellers’ costs are minimized
+ANS: C
+
+2. 20\. Which of the following equations is incorrect?
+a. 	Consumer surplus = Value to buyers - Amount paid by buyers
+b. Producer surplus = Amount received by sellers - Cost to sellers
+c. Total surplus = Value to buyers - Amount paid by buyers + Amount received by sellers - Costs of sellers
+d. Total surplus = Value to sellers - Cost to sellers
+ANS: D	
+
+2. 21\. Which of the following equations is correct?
+a. 	Consumer surplus = Total surplus – Cost to sellers
+b. Producer surplus = Total surplus – Consumer surplus
+c. Total surplus = Value to buyers – Amount paid by buyers
+d. Total surplus = Amount received by sellers – Cost to sellers
+ANS: B
+
+
+2. 22\. Total surplus in a market is
+a. 	the total cost to sellers of providing the good minus the total value of the good to buyers
+b. the total value of the good to buyers minus the cost to sellers of providing the good
+c. the difference between consumer surplus and sellers’ cost.
+d. always smaller than producer surplus
+ANS: B	
+
+2. 23\. In a market, total surplus is
+a. 	equal to producer surplus plus consumer surplus
+b. equal to the total cost to sellers minus the total value to buyers
+c. equal to consumers’ willingness to pay plus producers’ cost.
+d. greater than the sum of consumer surplus plus producer surplus
+ANS: A
+
+2. 24\. Total surplus in a market is represented by the total area
+a. 	under the demand curve and above the price
+b. above the supply curve and up to the equilibrium price
+c. under price and up to the point of equilibrium.between the demand and supply curves up to the point of equilibrium
+ANS: D
+
+2. 25\. Which of the following statements is not correct about a market in equilibrium?
+a. 	The price determines which buyers and which sellers participate in the market
+b. Those buyers who value the good more than the price choose to buy the good
+c. Those sellers whose costs are less than the price choose to produce and sell the good.
+d. Consumer surplus will be equal to producer surplus
+ANS: D
