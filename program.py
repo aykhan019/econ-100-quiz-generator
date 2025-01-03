@@ -11,15 +11,25 @@ from tkinter import messagebox
 # We'll scan the current working directory for directories that start with "ps" and are not "assets".
 #############################################
 
-root_dir = os.getcwd()
-all_dirs = [d for d in os.listdir(root_dir) 
-            if os.path.isdir(os.path.join(root_dir, d)) 
+import sys, os
+
+if getattr(sys, 'frozen', False):
+    # Running in a bundle
+    base_path = sys._MEIPASS
+else:           
+    # Running in normal Python
+    base_path = os.path.dirname(os.path.abspath(__file__))
+
+# Now list directories from base_path instead of current working directory
+all_dirs = [d for d in os.listdir(base_path) 
+            if os.path.isdir(os.path.join(base_path, d)) 
             and d.startswith("ps") 
             and d != "assets"]
 
 if not all_dirs:
     print("No problem sets found.")
     sys.exit(1)
+
 
 #############################################
 # Create a small selection window to pick a PS set from the list `all_dirs`.
@@ -57,11 +67,10 @@ if not PS or PS not in all_dirs:
 
 #############################################
 # Configuration
-#############################################
-SOURCE_FILE = os.path.join(PS, "source.txt")
-SCENARIO_FILE = os.path.join(PS, "scenarios.txt")
-FIGURE_DIR = os.path.join(PS, "images", "figures")
-TABLE_DIR = os.path.join(PS, "images", "tables")
+SOURCE_FILE = os.path.join(base_path, PS, "source.txt")
+SCENARIO_FILE = os.path.join(base_path, PS, "scenarios.txt")
+FIGURE_DIR = os.path.join(base_path, PS, "images", "figures")
+TABLE_DIR = os.path.join(base_path, PS, "images", "tables")
 SESSION_FILE = "session.json"
 LEFT_AD_IMAGE = "assets/left_ad.png"
 RIGHT_AD_IMAGE = "assets/right_ad.png"

@@ -6,7 +6,8 @@ d. a consumer’s optimal choice affects her demand curve.
 ANS:	A	
 
     Which of the *Ten Principles of Economics* does welfare economics explain more fully?
-a. The cost of something is what you give up to get it.Rational people think at the margin.
+a. The cost of something is what you give up to get it.
+b. Rational people think at the margin.
 c. Markets are usually a good way to organize economic activity.
 d. People respond to incentives.
 ANS:	C	
@@ -74,7 +75,7 @@ c. who is willing to buy exactly one unit of the good.
 d. who would be the first to leave the market if the price were any higher.
 ANS:	D	
 
-    **Refer to Table 7-1**. If the price of the product is $15, then who would be willing to purchase the product?
+    **Refer to Table 7-1** If the price of the product is $15, then who would be willing to purchase the product?
 a. Lori
 b.Lori and Audrey
 c. Lori, Audrey, and Zach
@@ -277,26 +278,12 @@ c. $140
 d. $40
 ANS:	B	
 
-
-
-
-
-
-
-
-
     **Refer to Table 7-6**  You have four essentially identical extra tickets to the Midwest Regional Sweet 16 game in the men’s NCAA basketball tournament.  The table shows the willingness to pay of the four potential buyers in the market for a ticket to the game.  You offer to sell the tickets for $400.  How many tickets do you sell, and what is the total consumer surplus in the market?
 a. one ticket; $100
 b.two tickets; $100
 c. two tickets; $0
 d. three tickets; $0
 ANS:	B	
-
-**Refer to Table 7-6**  You are selling extra tickets to the Midwest Regional Sweet 16 game in the men’s NCAA basketball tournament.  The table shows the willingness to pay of the four potential buyers in the market for a ticket to the game.  Which of the following graphs represents the market demand curve?
-a. ![](Aspose.Words.58d32fd9-cf71-41b8-8623-0d7ede32c326.001.png)|c. |![](Aspose.Words.58d32fd9-cf71-41b8-8623-0d7ede32c326.002.png)|
-| :- | :- | :- | :- |
-|b.|![](Aspose.Words.58d32fd9-cf71-41b8-8623-0d7ede32c326.003.png)|d.|![](Aspose.Words.58d32fd9-cf71-41b8-8623-0d7ede32c326.004.png)
-ANS:	A	
 
 **Refer to Table 7-6**  You have four essentially identical extra tickets to the Midwest Regional Sweet 16 game in the men’s NCAA basketball tournament.  The table shows the willingness to pay of the four potential buyers in the market for a ticket to the game.  You offer to sell the tickets for $325.  How many tickets do you sell, and what is the total consumer surplus in the market?
 a. one ticket; $175
@@ -381,10 +368,10 @@ d. We would have to know whether the demand for lemons is elastic or inelastic t
 ANS:	B	
 
 Suppose the market demand curve for a good passes through the point (quantity demanded = 100, price = $25). If there are five buyers in the market, then
-a. the marginal buyer's willingness to pay for the 100<sup>th</sup> unit of the good is $25.
-b.the sum of the five buyers' willingness to pay for the 100<sup>th</sup> unit of the good is $25.
-c. the average of the five buyers' willingness to pay for the 100<sup>th</sup> unit of the good is $25.
-d. all of the five buyers are willing to pay at least $25 for the 100<sup>th</sup> unit of the good.
+a. the marginal buyer's willingness to pay for the 100_th unit of the good is $25.
+b.the sum of the five buyers' willingness to pay for the 100_th unit of the good is $25.
+c. the average of the five buyers' willingness to pay for the 100_th unit of the good is $25.
+d. all of the five buyers are willing to pay at least $25 for the 100_th unit of the good.
 ANS:	A	
 
 All else equal, what happens to consumer surplus if the price of a good increases?
@@ -1043,7 +1030,7 @@ c. the same as it would be at the equilibrium price.
 d. There is insufficient information to make this determination.
 ANS:	B	
 
-    **Refer to Figure 7-14**.  Suppose the willingness to pay of the marginal buyer of the 3<sup>rd</sup> unit is $225.  Then total surplus is maximized if 
+    **Refer to Figure 7-14**.  Suppose the willingness to pay of the marginal buyer of the 3_rd unit is $225.  Then total surplus is maximized if 
 a. 1 unit of the good is produced and sold.
 b.2 units of the good are produced and sold.
 c. 3 units of the good are produced and sold.
@@ -1625,13 +1612,15 @@ c. gain by $300.
 d. lose by $100.
 ANS:	C	
 
-    **Refer to Figure 9-6**. The amount of deadweight loss caused by the tariff equalsa.  $100.
+    **Refer to Figure 9-6**. The amount of deadweight loss caused by the tariff equalsa.  
+a.$100.
 b.$200.
 c. $400.
 d. $500.
 ANS:	B	
 
-    **Refer to Figure 9-6**. When the tariff is imposed, domestic consumersa.  lose by $500.
+    **Refer to Figure 9-6**. When the tariff is imposed, domestic consumers  
+a.lose by $500.
 b.lose by $900.
 c. gain by $500.
 d. gain by $900.
