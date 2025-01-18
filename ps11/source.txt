@@ -1,0 +1,1855 @@
+Who of the following is _not_ included in TUIK’s “employed” category?
+a. those who worked in their own business
+b. those who worked as unpaid workers in a family member's business
+c. those waiting to be recalled to a job from which they had been laid off
+d. those who were temporarily absent from work because of vacation.
+ANS: C
+
+TUIK places people in the “employed” category if they
+a. are without a job, but are available for work and have tried to find a job during the previous 4 weeks.
+b. work without pay in a family member’s business.
+c. are waiting to be recalled to a job from which they had been laid off.
+d. All of the above are correct.
+ANS: B
+
+TUIK places people in the “employed” category if they
+a. are temporarily absent from their jobs.
+b. are self-employed.
+c. work without pay in a family member’s business.
+d. All of the above are correct.
+ANS: D
+
+To be counted as employed in TUIK statistics a person
+a. must be working for pay and be working full time.
+b. must be working for pay, but does not have to be working full time.
+c. does not have to be working for pay if they are working for a family business, but must be employed full time.
+d. does not have to be working for pay if they are working for a family business and does not have to be working full time
+ANS: D
+
+Who in the adult population is counted as employed in TUIK’s labor statistics?
+a. people who are temporarily absent from their job and people who work without pay in a family member’s business
+b. people who are temporarily absent from their job but not people who work without pay in a family member’s business
+c. people who work without pay in a family member’s business but not people who are temporarily absent from their job
+d. neither people who are temporarily absent from their job nor people who work without pay in a family member’s business
+ANS: A l
+
+Who of the following are included in TUIK’s “employed” category?
+a. certain unpaid workers
+b. part-time workers
+c. workers on vacation
+d. All of the above are correct.
+ANS: D
+
+Edgar is working part-time. Diane is on temporary layoff. Who is included in TUIK’s Labor Statistics’ “employed” category?
+a. only Edgar
+b. only Diane
+c. both Edgar and Diane
+d. neither Edgar nor Diane
+ANS: A
+
+For TUIK to place someone in the “unemployed” category, that person must
+a. be available for work.
+b. have tried to find employment during the previous week.
+c. have previously been employed.
+d. All of the above are correct.
+ANS: A
+
+For TUIK to place someone in the “unemployed” category, that person must
+a. have worked no more than 10 hours during the past week..
+b. have tried to find employment during the previous year.
+c. not have been laid off.
+d. None of the above is correct.
+ANS: D
+
+Which of the following includes _everyone_ in the adult population that TUIK counts as unemployed?
+a. anyone who is not employed
+b. anyone who is not employed, is available for work, and has looked for work in the past 4 weeks
+c. anyone who is not employed, is available for work, has looked for work in the past 4 weeks, and anyone who is waiting to be recalled from a job from which they have been laid off
+d. anyone who is not employed, is available for work, has looked for work in the past 4 weeks, anyone who is waiting to be recalled from a job from which they have been laid off, and anyone who is employed part time and has searched for full time employment in the past 4 weeks
+ANS: C
+
+Who of the following is counted as unemployed by TUIK?
+a. someone working without pay for a family member’s business
+b. someone who is absent from their job due to illness
+c. someone on temporary layoff
+d. All of the above are correct.
+ANS: C
+
+Who of the following would be included in TUIK’s Labor Statistics’ “unemployed” category?
+a. Cambry, a full-time student who is not looking for work
+b. Eric, who is on temporary layoff
+c. Carson, who has retired and is not looking for work
+d. All of the above are correct.
+ANS: B
+
+Who of the following would necessarily be included in TUIK’s Labor Statistics’ “unemployed” category?
+a. Lisa, who did not work during the previous 4 weeks
+b. Julie, who tried to find new employment during the previous 4 weeks
+c. Robert, who was an unpaid worker during the previous 4 weeks
+d. None of the above is correct.
+ANS: D
+
+Matt is waiting to be recalled to a job from which he was laid off. David was fired but hasn’t looked for work during the last two months. Who does TUIK count as unemployed?
+a. Matt but not David
+b. David but not Matt
+c. both David and Matt
+d. neither David nor Matt
+ANS: A
+
+Meredith recently graduated from college but has not yet started working. To be counted as unemployed she
+a. does not have to have looked for work.
+b. must have looked for work no more than a week ago.
+c. must have looked for work no more than 4 weeks ago.
+d. must have looked for work no more than 12 weeks ago.
+ANS: C
+
+A person who is counted as unemployed by the Bureau of Labor Statistics
+a. is also in the labor force.
+b. must have recently looked for work or be on temporary layoff.
+c. must be at least 16 years old.
+d. All of the above are correct.
+ANS: D
+
+Caitlin is an unpaid worker in her family’s bakery. TUIK counts Caitlin as
+a. unemployed and in the labor force.
+b. unemployed and not in the labor force.
+c. employed and in the labor force.
+d. employed and not in the labor force.
+ANS: C
+
+Jason works part-time as a babysitter. TUIK counts Jason as
+a. unemployed and in the labor force.
+b. unemployed and not in the labor force.
+c. employed and in the labor force.
+d. employed and not in the labor force.
+ANS: C
+
+Danielle did not work last week because flooding forced an evacuation of her workplace. TUIK counts Danielle as
+a. unemployed and in the labor force.
+b. unemployed and not in the labor force.
+c. employed and in the labor force.
+d. employed and not in the labor force.
+ANS: C
+
+Ava owns her own business. TUIK counts Ava as
+a. unemployed and in the labor force.
+b. unemployed and not in the labor force.
+c. employed and in the labor force.
+d. employed and not in the labor force.
+ANS: C
+
+Mario was laid off two months ago. He has not searched for other work because he is expecting to be recalled to work. In TUIK’s labor force statistics Mario is counted as
+a. unemployed and in the labor force.
+b. unemployed and not in the labor force.
+c. employed and in the labor force.
+d. not in the labor force.
+ANS: A
+
+Jouke is on a temporary layoff from his factory job but has not looked for work in the last four weeks. TUIK counts Jouke as
+a. unemployed and in the labor force.
+b. unemployed and not in the labor force.
+c. employed and in the labor force.
+d. employed and not in the labor force.
+ANS: A
+
+Jai Li just lost her job, and she hasn’t yet started looking for a new one. TUIK counts Jai Li as
+a. unemployed and in the labor force.
+b. unemployed, but not in the labor force.
+c. in the labor force, but not unemployed.
+d. neither in the labor force nor unemployed.
+ANS: D
+
+Josh is a full-time college student who is not working or looking for a job. TUIK counts Josh as
+a. unemployed and in the labor force.
+b. unemployed, but not in the labor force.
+c. in the labor force, but not unemployed.
+d. neither in the labor force nor unemployed.
+ANS: D
+
+Jill does not currently have a job, but has applied for several jobs in the previous week. Ken is an unpaid stay-at-home dad who has not searched for work in recent years. Who does TUIK count as out of the labor force?
+a. Jill but not Ken
+b. Ken but not Jill
+c. Jill and Ken
+d. neither Jill nor Ken
+ANS: B
+
+Who is included in the labor force by TUIK?
+a. Juan, who works most of the week in a steel factory
+b. Molly, who is on temporary layoff
+c. Charlie, who does not have a job, but is looking for work
+d. All of the above are included in the labor force.
+ANS: D
+
+Shannon is a full-time homemaker not currently searching for paid work. Noah is a full-time student who is not looking for a job. Who is included in the labor force by TUIK?
+a. only Shannon
+b. only Noah
+c. both Shannon and Noah
+d. neither Shannon nor Noah
+ANS: D
+
+**Sample Population**
+
+| **Person** | **Status** |
+| --- | --- |
+| Allen | Unpaid stay at home dad. Has not looked for a job in several years. |
+| Ben | College president. |
+| Allison | Part-time welder. Actively looking for full time work. |
+| Brittany | Self-employed full-time wedding singer. |
+| Cathy | Full-time physician’s assistant. |
+| Calvin | Retired finance professor. Last applied for work 10 weeks ago. |
+| Diane | Laid-off fork-lift operator expecting to be recalled. |
+| David | Works for a bicycle store. Age 70. |
+| Evelyn | Manager of health food store. |
+| Eli | Museum guard. Was not at work last week due to illness. |
+| Flora | Has never been employed. Looked for a job last week. |
+| Frank | Fired from job as an investment banker. Last looked for work three weeks ago. |
+
+**Refer to Sample Population.** How many in the sample are unemployed?
+a. 5  
+b. 4  
+c. 3  
+d. None of the above is correct.
+ANS: C
+
+**Refer to Sample Population.** How many in the sample are in the labor force?
+a. 10 
+b. 9  
+c. 8  
+d. None of the above is correct.
+ANS: A
+
+The labor-force participation rate measures the percentage of the
+a. total adult population that is in the labor force.
+b. total adult population that is employed.
+c. labor force that is employed.
+d. labor force that is either employed or unemployed.
+ANS: A
+
+The labor-force participation rate tells us the fraction of the population that
+a. is able to participate in the labor market.
+b. has ever been employed.
+c. has chosen to participate in the labor market.
+d. has chosen not to participate in the labor market.
+ANS: C
+
+The labor force equals the
+a. number of people employed.
+b. number of people employed plus the number of people unemployed.
+c. number of people employed plus the number of people unemployed plus teenagers between ages 14 and 16 who work at least 10 hours a week.
+d. adult population.
+ANS: B
+
+Satchel loses his job and immediately begins looking for another. Other things the same_,_ the unemployment rate
+a. increases and the labor-force participation rate decreases.
+b. and the labor-force participation rate both increase.
+c. increases and the labor-force participation rate is unaffected.
+d. is unaffected and the labor-force participation rate decreases.
+ANS: C
+
+Sheamous loses his job and decides to sit on the beach rather than look for work during the next few months. Other things the same_,_ the unemployment rate
+a. increases and the labor-force participation rate decreases.
+b. increases and the labor-force participation rate is unaffected.
+c. is unaffected and the labor-force participation rate decreases.
+d. and the labor-force participation rate are both unaffected.
+ANS: A
+
+Sirius has just finished high school and started looking for his first job, but has not yet found one. Other things the same, the unemployment rate
+a. and the labor-force participation rate both increase.
+b. increases and the labor-force participation rate is unaffected.
+c. is unaffected and the labor-force participation rate increases.
+d. and the labor-force participation rate are both unaffected.
+ANS: A
+
+If an unemployed person quits looking for work, then, eventually the unemployment rate
+a. decreases and the labor-force participation rate is unaffected.
+b. and the labor-force participation rate both decrease.
+c. is unaffected and the labor-force participation rate decreases.
+d. and the labor-force participation rate are both unaffected.
+ANS: B 
+
+President Bigego is running for re-election against Senator Pander. Bigego proclaims that more people are working now than when he took office. Pander says that the unemployment rate is higher now than when Bigego took office. You conclude that
+a. one of them must be lying.
+b. both of them could be telling the truth if the labor force and employment grew at the exact same rate.
+c. both of them could be telling the truth if the labor force grew slower than employment.
+d. both of them could be telling the truth if the labor force grew faster than employment.
+ANS: D
+
+Suppose that the adult population is 4 million, the number of unemployed is 0.25 million, and the labor-force participation rate is 75%. What is the unemployment rate?
+a. 6.25%
+b. 8.3%
+c. 9.1%
+d. 18.75%
+ANS: B
+
+Suppose that the adult population is 6 million, the number of employed is 3.8 million, and the labor-force participation rate is 70%. What is the unemployment rate?
+a. 6.7%
+b. 9.5%
+c. 10.5%
+d. 28%
+ANS: B
+
+Suppose some country had an adult population of about 50 million, a labor-force participation rate of 60 percent, and an unemployment rate of 5 percent. How many people were employed?
+a. 1.5 million
+b. 28.5 million
+c. 30 million
+d. 47.5 million
+ANS: B
+
+Suppose some country had an adult population of about 25 million, a labor-force participation rate of 60 percent, and an unemployment rate of 6 percent. How many people were unemployed?
+a. 0.846 million
+b. 0.9 million
+c. 1.5 million
+d. 6 million
+ANS: B
+
+**Refer to Table 15-1.** The labor force of Aridia in 2010 was
+a. 1400.
+b. 1600.
+c. 1800.
+d. 2000.
+ANS: B
+
+**Refer to Table 15-1.** The labor force of Aridia in 2011 was
+a. 1300.
+b. 1900.
+c. 2400.
+d. 3000.
+ANS: B
+
+**Refer to Table 15-1.** The labor force of Aridia in 2012 was
+a. 1600.
+b. 1800.
+c. 3000.
+d. 3200.
+ANS: B
+
+**Refer to Table 15-1.** The labor force of Aridia
+a. increased from 2010 to 2011 and increased from 2011 to 2012.
+b. increased from 2010 to 2011 and decreased from 2011 to 2012.
+c. decreased from 2010 to 2011 and increased from 2011 to 2012.
+d. decreased from 2010 to 2011 and decreased from 2011 to 2012.
+ANS: B
+
+**Refer to Table 15-1.** The number of adults not in the labor force of Aridia in 2010 was
+a. 200.
+b. 400.
+c. 600.
+d. 1800.
+ANS: B
+
+**Refer to Table 15-1.** The number of adults not in the labor force of Aridia in 2011 was
+a. 600.
+b. 1100.
+c. 1700.
+d. 2400.
+ANS: B
+
+**Refer to Table 15-1.** The number of adults not in the labor force of Aridia in 2012 was
+a. 200.
+b. 1400.
+c. 1600.
+d. 3000.
+ANS: B
+
+**Refer to Table 15-1.** The number of adults not in the labor force of Aridia
+a. increased from 2010 to 2011 and increased from 2011 to 2012.
+b. increased from 2010 to 2011 and decreased from 2011 to 2012.
+c. decreased from 2010 to 2011 and increased from 2011 to 2012.
+d. decreased from 2010 to 2011 and decreased from 2011 to 2012.
+ANS: A
+
+**Refer to Table 15-1.** The unemployment rate of Aridia in 2010 was
+a. 10%.
+b. 12.5%.
+c. 14.3%.
+d. 80%.
+ANS: B
+
+**Refer to Table 15-1.** The unemployment rate of Aridia in 2011 was
+a. 20%.
+b. 31.6%.
+c. 46.2%.
+d. 63.3%.
+ANS: B
+
+**Refer to Table 15-1.** The unemployment rate of Aridia in 2012 was
+a. 6.25%.
+b. 11.1%.
+c. 12.5%.
+d. 56.25%.
+ANS: B
+
+**Refer to Table 15-1.** The unemployment rate of Aridia
+a. increased from 2010 to 2011 and increased from 2011 to 2012.
+b. increased from 2010 to 2011 and decreased from 2011 to 2012.
+c. decreased from 2010 to 2011 and increased from 2011 to 2012.
+d. decreased from 2010 to 2011 and decreased from 2011 to 2012.
+ANS: B
+
+**Refer to Table 15-1.** The labor-force participation rate of Aridia in 2010 was
+a. 70%.
+b. 77.8%.
+c. 80%.
+d. 87.5%.
+ANS: C
+
+**Refer to Table 15-1.** The labor-force participation rate of Aridia in 2011 was
+a. 43.3%.
+b. 54.2%.
+c. 63.3%.
+d. 68.4%.
+ANS: C
+
+**Refer to Table 15-1.** The labor-force participation rate of Aridia in 2012 was
+a. 50%.
+b. 53.3%.
+c. 56.25%.
+d. 88.9%.
+ANS: C
+
+**Refer to Table 15-1.** The labor-force participation rate of Aridia
+a. increased from 2010 to 2011 and increased from 2011 to 2012.
+b. increased from 2010 to 2011 and decreased from 2011 to 2012.
+c. decreased from 2010 to 2011 and increased from 2011 to 2012.
+d. decreased from 2010 to 2011 and decreased from 2011 to 2012.
+ANS: D
+
+**Refer to Table 15-2.** How many people were employed in Baltivia in 2009?
+a. 9,600
+b. 10,600
+c. 11,000
+d. 11,200
+ANS: C
+
+**Refer to Table 15-2.** How many people were unemployed in Baltivia in 2009?
+a. 1,400
+b. 1,600
+c. 2,000
+d. 2,780
+ANS: B
+
+**Refer to Table 15-2.** How many people were in Baltivia’s labor force in 2009?
+a. 11,000
+b. 12,600
+c. 13,380
+d. 20,000
+ANS: B
+
+**Refer to Table 15-2.** How many adults were _not_ in Baltivia’s labor force in 2009?
+a. 4,400
+b. 6,620
+c. 7,400
+d. 8,690
+ANS: C
+
+**Refer to Table 15-2.** What was Baltivia’s unemployment rate in 2009?
+a. 8.0 percent
+b. 12.7 percent
+c. 15.9 percent
+d. 22.1 percent
+ANS: B
+
+**Refer to Table 15-2.** What was Baltivia’s labor-force participation rate in 2009?
+a. 55 percent
+b. 63 percent
+c. 66.9 percent
+d. 87.3 percent
+ANS: B
+
+**Labor Force Statistics by Age.**
+
+Suppose people in the adult population in a small country are classified based on their age.
+
+| Labor Force Status | less then 55 | 55 and older |
+| --- | --- | --- |
+| Number employed | 400,000 | 100,000 |
+| Number unemployed | 25,000 | 7,000 |
+| Number in Population | 600,000 | 200,000 |
+
+**Refer to Labor Force Statistics by Age**. In the proper order, which age group has the highest unemployment rate and which has the highest participation rate?
+a. under 55, under 55
+b. under 55, 55 and older
+c. 55 and older, under 55
+d. 55 and older, 55 and older
+ANS: C
+
+**Refer to Labor Force Statistics by Age**. Suppose that the natural rate of unemployment is 5% for those under 55 and 3% for those 55 and older. The cyclical unemployment rate for those under 55 is
+a. .88% which is greater than the cyclical unemployment rate for those 55 and older.
+b. .88% which is less than the cyclical unemployment rate for those 55 and older.
+c. \-.83% which is greater than the cyclical unemployment rate for those 55 and older.
+d. \-.83% which is less than the cyclical unemployment rate for those 55 and older.
+ANS: B
+
+The deviation of unemployment from its natural rate is called
+a. the normal rate of unemployment.
+b. deviant unemployment.
+c. cyclical unemployment.
+d. fluctuating unemployment.
+ANS: C
+
+If the natural rate of unemployment is 5.2 percent and the actual rate of unemployment is 5.7 percent, then by definition there is
+a. cyclical unemployment amounting to 0.5 percent of the labor force.
+b. frictional unemployment amounting to 0.5 percent of the labor force.
+c. structural unemployment amounting to 0.5 percent of the labor force.
+d. search unemployment amounting to 0.5 percent of the labor force.
+ANS: A
+
+A person who is not employed and claims to be trying hard to find a job but really is not trying hard to find a job
+a. is counted as out of the labor force but should be counted as unemployed.
+b. is counted as unemployed but should be counted as out of the labor force.
+c. is correctly counted as out of the labor force.
+d. is correctly counted as unemployed.
+ANS: B
+
+Suppose that some people are counted as unemployed when, to maintain unemployment compensation, they search for work only at places where they are unlikely to be hired. If these individuals were counted as out of the labor force instead of as unemployed, then
+a. both the unemployment rate and labor-force participation rate would be higher.
+b. both the unemployment rate and labor-force participation rate would be lower.
+c. the unemployment rate would be lower and the labor-force participation rate would be higher.
+d. the unemployment rate would be higher and the participation rate would be lower.
+ANS: B
+
+Suppose that some people report themselves as unemployed when, in fact, they are working in the underground economy. If these persons were counted as employed, then
+a. both the unemployment rate and labor-force participation rate would be higher.
+b. both the unemployment rate and labor-force participation rate would be lower.
+c. the unemployment rate would be higher and the labor-force participation rate would be higher.
+d. the unemployment rate would be lower and the labor-force participation rate would be unaffected.
+ANS: D
+
+Some people who are employed or who are not making serious effort to find employment will report themselves as unemployed. Some people who want to find work will be counted as out of the labor force.
+a. Both the first and the second fact tend to make the reported unemployment rate lower than otherwise.
+b. Both the first and the second fact tend to make the reported unemployment rate higher than otherwise.
+c. The first fact tends to make the reported unemployment rate higher than otherwise, while the second fact tends to make the reported unemployment rate lower than otherwise.
+d. The first fact tends to make the reported unemployment rate lower than otherwise, while the second fact tends to make the reported unemployment rate higher than otherwise.
+ANS: C
+
+TUIK counts discouraged workers as
+a. employed. Including them as employed makes the unemployment rate lower than otherwise.
+b. unemployed. Including them as unemployed makes the unemployment rate higher than otherwise.
+c. out of the labor force. If the were counted as unemployed the unemployment rate would be higher.
+d. None of the above is correct.
+ANS: C
+
+TUIK classifies people who would like to work but have given up looking for a job as
+a. unemployed. If they were classified as out of the labor force, the reported unemployment rate would be larger.
+b. unemployed. If they were classified as out of the labor force, the reported unemployment rate would be smaller.
+c. out of the labor force. If they were classified as unemployed, the reported unemployment rate would be larger.
+d. out of the labor force. If they were classified as unemployed, the reported unemployment rate would be smaller.
+ANS: C
+
+Who would be included in the labor force?
+a. Homer, who is waiting for his new job to start
+b. Michelle, who has become discouraged looking for a job and has quit looking
+c. Derrick, an unpaid homemaker
+d. None of the above would be included in the labor force.
+ANS: A
+
+The reported unemployment rate should be viewed as
+a. a useful but imperfect measure of joblessness.
+b. clearly smaller than the true unemployment rate.
+c. clearly larger than the true unemployment rate.
+d. being very close to the true unemployment rate.
+ANS: A
+
+Which of the following is _not_ correct?
+a. Most people who become unemployed will soon find jobs.
+b. In an ideal labor market, wages would adjust to ensure that all workers are always fully employed.
+c. The unemployment rate occasionally falls to zero.
+d. There are always some workers without jobs, even when the overall economy is doing well.
+ANS: C
+
+169\. Unemployment that results because it takes time for workers to search for the jobs that best suit their tastes and skills is called
+a. the natural rate of unemployment.
+b. cyclical unemployment.
+c. structural unemployment.
+d. frictional unemployment.
+ANS: D
+
+Unemployment that results because the number of jobs available in some labor markets may be insufficient to give a job to everyone who wants one is called
+a. the natural rate of unemployment.
+b. cyclical unemployment.
+c. structural unemployment.
+d. frictional unemployment.
+ANS: C
+
+Which of the following is _not_ an explanation for the existence of unemployment in the long run?
+a. it takes time for workers to search for the jobs that are best suited for them
+b. minimum-wage laws
+c. unions
+d. the business cycle
+ANS: D
+
+Frictional unemployment results from
+a. job searching. It is often thought to explain relatively short spells of unemployment.
+b. job searching. It is often thought to explain relatively long spells of unemployment
+c. a surplus in the some labor markets. It is often thought to explain relatively short spells of unemployment.
+d. a surplus in some labor markets. It is often thought to explain relatively long spells of unemployment.
+ANS: A
+
+Which of the following is _not_ an explanation for the existence of structural unemployment?
+a. efficiency wages
+b. job search
+c. minimum-wage laws
+d. unions
+ANS: B
+
+Frictional unemployment is thought to explain
+a. relatively short spells of unemployment, as is structural unemployment.
+b. relatively long spells of unemployment, as is structural unemployment.
+c. relatively short spells of unemployment, while structural unemployment is thought to explain relatively long spells of unemployment.
+d. relatively long spells of unemployment, while structural unemployment is thought to explain relatively short spells of unemployment.
+ANS: C
+
+People who are unemployed because wages are, for some reason, set above the level that brings labor supply and demand into equilibrium are best classified as
+a. cyclically unemployed.
+b. structurally unemployed.
+c. frictionally unemployed.
+d. discouraged workers.
+ANS: B
+
+John is a stockbroker. He has had several job offers, but he has turned them down because he thinks he can find a firm that better matches his tastes and skills. Curtis has looked for work as an accountant for some time. While the demand for accountants doesn’t appear to be falling, there seems to be more people applying than jobs available.
+a. John and Curtis are both frictionally unemployed.
+b. John and Curtis are both structurally unemployed.
+c. John is frictionally unemployed, and Curtis is structurally unemployed.
+d. John is structurally unemployed, and Curtis is frictionally unemployed.
+ANS: C
+
+Jenna is searching for a job that suits her tastes about where to live. Mary is looking for a job that makes best use of her skills.
+a. Jenna and Mary are both frictionally unemployed.
+b. Jenna and Mary are both structurally unemployed.
+c. Jenna is frictionally unemployed, and Mary is structurally unemployed.
+d. Jenna is structurally unemployed, and Mary is frictionally unemployed.
+ANS: A
+
+Sandy has graduated from college and is devoting her time to searching for a job. She has seen plenty of openings, but has not yet been offered one that best suits her tastes and skills. Sandy is
+a. structurally unemployed. Structural unemployment exists even in the long run.
+b. structurally unemployed. There is no structural unemployment in the long run.
+c. frictionally unemployed. Frictional unemployment exists even in the long run.
+d. frictionally unemployed. There is no frictional unemployment in the long run.
+ANS: C
+
+Teenagers have more frequent unemployment spells so on average they spend more time searching for jobs. Other thing the same this means that teenagers have a
+a. higher unemployment rate. If a larger portion of the adult population were teenaged, the natural rate of unemployment would be higher.
+b. higher unemployment rate. The portion of the adult population that is teenaged does not affect the natural rate of unemployment.
+c. lower unemployment rate. If a larger portion of the adult population were teenaged, the natural rate of unemployment would be lower.
+d. lower unemployment rate. The portion of the adult population that is teenaged does not affect the natural rate of unemployment.
+ANS: A
+
+The natural unemployment rate includes
+a. both frictional and structural unemployment.
+b. neither frictional nor structural unemployment.
+c. structural, but not frictional unemployment.
+d. frictional, but not structural unemployment.
+ANS: A
+
+Cyclical unemployment is caused by
+a. frictional and structural unemployment
+b. frictional but not structural unemployment
+c. structural but not frictional unemployment
+d. neither frictional nor structural unemployment
+ANS: D
+
+If all workers and all jobs were the same such that all workers were equally well suited for all jobs, then there would be no
+a. cyclical unemployment.
+b. frictional unemployment.
+c. natural rate of unemployment.
+d. structural unemployment.
+ANS: B
+
+Sectoral shifts in demand for output
+a. create structural unemployment.
+b. immediately reduce unemployment.
+c. increase unemployment due to job search.
+d. do not affect demand for labor.
+ANS: C
+
+From time to time, the demand for workers has risen in one region of the United States and fallen in another. This illustrates
+a. frictional unemployment created by efficiency wages.
+b. structural unemployment created by efficiency wages.
+c. frictional unemployment created by sectoral shifts.
+d. structural unemployment created by sectoral shifts.
+ANS: C
+
+Suppose that because of the popularity of the low-carb diet, bakeries need fewer workers and steak houses need more workers. The unemployment created by this change is
+a. frictional unemployment created by efficiency wages.
+b. frictional unemployment created by sectoral shifts.
+c. structural unemployment created by efficiency wages.
+d. structural unemployment created by sectoral shifts.
+ANS: B
+
+Suppose the demand for construction workers increased and the demands for textile and steel workers diminished. This is an example of
+a. frictional unemployment created by efficiency wages.
+b. structural unemployment created by efficiency wages.
+c. frictional unemployment created by sectoral shifts.
+d. structural unemployment created by sectoral shifts.
+ANS: C
+
+Suppose that consumers choose to smoke less and chew gum more. Tobacco companies cut back on the number of people they employ while chewing gum manufacturers employ more. This is an example of
+a. structural unemployment created by efficiency wages.
+b. structural unemployment created by sectoral shifts.
+c. frictional unemployment created by efficiency wages.
+d. frictional unemployment created by sectoral shifts.
+ANS: D
+
+The invention of the telegraph led to the loss of jobs for those who had delivered mail by horse, but created jobs for telegraph operators and delivery persons. This is an example of
+a. structural unemployment created by efficiency wages.
+b. structural unemployment created by sectoral shifts.
+c. frictional unemployment created by efficiency wages.
+d. frictional unemployment created by sectoral shifts.
+ANS: D
+
+Frictional unemployment is inevitable because
+a. sectoral shifts are always happening.
+b. there is a federal minimum-wage law in the U.S.
+c. some people do not want to be employed.
+d. unions are very popular in the U.S.
+ANS: A
+
+Which of the following does _not_ help reduce frictional unemployment?
+a. government-run employment agencies
+b. public training programs
+c. unemployment insurance
+d. All of the above help reduce frictional unemployment.
+ANS: C
+
+Providing training for unemployed individuals is primarily intended to reduce
+a. frictional unemployment.
+b. seasonal unemployment.
+c. structural unemployment.
+d. cyclical unemployment.
+ANS: A
+
+Of the following groups, who is eligible for unemployment insurance benefits?
+a. the unemployed who quit their jobs
+b. the unemployed who were laid off because their previous employers no longer needed their skills
+c. the unemployed who were fired for cause
+d. the unemployed who just entered the labor force
+ANS: B
+
+Unemployment insurance
+a. reduces search effort which raises unemployment.
+b. reduces search effort which lowers unemployment.
+c. increases search effort which raises unemployment.
+d. increases search effort which decreases unemployment.
+ANS: A
+
+Evidence from research studies by economists
+a. shows that increased unemployment benefits decrease the job search efforts of the unemployed.
+b. shows that increased unemployment benefits have virtually no effect on the job search efforts of the unemployed.
+c. shows that increased unemployment benefits increase the job search efforts of the unemployed.
+d. is conflicting on what increased unemployment benefits do to the job search efforts of the unemployed.
+ANS: A
+
+More generous unemployment insurance would
+a. raise structural unemployment.
+b. raise frictional unemployment.
+c. lower structural unemployment.
+d. lower frictional unemployment.
+ANS: B
+
+Economists would predict that, other things the same, the more generous unemployment compensation a country has,
+a. the shorter the duration of each spell of unemployment, and the higher the unemployment rate.
+b. the shorter the duration of each spell of unemployment, and the lower the unemployment rate.
+c. the longer the duration of each spell of unemployment, and the higher the unemployment rate.
+d. the longer the duration of each spell of unemployment, and the lower the unemployment rate.
+ANS: C
+
+Unemployment insurance
+a. may improve the ability of the economy to match workers with appropriate jobs.
+b. reduces the job search efforts of the unemployed.
+c. increases the amount of frictional unemployment in the economy.
+d. All of the above are correct.
+ANS: D
+
+Unemployment insurance
+a. reduces the hardship of unemployment, but it also increases the amount of unemployment.
+b. reduces the incentive for the unemployed to find and take new jobs.
+c. causes workers to be less likely to seek guarantees of job security when they negotiate with employers over the terms of employment.
+d. All of the above are correct.
+ANS: D
+
+In the 1990’s Ireland made unemployment benefits less generous. This change would likely have
+a. reduced structural unemployment and the natural rate of unemployment
+b. reduced structural unemployment but not the natural rate of unemployment
+c. reduced frictional unemployment and the natural rate of unemployment
+d. reduced frictional unemployment but not the natural rate of unemployment
+ANS: C
+
+Frictional unemployment is
+a. not inevitable; rather, it can be reduced to zero by well-designed public policies.
+b. not inevitable; rather, it could be reduced to zero if by the elimination of unemployment insurance.
+c. inevitable, because at any given time, jobs are being created in some firms and destroyed in other firms.
+d. inevitable, because in some industries, wages are always set above the level that brings supply and demand into equilibrium.
+ANS: C
+
+Which of the following is _not_ a cause of frictional unemployment?
+a. the destruction of manufacturing jobs
+b. a worker leaving a job to find one with better benefits
+c. minimum-wage laws
+d. unemployment insurance
+ANS: C
+
+Which of the following is _not_ correct?
+a. The unemployment rate is an imperfect measure of a nation’s overall level of economic well-being.
+b. Most job search in the U.S. economy takes place without intervention by the government.
+c. Most economists agree that eliminating unemployment insurance would increase the nation’s overall level of well-being.
+d. Other things the same, countries that offer more generous and longer-lasting unemployment insurance benefits are likely to have higher unemployment rates.
+ANS: C
+
+Minimum wages create unemployment in markets where they create a
+a. shortage of labor. Unemployment of this type is called frictional.
+b. shortage of labor. Unemployment of this type is called structural.
+c. surplus of labor. Unemployment of this type is called frictional.
+d. surplus of labor. Unemployment of this type is called structural.
+ANS: D
+
+When a minimum-wage law forces the wage to remain above the level that balances supply and demand, it
+a. raises the quantity of labor supplied and raises the quantity of labor demanded compared to the equilibrium level.
+b. raises the quantity of labor supplied and reduces the quantity of labor demanded compared to the equilibrium level.
+c. reduces the quantity of labor supplied and raises the quantity of labor demanded compared to the equilibrium level.
+d. reduces the quantity of labor supplied and reduces the quantity of labor demanded compared to the equilibrium level.
+ANS: B
+
+When a minimum-wage law forces the wage to remain above the level that balances supply and demand, the result is a
+a. shortage of labor and a shortage of jobs.
+b. shortage of labor and a surplus of jobs.
+c. surplus of labor and a shortage of jobs.
+d. surplus of labor and a surplus of jobs.
+ANS: C
+
+An increase in the minimum wage
+a. increases both the quantity demanded and the quantity supplied of labor.
+b. decreases both the quantity demanded and the quantity supplied of labor.
+c. increases the quantity of labor demanded but decreases the quantity of labor supplied.
+d. decreases the quantity of labor demanded but increases the quantity of labor supplied.
+ANS: D
+
+An increase in the minimum wage
+a. reduces structural unemployment.
+b. reduces frictional unemployment,
+c. increases structural unemployment.
+d. increases fricitional unemployment.
+ANS: C
+
+**Refer to Table 33-33**. If the government imposed a minimum wage of $5, what would unemployment be?
+a. 0  
+b. 2,000
+c. 3,000
+d. 5,000
+ANS: A
+
+**Refer to Table 33-33**. If the government imposed a minimum wage of $7, what would unemployment be?
+a. 0  
+b. 2,000
+c. 3,000
+d. 5,000
+ANS: D
+
+**Refer to Figure 15-1.** At the equilibrium wage, how many workers are unemployed?
+a. 0  
+b. 4000
+c. 5000
+d. 8000
+ANS: A
+
+**Refer to Figure 15-1.** At the equilibrium wage, how many workers are employed?
+a. 0  
+b. 1000
+c. 5000
+d. 9000
+ANS: C
+
+**Refer to Figure 15-1.** If the government imposes a minimum wage of $4, then how many workers will be unemployed?
+a. 0  
+b. 3000
+c. 4000
+d. 7000
+ANS: A
+
+**Refer to Figure 15-1.** If the government imposes a minimum wage of $4, then how many workers will be employed?
+a. 3000
+b. 4000
+c. 5000
+d. 7000
+ANS: C
+
+**Refer to Figure 15-1.** If the government imposes a minimum wage of $4, then unemployment will increase by
+a. 0 workers.
+b. 2000 workers.
+c. 4000 workers.
+d. 5000 workers.
+ANS: A
+
+**Refer to Figure 15-1.** If the government imposes a minimum wage of $4, then employment will decrease by
+a. 0 workers.
+b. 2000 workers.
+c. 3000 workers.
+d. 4000 workers.
+ANS: A
+
+**Refer to Figure 15-1.** If the government imposes a minimum wage of $8, then how many workers will be unemployed?
+a. 0  
+b. 3000
+c. 4000
+d. 7000
+ANS: C
+
+**Refer to Figure 15-1.** If the government imposes a minimum wage of $8, then how many workers will be employed?
+a. 3000
+b. 4000
+c. 5000
+d. 7000
+ANS: A
+
+**Refer to Figure 15-1.** If the government imposes a minimum wage of $8, then unemployment will increase by
+a. 0 workers.
+b. 2000 workers.
+c. 4000 workers.
+d. 7000 workers.
+ANS: C
+
+**Refer to Figure 15-1.** If the government imposes a minimum wage of $8, then employment will decrease by
+a. 0 workers.
+b. 2000 workers.
+c. 3000 workers.
+d. 4000 workers.
+ANS: B
+
+**Refer to Figure 15-1.** If unemployment is 2000 workers, then the minimum wage must be
+a. $4.
+b. $5.
+c. $7.
+d. $8.
+ANS: C
+
+Wages in excess of their equilibrium level help explain
+a. structural unemployment but not the natural rate of unemployment.
+b. the natural rate of unemployment but not structural unemployment.
+c. both structural unemployment and the natural rate of unemployment.
+d. neither structural unemployment nor the natural rate of unemployment.
+ANS: C
+
+Other things the same, an increase in wages above their equilibrium level
+a. increases frictional unemployment but leaves the natural rate of unemployment unchanged.
+b. increases frictional unemployment and increases the natural rate of unemployment.
+c. increases structural unemployment but leaves the natural rate of unemployment unchanged.
+d. increases structural unemployment and increases the natural rate of unemployment.
+ANS: D
+
+Which of the following does _not_ create unemployment by keeping wages above the equilibrium level?
+a. efficiency wages
+b. job search
+c. minimum-wage laws
+d. unions
+ANS: B
+
+Workers searching for jobs that best suit them is most closely associated with
+a. cyclical unemployment.
+b. frictional unemployment.
+c. seasonal unemployment.
+d. structural unemployment.
+ANS: B
+
+Workers waiting for jobs to open up is most closely associated with
+a. cyclical unemployment.
+b. frictional unemployment.
+c. seasonal unemployment.
+d. structural unemployment.
+ANS: D
+
+Sam has no job but keeps applying to get a job with a business that is unionized. He is qualified and he finds the pay attractive, but the firm is not hiring. Sam is
+a. structurally unemployed. Structural unemployment exists even in the long run.
+b. structurally unemployed. Structural unemployment does not exist in the long run.
+c. frictionally unemployed. Frictional unemployment exists even in the long run.
+d. frictionally unemployed. Frictional unemployment does not exist in the long run.
+ANS: A
+
+When a union bargains successfully with employers, in that industry,
+a. both the quantity of labor supplied and the quantity of labor demanded increase.
+b. both the quantity of labor supplied and the quantity of labor demanded decrease.
+c. the quantity of labor supplied increases and the quantity of labor demanded decreases.
+d. the quantity of labor demanded increases and the quantity of labor supplied decreases.
+ANS: C
+
+When a union bargains successfully with employers, in that industry,
+a. wages and unemployment increase.
+b. wages increase and unemployment decreases.
+c. wages decrease and unemployment increases.
+d. wages and unemployment decrease.
+ANS: A
+
+Which of the following do unions not cause?
+a. frictional unemployment
+b. the wage to rise above the equilibrium level
+c. conflict between insiders who benefit from high union wages and outsiders who do not get the union jobs
+d. reduced wages in industries without unions
+ANS: A
+
+Unions contribute to
+a. cyclical unemployment.
+b. frictional unemployment.
+c. seasonal unemployment.
+d. structural unemployment.
+ANS: D
+
+Unions contribute to
+a. frictional unemployment but not the natural rate of unemployment.
+b. the natural rate of unemployment but not frictional unemployment.
+c. both frictional unemployment and the natural rate of unemployment.
+d. neither frictional unemployment nor the natural rate of unemployment.
+ANS: B
+
+The theory of efficiency wages explains why
+a. setting wages at the equilibrium level may increase unemployment.
+b. it may be in the best interest of firms to offer wages that are above the equilibrium level.
+c. the most efficient way to pay workers is to pay them according to their skills.
+d. it is efficient for firms to set wages at the equilibrium level.
+ANS: B
+
+Paying efficiency wages means that wages are
+a. above equilibrium and profits are higher than otherwise.
+b. above equilibrium and profits are lower than otherwise.
+c. below equilibrium and profits are higher than otherwise.
+d. below equilibrium and profits are lower than otherwise.
+ANS: A
+
+Efficiency wages
+a. increase productivity and reduce unemployment.
+b. increase productivity but increase unemployment.
+c. decrease productivity but reduce unemployment.
+d. decrease productivity and increase unemployment.
+ANS: B
+
+Suppose that efficiency wages become more common in the economy. Imposing efficiency wages
+a. increases the quantity demanded and decreases the quantity supplied of labor.
+b. decreases the quantity demanded and increases the quantity supplied of labor.
+c. increases the quantity demanded and decreases the quantity supplied of labor.
+d. decreases the quantity demanded and increases the quantity supplied of labor.
+ANS: B
+
+Efficiency wages create a labor
+a. surplus and so increase unemployment.
+b. surplus and so decrease unemployment.
+c. shortage and so increase unemployment.
+d. shortage and so decrease unemployment.
+ANS: A
+
+Efficiency wages
+a. increase frictional unemployment by keeping wages above equilibrium.
+b. decrease frictional unemployment by keeping wages at equilibrium.
+c. increase structural unemployment by keeping wages above equilibrium.
+d. decrease structural unemployment by keeping wages at equilibrium.
+ANS: C
+
+Efficiency wages
+a. create a shortage of labor, and so reduce unemployment.
+b. create a shortage of labor, and so raise unemployment.
+c. create a surplus of labor, and so reduce unemployment.
+d. create a surplus of labor, and so raise unemployment.
+ANS: D
+
+Efficiency-wage theory suggests that paying
+a. low wages might be profitable because they raise the efficiency of a firm’s workers.
+b. low wages might be profitable because they lower the efficiency of a firm’s workers.
+c. high wages might be profitable because they raise the efficiency of a firm’s workers.
+d. high wages might be profitable because they lower the efficiency of a firm’s workers.
+ANS: C
+
+Tara, the CEO of a corporation operating in a relatively poor country where wages are low, decides to raise the wages of her workers even though she faces an excess supply of labor. Her decision
+a. might increase profits if it means that the wage is high enough for her workers to eat a nutritious diet that makes them more productive.
+b. will help eliminate the excess supply of labor.
+c. may cause her workers to increase shirking.
+d. All of the above are correct.
+ANS: A
+
+Brian is the owner of a firm that produces bottled water in Washington state. There are many other such firms in the area. Brian decides that if he pays his workers a wage higher than the going market wage, his profits will increase. Which of the following is a likely explanation for his decision?
+a. The higher the wage, the less often his workers will choose to leave his firm.
+b. The higher the wage, the lower will be the cost of obtaining needed supplies.
+c. The higher the wage, the more he can charge for his water.
+d. The higher the wage, the more he will have to monitor his workers for shirking.
+ANS: A
+
+The efficiency-wage theory of worker turnover suggests that firms with higher turnover will have
+a. higher production costs and higher profits.
+b. higher production costs and lower profits.
+c. lower production costs and higher profits.
+d. lower production costs and lower profits.
+ANS: B
+
+Noah, the owner of an electronics factory, decides to raise the wages of his workers even though he faces an excess supply of labor. His decision
+a. might increase profits if it attracts a better pool of workers to apply for his firm’s jobs.
+b. will increase the excess supply of labor.
+c. may increase the quality of his work force.
+d. All of the above are correct.
+ANS: D
+
+A firm may pay efficiency wages in an attempt to
+a. reduce incentives to shirk.
+b. reduce turnover.
+c. attract a well-qualified pool of applicants.
+d. All of the above are correct.
+ANS: D
+
+According to the theory of efficiency wages, if a firm _stops_ paying efficiency wages it is likely to see
+a. an increase in the number of job applicants and an increase in how long workers stay on the job
+b. an increase in the number of job applicants and a decrease in how long workers stay on the job
+c. a decrease in the number of job applicants and an increase in how long workers stay on the job
+d. a decrease in the number of job applicants and a decrease in how long workers stay on the job
+ANS: D
+
+Minimum-wage laws, unions, and efficiency wages contribute to
+a. both structural unemployment and the natural rate of unemployment.
+b. neither structural unemployment nor the natural rate of unemployment.
+c. structural unemployment, but not the natural rate of unemployment.
+d. the natural rate of unemployment, but not structural unemployment.
+ANS: A
+
+**Chapter 25: Production and Growth**
+
+Which of the following is a good gauge of economic progress?
+a. the level of real GDP per person, but not the growth rate of real GDP per person
+b. the level of real GDP per person and the growth rate of real GDP per person
+c. the growth rate of real GDP per person, but not the level of real GDP per person
+d. neither the level nor the growth rate of real GDP per person
+ANS: C
+
+Productivity is the amount of goods and services
+a. an economy produces. It is not linked to a nation’s economic policies.
+b. an economy produces. It is linked to a nation’s economic policies.
+c. produced for each hour of a worker’s time. It is not linked to a nation’s economic policies.
+d. produced for each hour of a worker’s time. It is linked to a nation’s economic policies.
+ANS: D
+
+Which of the following can be measured by the level of real GDP per person?
+a. productivity and the standard of living
+b. productivity but not the standard of living
+c. the standard of living but not productivy
+d. neither the standard of living nor productivity
+ANS: C
+
+Which of the following is correct?
+a. Although levels of real GDP per person vary substantially from country to country, the growth rate of real GDP per person is similar across countries.
+b. Productivity is not closely linked to government policies.
+c. The level of real GDP per person is a good gauge of economic prosperity, and the growth rate of real GDP per person is a good gauge of economic progress.
+d. Productivity may be measured by the growth rate of real GDP per person.
+ANS: C
+
+The one variable that stands out as the most significant explanation of large variations in living standards around the world is
+a. productivity.
+b. population.
+c. preferences.
+d. prices.
+ANS: A
+
+_Productivity_ is defined as the quantity of
+a. labor required to produce a nation’s GDP.
+b. labor required to produce one unit of goods and services.
+c. goods and services produced from each unit of labor input.
+d. goods and services produced per unit of time.
+ANS: C
+
+Which of the following is a correct way to measure productivity?
+a. Divide the number of hours worked by the quantity of output.
+b. Divide the quantity of output by the number of hours worked.
+c. Determine how much output is produced in a given time.
+d. Determine how much time it takes to produce a unit of output.
+ANS: B
+
+The key determinant of the standard of living in a country is
+a. the amount of goods and services produced from each hour of a worker's time.
+b. the total amount of goods and services produced within the country.
+c. the total amount of its physical capital.
+d. its growth rate of real GDP.
+ANS: A
+
+For a given year, productivity in a particular country is most closely matched with that country's
+a. level of real GDP over that year.
+b. level of real GDP divided by hours worked over that year.
+c. growth rate of real GDP divided by hours worked over that year.
+d. growth rate of real GDP per person over that year.
+ANS: B
+
+Which of the following would, by itself, reveal the most about a country’s standard of living?
+a. its level of capital
+b. the number of hours worked
+c. its availability of natural resources
+d. its productivity
+ANS: D
+
+Productivity
+a. is nearly the same across countries, and so provides no help explaining differences in the standard of living across countries.
+b. explains very little of the differences in the standard of living across countries.
+c. explains some, but not most of the differences in the standard of living across countries.
+d. explains most of the differences in the standard of living across countries.
+ANS: D
+
+Over the last ten years productivity grew faster in Oceania than in Freedonia and the population and total hours worked remained the same in both countries. It follows that
+a. real GDP per person must be higher in Oceania than in Freedonia.
+b. real GDP per person grew faster in Oceania than in Freedonia.
+c. the standard of living must be higher in Oceania than in Freedonia.
+d. All of the above are correct.
+ANS: B
+
+Given that a country’s real output has increased, in which of the following cases can we be sure that its productivity also has increased?
+a. The total number of hours worked rose.
+b. The total number of hours worked stayed the same.
+c. The total number of hours worked fell.
+d. Both b and c are correct.
+ANS: D
+
+Phoenix furniture uses 10 workers, each working eight hours, to produce 80 rocking chairs. What is Phoenix’s productivity?
+a. 80 rocking chairs
+b. 10 rocking chairs per hour
+c. 1 rocking chair per hour
+d. 1 hour per rocking chair
+ANS: C
+
+Strike Out Bowling Balls produces 800 bowling balls per day using 2 workers who each work 8 hours per day. What is Strike Out’s productivity?
+a. 800 bowling balls
+b. 100 bowling balls per hour
+c. 50 bowling balls per hour
+d. None of the above is correct.
+ANS: C
+
+In one day Madison Laundry washed 4,000 pounds of laundry with 5 workers who each worked 8 hours. What was its productivity?
+a. 4000 pounds of laundry
+b. 500 pounds of laundry per hour
+c. 100 pounds of laundry per hour
+d. None of the above is correct.
+ANS: C
+
+You and your friend work together for 4 hours to produce a total of 12 futons. What is productivity?
+a. 12 futons
+b. 24 futons
+c. 3 futons per hour of labor
+d. 1.5 futons per hour of labor
+ANS: D
+
+In one day Portal Computer Company made 400 laptops with 1200 hours of labor. What was its productivity?
+a. 1/3 laptop per hour
+b. 3 hours per laptop
+c. 1200 laptops
+d. 400 laptops
+ANS: A
+
+Mary looks over reports on four of her workers. Jack made 25 baskets in 5 hours. Walter made 36 baskets in 6 hours. Rudy made 40 baskets in 10 hours. Sam made 22 baskets in four hours. Who has the greatest productivity?
+a. Jack
+b. Walter
+c. Rudy
+d. Sam
+ANS: B
+
+A barber shop produces 96 haircuts a day. Each barber in the shop works 8 hours per day and produces the same number of haircuts per hour. If the shop’s productivity is 2 haircuts per hour of labor, then how many barbers does the shop employ?
+a. 2  
+b. 3  
+c. 4  
+d. 6  
+ANS: D
+
+Miller’s Dairy produces 960 gallons of milk per day. Each milker at the dairy works 8 hours per day and produces the same number of gallons of milk per hour. If the Dairy’s productivity is 12 gallons of milk per hour of labor, then how many milkers does the shop employ?
+a. 8  
+b. 10 
+c. 80 
+d. 120
+ANS: B
+
+Adam and Doug both build birdhouses. Adam works 20 hours a week and produces 12 bird houses. Doug works 30 hours a week and produces 15 bird houses. Which of the following is correct?
+a. Adam’s production and productivity are higher than Doug’s.
+b. Adam’s production is higher than Doug’s, but Doug’s productivity is higher than Adam’s.
+c. Doug’s production is higher than Adam’s, but Adam’s productivity is higher than Doug’s.
+d. Doug’s production and productivity are higher than Adam’s.
+ANS: C
+
+Alexis and Tara both mine salt. Alexis mines 400 pounds in 40 hours. Tara mines 300 pounds in 20 hours. Which of the following is correct?
+a. Alexis’s productivity is greater than Tara’s. This difference could be explained by Alexis having more physical capital than Tara.
+b. Alexis’s productivity is greater than Tara’s. This difference cannot be explained by a difference in the physical capital each has.
+c. Tara’s productivity is greater than Alexis’s. This difference could be explained by Tara having more physical capital than Alexis.
+d. Tara’s productivity is greater than Alexis’s. This difference cannot be explained by a difference in the physical capital each has.
+ANS: C
+
+Waldo works eight hours and produces 7 units of goods per hour. Emerson works six hours and produces 10 units of goods per hour.
+a. Waldo’s productivity and output are greater than Emerson’s.
+b. Waldo’s productivity is greater than Emerson’s but his output is less.
+c. Emerson’s productivity and output are greater than Waldo’s.
+d. Emerson’s productivity is greater than Waldo’s but his output is less.
+ANS: C
+
+Nathan owns a bakery that bakes only cakes. All of his bakers work 8 hours per day. In 2009, he employed 5 bakers who produced a total of 200 cakes each day. In 2010, he employed 6 bakers who produced a total of 249 cakes each day. The bakery’s productivity
+a. decreased by 2.33%.
+b. increased by 2.33%.
+c. increased by 3.75%.
+d. increased by 24.50%.
+ANS: C
+
+In 2009 Buckeye Brewing produced 1,000 bottles of ginger ale each day. It employed 10 workers each working 8 hours a day. In 2010 it produced 960 bottles of ginger ale each day employing 8 workers who worked 8 hours each day. Productivity at Buckeye Brewing
+a. increased by 20%.
+b. increased by 16.67%.
+c. decreased by 1.67%.
+d. decreased by 40%.
+ANS: A
+
+In 2009, Modern Electronics, Inc. produced 60,000 calculators, employing 80 workers, each of whom worked 8 hours per day. In 2010, the same firm produced 76,500 calculators, employing 85 workers, each of whom worked 10 hours per day. Productivity at Modern Electronics
+a. decreased by 4%
+b. remained constant.
+c. increased by 8.33%
+d. increased by 27.50%
+ANS: A
+
+Real Foods produced 400,000 cans of diced tomatoes in 2009 and 460,000 cans of diced tomatoes in 2010. It employed the same number of labor hours each year. Real Foods’ productivity
+a. decreased 13 percent.
+b. was unchanged.
+c. increased 13 percent.
+d. increased 15 percent.
+ANS: D
+
+In 2009, Angel Foods produced 300,000 bags of tortilla chips, employing 12,000 hours of labor. In 2010, Angel Foods produced 325,000 bags of tortilla chips, employing 13,000 hours of labor. Angel Food’s productivity
+a. decreased by 2.1 percent.
+b. was unchanged.
+c. increased by 1.3 percent.
+d. increased by 2.3 percent.
+ANS: B
+
+Dilbert’s Incorporated produced 6,000,000 units of software in 2008. At the start of 2009 the pointy-haired boss raised employment from 10,000 total annual hours to 14,000 annual hours and production was 7,000,000 units. These number indicate that productivity
+a. fell by about 16.7%.
+b. stayed the same.
+c. rose by about 16.7%.
+d. rose by about 40%.
+ANS: A
+
+Country A has a population of 1,000, of whom 800 work 8 hours a day to make 128,000 final goods. Country B has a population of 2,000, of whom 1,800 work 6 hours a day to make 270,000 final goods.
+a. Country A has higher productivity and higher real GDP per person than country B.
+b. Country A has lower productivity and lower real GDP per person than country B.
+c. Country A has higher productivity, but lower real GDP per person than country B.
+d. Country B has lower productivity, but higher real GDP per person than country B.
+ANS: B
+
+Workland has a population of 10,000, of whom 7,000 work 8 hours a day to produce a total of 224,000 final goods. Laborland has a population of 5,000, of whom 4,000 work 12 hours a day to produce a total of 120,000 final goods.
+a. Workland has higher productivity and higher real GDP per person than Laborland.
+b. Workland has higher productivity but lower real GDP per person than Laborland.
+c. Workland has lower productivity but higher real GDP per person than Laborland.
+d. Workland has lower productivity and lower real GDP per person than Laborland.
+ANS: B
+
+Country A has a population of 1,000, of whom 700 worked an average of 8 hours a day and had a productivity of 2.5. Country B has a population of 800, of whom 560 worked 8 hours a day and had productivity of 3.0. The country with the higher real GDP was
+a. country A, and the country with higher real GDP per person was country A.
+b. country A, and the country with higher real GDP per person was country B.
+c. country B, and the country with higher real GDP per person was country A.
+d. country B, and the country with higher real GDP per person was country B.
+ANS: B
+
+**Refer to Table 12-1**. Which of the following is correct?
+a. Both real GDP and real GDP per person are higher in Athens than Troy.
+b. Real GDP is higher in Athens while real GDP per person is higher in Troy
+c. Real GDP is higher in Troy while real GDP per person is higher in Athens.
+d. Both real GDP and real GDP per person are higher in Troy than Athens.
+ANS: A
+
+**Refer to Table 12-1**. Which of the following is correct?
+a. Both productivity and the standard of living are higher in Athens than Troy.
+b. Productivity is higher in Athens while the standard of living is higher in Troy
+c. Productivity is higher in Troy while the standard of living is higher in Athens.
+d. Both productivity and the standard of living are higher in Troy than Athens.
+ANS: C
+
+Last year a country had 800 workers who worked an average of 8 hours and produced 12,800 units. This year the same country had 1000 workers who worked an average of 8 hours and produced 14,000 units. This country’s productivity was
+a. higher this year than last year. A possible source of this change in productivity is a change in the size of the capital stock.
+b. higher this year than last year. A change in the size of the capital stock does not affect productivity.
+c. lower this year than last year. A possible source of this change in productivity is a change in the size of the capital stock.
+d. lower this year than last year. A change in the size of the capital stock does not affect productivity.
+ANS: C
+
+Each day Sonja works 8 hours and produces 8 units of goods and services. Emma works 10 hours each day and produces 9 units of goods and services. It follows that
+a. Sonja’s productivity is higher than Emma’s.
+b. Emma’s productivity is higher than Sonja’s.
+c. Emma’s income per hour will be higher than Sonja’s.
+d. Sonja’s income per day will be higher than Emma’s.
+ANS: A
+
+Which of the following would _not_ be considered physical capital?
+a. a new factory building
+b. a computer used to help Mercury Delivery Service keep track of its orders
+c. on-the-job training
+d. a desk used in an accountant's office
+ANS: C
+
+Which of the following is physical capital?
+a. the strength of workers
+b. the knowledge of workers
+c. financial assets like cash and bonds
+d. the equipment in a factory
+ANS: D
+
+Which of the following would be considered physical capital?
+a. the refrigerators at Uncle Bob’s restaurant
+b. rivers on which goods are transported
+c. the skills and knowledge of a lawyer
+d. All of the above are correct.
+ANS: A
+
+Human capital is the
+a. knowledge and skills that workers acquire through education, training, and experience.
+b. stock of equipment and structures that is used to produce goods and services.
+c. total number of hours worked in an economy.
+d. same thing as technological knowledge.
+ANS: A
+
+Which of the following is considered human capital? Knowledge acquired from
+a. early childhood education programs
+b. job training
+c. on-the-job experience
+d. All of the above are correct.
+ANS: D
+
+Which of the following is human capital?
+a. a student loan
+b. understanding how to use a company's accounting software
+c. training videos for new corporate employees
+d. All of the above are correct.
+ANS: B
+
+Which of the following is considered human capital?
+a. the comfortable chair in your dorm room where you read economics texts
+b. the amount you get paid each week to work at the library
+c. the things you have learned this semester
+d. any capital goods that require a human to be present to operate
+ANS: C
+
+Megan is a landscaper. Which of the following are included in her human capital?
+a. her knowledge of landscaping learned in college and her landscaping equipment
+b. her knowledge of landscaping learned in college, but not her landscaping equipment
+c. her landscaping equipment, but not her knowledge of landscaping learned in college
+d. neither her knowledge of landscaping learned in college nor her landscaping equipment
+ANS: B
+
+Ralph is a plumber. Which of the following are included in his physical capital?
+a. the knowledge he learned on the job, and the tools he uses
+b. the knowledge he learned on the job, but not the tools he uses
+c. the tools he uses, but not the knowledge he learned on the job
+d. neither the knowledge he learned on the job nor the tools he uses
+ANS: C
+
+Which of the following are human capital and physical capital, respectively?
+a. for an accounting firm: the accountants’ knowledge of tax laws and computer software
+b. for a grocery store: grocery carts and shelving
+c. for a school: chalkboard and desks
+d. for a library: the building and the reference librarians’ knowledge of the Internet
+ANS: A
+
+Which of the following are human capital and physical capital, respectively?
+a. for a brick layer: her bricks and her tools
+b. for a gas station: the pumps and the cash register
+c. for a restaurant: the chefs’ knowledge about preparing food and the equipment in the kitchen
+d. for a medical office: the building and the doctors’ knowledge of medicine
+ANS: C
+
+The inputs into production of goods and services that are provided by nature, such as land, rivers, and mineral deposits are called
+a. physical capital.
+b. natural resources.
+c. human capital.
+d. technological knowledge.
+ANS: B
+
+Natural resources
+a. are inputs provided by nature.
+b. include land, rivers, and mineral deposits.
+c. take two forms: renewable and nonrenewable.
+d. All of the above are correct.
+ANS: D
+
+Which of the following best states economists' understanding of the facts concerning the relationship between natural resources and economic growth?
+a. A country with no or few domestic natural resources is destined to be poor.
+b. Differences in natural resources have virtually no role in explaining differences in standards of living.
+c. Some countries can be rich mostly because of their natural resources and countries without natural resources need not be poor, but can never have very high standards of living.
+d. Abundant domestic natural resources may help make a country rich, but even countries with few natural resources can have high standards of living.
+ANS: D
+
+Technological knowledge refers to
+a. human capital.
+b. available information on how to produce things.
+c. resources expended transmitting society's understanding to the labor force.
+d. All of the above are technological knowledge.
+ANS: B
+
+Which of the following lists contains, in this order, natural resources, human capital, and physical capital?
+a. For a restaurant: the land the restaurant was built on, the things the Chef learned at Cooking School, the freezers where the chops and steaks are kept.
+b. For a furniture company: wood, the company cafeteria, saws.
+c. For a railroad: fuel, railroad engines, railroad tracks.
+d. None of the above is correct.
+ANS: A
+
+Other things the same, which of the following would increase productivity?
+a. an increase in either human or physical capital
+b. an increase in human capital but not an increase in physical capital
+c. an increase in physical capital but not an increase in human capital
+d. neither an increase in human capital nor an increase in physical capital
+ANS: A
+
+Which of the following would increase productivity?
+a. an increase in the physical capital stock per worker
+b. an increase in human capital per worker
+c. an increase in natural resources per worker
+d. All of the above are correct.
+ANS: D
+
+Which of the following is a determinant of productivity?
+a. human capital per worker
+b. physical capital per worker
+c. natural resources per worker
+d. All of the above are correct.
+ANS: D
+
+In a particular production process, if the quantities of all inputs used double, then the quantity of output doubles as well. This means that
+a. the production process cannot be enhanced by technological advances.
+b. no mathematical representation of the relevant production function can be formulated.
+c. the relevant production function has the limits-to-growth property.
+d. the relevant production function has the constant-returns-to-scale property.
+ANS: D
+
+If your firm’s production function has constant returns to scale, then if you double all your inputs, your firm's output will
+a. double and productivity will rise.
+b. double but productivity will not change.
+c. more than double and productivity will rise.
+d. more then double but productivity will not change.
+ANS: B
+
+If your firm’s production function has constant returns to scale, and if you double all your inputs, then your firm's productivity will
+a. not change.
+b. increase but not double.
+c. double.
+d. more than double.
+ANS: A
+
+If your firm’s production function has constant returns to scale and you increase all your inputs by 60%, then your firm's output will
+a. not change.
+b. increase, but by less than 60%
+c. increase by 60%
+d. increase by more than 60%.
+ANS: C
+
+An economy’s production function has the constant-returns-to-scale property. If the economy’s labor force doubled and all other inputs stayed the same, then real GDP would
+a. stay the same.
+b. increase by exactly 50 percent.
+c. increase by exactly 100 percent.
+d. increase, but not necessarily by either 50 percent or 100 percent.
+ANS: D
+
+If an economy with constant returns to scale were to double its physical capital stock, its available natural resources, and its human capital, but leave the size of the labor force the same,
+a. its output would stay the same and so would its productivity.
+b. its output and productivity would increase, but less than double.
+c. its output and productivity would increase by more than double.
+d. None of the above is correct.
+ANS: B
+
+Other things the same, when an economy increases its saving rate
+a. consumption and production rise now.
+b. consumption rises now and production rises later
+c. consumption falls now and production rises later.
+d. consumption falls now and production falls later.
+ANS: C
+
+When a society decides to increase its quantity of physical capital, the society
+a. can avoid the usual need to face trade-offs.
+b. is apparently not very concerned about its rate of economic growth in the future.
+c. is in effect deciding to consume fewer goods and services in the present.
+d. is in effect deciding to save less of its current income in the present.
+ANS: C
+
+Accumulating capital
+a. requires that society sacrifice consumption goods in the present.
+b. allows society to consume more in the present.
+c. decreases saving rates.
+d. involves no tradeoffs.
+ANS: A
+
+The traditional view of the production process is that capital is subject to
+a. constant returns.
+b. increasing returns.
+c. diminishing returns.
+d. diminishing returns for low levels of capital, and increasing returns for high levels of capital.
+ANS: C
+
+If there are diminishing returns to capital, then
+a. capital produces fewer goods as it ages.
+b. old ideas are not as useful as new ones.
+c. increases in the capital stock eventually decrease output.
+d. increases in the capital stock increase output by ever smaller amounts.
+ANS: D
+
+All else equal, if there are diminishing returns, then which of the following is true if a country increases its capital by one unit?
+a. Output will rise by more than it did when the previous unit was added.
+b. Output will rise but by less than it did when the previous unit was added.
+c. Output will fall by more than it did when the previous unit was added.
+d. Output will fall but by less then it did when the previous unit was added.
+ANS: B
+
+Country A and country B are the same except country A currently has a lower level of capital. Assuming diminishing returns, if both countries increase their capital by 100 units and other factors that determine output are unchanged, then
+a. output in country A increases by more than in country B.
+b. output in country A increases by the same amount as in country B.
+c. output in country A increases by less than in country B.
+d. None of the above is necessarily correct.
+ANS: A
+
+Country A and country B both increase their capital stock by one unit. Output in country A increases by 15 while output in country B increases by 12. Other things the same, diminishing returns implies that country A is
+a. richer than Country B. If Country A adds another unit of capital, output will increase by more than 15 units.
+b. richer than Country B. If Country A adds another unit of capital, output will increase by less than 15 units.
+c. poorer than Country B. If Country A adds another unit of capital, output will increase by more than 15 units.
+d. poorer than Country B. If Country A adds another unit of capital, output will increase by less than 15 units.
+ANS: D
+
+On a production function, as capital per worker increases, output per worker
+a. increases. This increase is larger at larger values of capital per worker.
+b. increases. This increase is smaller at larger values of capital per worker.
+c. decreases. This decrease is larger at larger value of capital per worker.
+d. decreases. This decrease is smaller at larger value of capital per worker.
+ANS: B
+
+All else equal, if there are diminishing returns, then what happens to productivity if both capital and labor increase?
+a. Productivity will definitely fall.
+b. Productivity will definitely be unchanged.
+c. Productivity will definitely rise.
+d. None of the above are necessarily correct.
+ANS: D
+
+**Refer to Figure 12-1.** The curve becomes flatter as the amount of capital per worker increases because of
+a. increasing returns to capital.
+b. increasing returns to labor.
+c. diminishing returns to capital.
+d. diminishing returns to labor.
+ANS: C
+
+**Refer to Figure 12-1.** The shape of the curve is consistent with which of the following statements about the economy to which the curve applies?
+a. In the long run, a higher saving rate leads to a higher level of productivity.
+b. In the long run, a higher saving rate leads to a higher level of income.
+c. In the long run, a higher saving rate leads to neither a higher growth rate of productivity nor a higher growth rate of income.
+d. All of the above are correct.
+ANS: D
+
+**Refer to Figure 12-1.** The shape of the curve is consistent with which of the following statements about the economy to which the curve applies?
+a. In the long run, a higher saving rate leads to a higher growth rate of productivity.
+b. In the long run, a higher saving rate leads to a higher growth rate of income.
+c. Returns to capital become increasingly smaller as the amount of capital per worker increases.
+d. All of the above are correct.
+ANS: C
+
+All else equal, by saving more, a country
+a. has more resources for capital goods. The increase in capital raises productivity.
+b. has more resources for capital goods. The increase in capital reduces productivity.
+c. has fewer resources for capital goods. The decrease in capital raises productivity.
+d. has fewer resources for capital goods. The decrease in capital reduces productivity.
+ANS: A
+
+If a country increases its saving rate in the long run
+a. K/L and productivity will be higher.
+b. K/L will be higher but productivity will not be higher.
+c. K/L will not be higher but productivity will be higher.
+d. neither K/L nor productivity will be higher.
+ANS: A
+
+Other things the same, a country that increases its saving rate increases
+a. its future productivity and future real GDP.
+b. neither its future productivity nor future real GDP.
+c. its future productivity, but not its future real GDP.
+d. its future real GDP, but not its future productivity.
+ANS: A
+
+If a country's saving rate increases, then in the long run
+a. productivity is higher but real GDP per person is not higher.
+b. real GDP per person is higher but productivity is not higher.
+c. productivity and real GDP per person are both higher.
+d. neither productivity nor real GDP per person is higher.
+ANS: C
+
+Other things the same, a country that increases its savings rate will have
+a. higher future capital and higher future real GDP per person.
+b. higher future capital but not higher future real GDP per person.
+c. higher future real GDP per person but not higher future capital.
+d. neither higher future capital nor higher future real GDP per person.
+ANS: A
+
+Other things the same, if a country raises its saving rate, then in the long run
+a. both the level and growth rate of real GDP are unchanged.
+b. the level of real GDP is higher but the growth rate of real GDP is unchanged.
+c. both the level and growth rate of real GDP are higher.
+d. None of the above are correct.
+ANS: B
+
+If a country were to increase its saving rate, then in the long run it would also increase its
+a. level of income.
+b. growth rate of income.
+c. growth rate of productivity.
+d. All of the above are correct.
+ANS: A
+
+Suppose Turkey increases its saving rate. In the long run
+a. the growth rates of productivity and real GDP per person increase.
+b. productivity and real GDP per person increase.
+c. the growth rate of productivity increases, and real GDP per person increases.
+d. productivity increases, and the growth rate of real GDP per person increases.
+ANS: B
+
+Other things equal, relatively poor countries tend to grow
+a. slower than relatively rich countries; this is called the poverty trap.
+b. slower than relatively rich countries; this is called the fall-behind effect.
+c. faster than relatively rich countries; this is called the catch-up effect.
+d. faster than relatively rich countries; this is called the constant-returns-to-scale effect.
+ANS: C
+
+Two countries are the same, except one is poorer. Assuming the traditional assumption about the production function is made there are
+a. diminishing returns to capital so the poor country grows slower.
+b. increasing returns to capital so the poor country grows slower.
+c. diminishing returns to capital so the poor country grows faster.
+d. increasing returns to capital so the poor country grows faster.
+ANS: C
+
+If an American-based firm opens and operates a new watch factory in Panama, then it is engaging in
+a. foreign portfolio investment.
+b. foreign financial investment.
+c. foreign direct investment.
+d. indirect foreign investment.
+ANS: C
+
+If an American-based firm opens and operates a service call center in Bulgaria, then it is engaging in
+a. foreign portfolio investment.
+b. foreign financial investment.
+c. foreign direct investment.
+d. indirect foreign investment.
+ANS: C
+
+In the 1800s, Europeans purchased stock in American companies that used the funds to build railroads and factories. The Europeans who did this engaged in
+a. foreign portfolio investment.
+b. indirect domestic investment.
+c. foreign direct investment.
+d. foreign indirect investment.
+ANS: A
+
+In recent decades Americans have increased their purchase of stocks of foreign-based companies. The Americans who have bought these stocks were engaged in
+a. foreign portfolio investment.
+b. indirect domestic investment.
+c. foreign direct investment.
+d. foreign indirect investment.
+ANS: A
+
+Suppose that an American opens and operates a candy factory in Finland. This is an example of
+a. foreign direct investment. American saving is used to finance Finish investment.
+b. foreign direct investment. American saving is used to finance American investment.
+c. foreign portfolio investment. American saving is used to finance Finish investment.
+d. foreign portfolio investment. American saving is used to finance American investment.
+ANS: A
+
+Investment from abroad
+a. is a way for poor countries to learn the state-of-the-art technologies developed and used in richer countries.
+b. is viewed by economists as a way to increase growth.
+c. often requires removing restrictions that governments have imposed on foreign ownership of domestic capital.
+d. All of the above are correct.
+ANS: D
+
+Investment in
+a. physical capital, unlike investment in human capital, has an opportunity cost.
+b. physical capital, like investment in human capital, has an opportunity cost.
+c. human capital is particularly attractive because it involves no externalities.
+d. human capital has been shown to be relatively unimportant, relative to investment in physical capital, for a country’s long-run economic success.
+ANS: B
+
+Which of the following is generally an opportunity cost of investment in human capital?
+a. future job security
+b. forgone present wages
+c. increased earning potential
+d. All of the above are correct.
+ANS: B
+
+Which of the following terms is used to refer to the ability of people to exercise authority over the resources they own?
+a. natural rights
+b. property rights
+c. input control
+d. collective control
+ANS: B
+
+Which of the following statements is correct?
+a. In an economy-wide sense, property rights are an important prerequisite for the price system to work.
+b. Property rights give people the ability to exercise authority over the resources they own.
+c. Based on the available evidence, the existence of well-established and well-enforced property rights appears to be associated with an enhanced standard of living.
+d. All of the above are correct.
+ANS: D
+
+Inward-oriented policies
+a. include imposing tariffs and other trade restrictions.
+b. have generally increased productivity and growth in the countries that pursued them.
+c. promote the production of goods and services that the country produces most efficiently.
+d. All of the above are correct.
+ANS: A
+
+Inward-oriented policies
+a. are generally supported by economists.
+b. are primarily concerned with the development of human capital.
+c. in some ways are like prohibiting the use of certain technologies.
+d. All of the above are correct.
+ANS: C
+
+Which of the following will increase a country’s real GDP per person?
+a. imposing restrictions on foreign trade and foreign investment
+b. imposing restrictions on foreign trade and reducing restrictions on foreign investment
+c. reducing restrictions on foreign trade and imposing restrictions on foreign investment
+d. reducing restrictions on foreign trade and foreign investment
+ANS: D
+
+Outward-oriented policies
+a. allow countries to take advantage of gains from trade.
+b. have generally led to high growth for the countries that pursued them.
+c. receive widespread support from economists.
+d. All of the above are correct.
+ANS: D
+
+Suppose a country increases trade restrictions. This country would be pursing an
+a. inward policy, which most economists believe has beneficial effects on the economy.
+b. inward policy, which most economists believe has adverse effects on the economy.
+c. outward policy, which most economists believe has beneficial effects on the economy.
+d. outward policy, which most economists believe has adverse effects on the economy.
+ANS: B
+
+A country with a relatively low level of real GDP per person is considering adopting two policies to promote economic growth. The first is to increase barriers to trade. The second is to restrict foreign portfolio investment. Which of these policies would most economist think would promote growth?
+a. both the first and the second
+b. the first but not the second
+c. the second but not the first
+d. neither the first nor the second
+ANS: D
+
+Patents turn new ideas into
+a. public goods, and increase the incentive to engage in research.
+b. public goods, but decrease the incentive to engage in research.
+c. private goods, and increase the incentive to engage in research.
+d. private goods, but decrease the incentive to engage in research.
+ANS: C
+
+Inventors often obtain patents on new products and processes, thereby turning new ideas into
+a. private goods and increasing the incentive to engage in research.
+b. private goods but decreasing the incentive to engage in research.
+c. public goods and increasing the incentive to engage in research.
+d. public goods but decreasing the incentive to engage in research.
+ANS: A
+
+Electronics firms may be able to get patents on their ideas. Doing so makes their ideas
+a. private goods rather than public goods. This gives people more incentive to engage in research.
+b. private goods rather than public goods. This gives people less incentive to engage in research.
+c. public goods rather than private goods. This gives people more incentive to engage in research.
+d. public goods rather than private goods. This gives people more incentive to engage in private research.
+ANS: A
+
+A rapid increase in the number of workers, other things the same, is likely in the short term to
+a. raise real GDP per person, but decrease real GDP.
+b. decrease both real GDP and real GDP per person.
+c. raise both real GDP and real GDP per person.
+d. raise real GDP, but decrease real GDP per person.
+ANS: D
+
+Because of its effect on the amount of capital per worker, in the short term an increase in the working population is likely to
+a. raise productivity. Other things the same, this increase will be larger in a poor country.
+b. raise productivity. Other things the same, this increase will be larger in a rich country.
+c. reduce productivity. Other things the same, this decrease will be larger in a poor country.
+d. reduce productivity. Other things the same, this decrease will be larger in a rich country.
+ANS: C
+
+Over extended periods of time, population growth
+a. has no effect on the standard of living.
+b. has uncertain effects on the standard of living.
+c. clearly raises the standard of living.
+d. clearly lowers the standard of living.
+ANS: B

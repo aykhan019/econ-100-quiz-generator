@@ -1,0 +1,712 @@
+**Refer to Figure 9-8.** The price corresponding to the horizontal dotted line on the graph represents the price of cars
+a. after trade is allowed.
+b. before trade is allowed.
+c. that maximizes total surplus when trade is allowed.
+d.  that minimizes the well-being of domestic car producers when trade is allowed.
+ANS: B
+
+**Refer to Figure 9-8**. The country for which the figure is drawn
+a. has a comparative advantage relative to other countries in the production of cars and it will export cars.
+b. has a comparative advantage relative to other countries in the production of cars and it will import cars.
+c. has a comparative disadvantage relative to other countries in the production of cars and it will export cars.
+d.  has a comparative disadvantage relative to other countries in the production of cars and it will import cars.
+ANS: D
+
+**Refer to Figure 9-8.** When the country for which the figure is drawn allows international trade in cars,
+a. consumer surplus increases by the area B.
+b. producer surplus decreases by the area B + D.
+c. total surplus increases by the area D.
+d.  All of the above are correct.
+ANS: C
+
+**Refer to Figure 9-8.** In the country for which the figure is drawn, total surplus with international trade in cars
+a. is represented by the area A + B + C.
+b. is represented by the area A + B + D.
+c. is smaller than producer surplus without international trade in cars.
+d.  is larger than total surplus without international trade in cars.
+ANS: D
+
+**Refer to Figure 9-9**. Consumer surplus in this market before trade is
+a. A. 
+b. A + B.
+c. A + B + D.
+d.  C. 
+ANS: B
+
+**Refer to Figure 9-9**. Consumer surplus in this market after trade is
+a. A. 
+b. A + B.
+c. A + B + D.
+d.  C. 
+ANS: A
+
+**Refer to Figure 9-9**. Producer surplus in this market before trade is
+a. A. 
+b. A + B.
+c. B + C + D.
+d.  C. 
+ANS: D
+
+**Refer to Figure 9-9.** Producer surplus in this market after trade is
+a. A. 
+b. A + B.
+c. B + C + D.
+d.  C. 
+ANS: C
+
+**Refer to Figure 9-9**. Total surplus in this market before trade is
+a. A + B.
+b. A + B + C.
+c. A + B + C + D.
+d.  B + C + D.
+ANS: B
+
+**Refer to Figure 9-9**. Total surplus in this market after trade is
+a. A + B.
+b. A + B + C.
+c. A + B + C + D.
+d.  B + C + D.
+ANS: C
+
+**Refer to Figure 9-9**. The change in total surplus in this market because of trade is
+a. D, and this area represents a loss of total surplus because of trade.
+b. D, and this area represents a gain in total surplus because of trade.
+c. B + D, and this area represents a loss of total surplus because of trade.
+d.  B + D, and this area represents a gain in total surplus because of trade.
+ANS: B
+
+A tariff on a product makes
+a. domestic sellers better off and domestic buyers worse off.
+b. domestic sellers worse off and domestic buyers worse off.
+c. domestic sellers better off and domestic buyers better off.
+d.  domestic sellers worse off and domestic buyers better off.
+ANS: A
+
+A tariff on a product
+a. is a direct quantitative restriction on the amount of a good that can be imported.
+b. increases the domestic quantity supplied.
+c. increases domestic consumer surplus.
+d.  All of the above are correct.
+ANS: B
+
+A tariff on a product
+a. enhances the economic well-being of the domestic economy.
+b. increases the domestic quantity supplied.
+c. increases the domestic quantity demanded.
+d.  results in an increase in producer surplus that is greater than the resulting decrease in consumer surplus.
+ANS: B
+
+If the United States imports televisions and the U.S. government imposes a tariff on televisions, then
+a. total surplus in the American television market decreases.
+b. producer surplus in the American television market increases.
+c. U.S. imports of foreign televisions decrease.
+d.  All of the above are correct.
+ANS: D
+
+When a country that imports a particular good imposes a tariff on that good,
+a. consumer surplus increases and total surplus increases in the market for that good.
+b. consumer surplus increases and total surplus decreases in the market for that good.
+c. consumer surplus decreases and total surplus increases in the market for that good.
+d.  consumer surplus decreases and total surplus decreases in the market for that good.
+ANS: D
+
+When a country that imports a particular good imposes a tariff on that good,
+a. producer surplus increases and total surplus increases in the market for that good.
+b. producer surplus increases and total surplus decreases in the market for that good.
+c. producer surplus decreases and total surplus increases in the market for that good.
+d.  producer surplus decreases and total surplus decreases in the market for that good.
+ANS: B
+
+When a country that imports a particular good imposes an import quota on that good,
+a. consumer surplus increases and total surplus increases in the market for that good.
+b. consumer surplus increases and total surplus decreases in the market for that good.
+c. consumer surplus decreases and total surplus increases in the market for that good.
+d.  consumer surplus decreases and total surplus decreases in the market for that good.
+ANS: D
+
+When a country that imports a particular good imposes an import quota on that good,
+a. producer surplus increases and total surplus increases in the market for that good.
+b. producer surplus increases and total surplus decreases in the market for that good.
+c. producer surplus decreases and total surplus increases in the market for that good.
+d.  producer surplus decreases and total surplus decreases in the market for that good.
+ANS: B
+
+A tariff is a tax placed on
+a. an exported good and it lowers the domestic price of the good below the world price.
+b. an exported good and it ensures that the domestic price of the good stays the same as the world price.
+c. an imported good and it lowers the domestic price of the good below the world price.
+d.  an imported good and it raises the domestic price of the good above the world price.
+ANS: D  
+<br/>Spain is an importer of computer chips, taking the world price of $12 per chip as given. Suppose Spain imposes a $5 tariff on chips. As a result,
+a. Spanish consumers of chips and Spanish producers of chips both gain.
+b. Spanish consumers of chips gain and Spanish producers of chips lose.
+c. Spanish consumers of chips lose and Spanish producers of chips gain.
+d.  Spanish consumers of chips and Spanish producers of chips both lose.
+ANS: C
+
+Denmark is an importer of computer chips, taking the world price of $12 per chip as given. Suppose Denmark imposes a $5 tariff on chips. Which of the following outcomes is possible?
+a. More Danish-produced chips are sold in Denmark.
+b. More foreign-produced chips are sold in Denmark.
+c. Danish consumers of chips become better off.
+d.  Total surplus in the Danish chip market increases.
+ANS: A
+
+**Refer to Figure 9-15**. With trade and without a tariff, the price and domestic quantity demanded are
+a. _P_<sub>1</sub> and _Q_<sub>1</sub>.
+b. _P_<sub>1</sub> and _Q_<sub>4</sub>.
+c. _P_<sub>2</sub> and _Q_<sub>2</sub>.
+d.  _P_<sub>2</sub> and _Q_<sub>3</sub>.
+ANS: B
+
+**Refer to Figure 9-15**. With the tariff, the domestic price and domestic quantity demanded are
+a. _P_<sub>1</sub> and _Q_<sub>1</sub>.
+b. _P_<sub>1</sub> and _Q_<sub>4</sub>.
+c. _P_<sub>2</sub> and _Q_<sub>2</sub>.
+d.  _P_<sub>2</sub> and _Q_<sub>3</sub>.
+ANS: D
+
+**Refer to Figure 9-15**. With the tariff, the quantity of saddles imported is
+a. _Q_<sub>3</sub> - _Q_<sub>1</sub>.
+b. _Q_<sub>3</sub> - _Q_<sub>2</sub>.
+c. _Q_<sub>4</sub> - _Q_<sub>1</sub>.
+d.  _Q_<sub>4</sub> - _Q_<sub>2</sub>.
+ANS: B
+
+**Refer to Figure 9-15**. A result of the tariff is that, relative to the free-trade situation, the quantity of saddles imported decreases by
+a. _Q_<sub>2</sub> - _Q_<sub>1</sub>.
+b. _Q_<sub>3</sub> - _Q_<sub>2</sub>.
+c. _Q_<sub>4</sub> - _Q_<sub>3</sub>.
+d.  _Q_<sub>4</sub> - _Q_<sub>3</sub> + _Q_<sub>2</sub> - _Q_<sub>1</sub>.
+ANS: D
+
+**Refer to Figure 9-15**. Consumer surplus with trade and without a tariff is
+a. A. 
+b. A + B.
+c. A + C + G.
+d.  A + B + C + D + E + F.
+ANS: D
+
+**Refer to Figure 9-15**. Producer surplus with trade and without a tariff is
+a. G. 
+b. C + G.
+c. A + C + G.
+d.  A + B + C + G.
+ANS: A
+
+**Refer to Figure 9-15**. Consumer surplus with the tariff is
+a. A. 
+b. A + B.
+c. A + C + G.
+d.  A + B + C + D +E + F.
+ANS: B
+
+**Refer to Figure 9-15**. Producer surplus with the tariff is
+a. G. 
+b. C + G.
+c. A + C + G.
+d.  A + B + C + G.
+ANS: B
+
+**Refer to Figure 9-15**. The amount of government revenue created by the tariff is
+a. B. 
+b. E. 
+c. D + F.
+d.  B + D + E + F.
+ANS: B
+
+**Refer to Figure 9-15**. As a result of the tariff, there is a deadweight loss that amounts to
+a. B. 
+b. E. 
+c. D + F.
+d.  B + D + E + F.
+ANS: C
+
+**Refer to Figure 9-15**. For the saddle market, area B represents
+a. government’s revenue from the tariff.
+b. the deadweight loss of the tariff.
+c. the increase in producer surplus, relative to the free-trade situation, as a result of the tariff.
+d.  None of the above is correct.
+ANS: D
+
+**Refer to Figure 9-15**. For the saddle market, area E represents
+a. government’s revenue from the tariff.
+b. producer surplus after the tariff becomes effective.
+c. the decrease in consumer surplus, relative to the free-trade situation, as a result of the tariff.
+d.  the decrease in total surplus, relative to the free-trade situation, as a result of the tariff.
+ANS: A
+
+**Refer to Figure 9-16.** Government revenue raised by the tariff is represented by the area
+a. E. 
+b. B + E.
+c. D + E + F.
+d.  B + D + E + F.
+ANS: A
+
+**Refer to Figure 9-16.** The tariff
+a. decreases producer surplus by the area C and decreases consumer surplus by the area C + D + E + F.
+b. decreases producer surplus by the area C + D and decreases consumer surplus by the area D + E + F.
+c. increases producer surplus by the area C and decreases consumer surplus by the area C + D + E + F.
+d.  increases producer surplus by the area B + C and decrease consumer surplus by the area D + E + F.
+ANS: C
+
+**Refer to Figure 9-16.** The tariff
+a. decreases producer surplus by the area C, decreases consumer surplus by the area C + D + E, and decreases total surplus by the area D + F.
+b. increases producer surplus by the area C, decreases consumer surplus by the area C + D + E + F, and decreases total surplus by the area D + F.
+c. creates government revenue represented by the area B + E and decreases total surplus by the area D + E + F.
+d.  increases producer surplus by the area C + G and creates government revenue represented by the area D + E + F.
+ANS: B
+
+**Refer to Figure 9-16.** The deadweight loss created by the tariff is represented by the area
+a. B. 
+b. D + F.
+c. D + E + F.
+d.  B + D + E + F.
+ANS: B
+
+**Refer to Figure 9-16.** The area C + D + E + F represents
+a. the decrease in consumer surplus caused by the tariff.
+b. the decrease in total surplus caused by the tariff.
+c. the deadweight loss of the tariff minus government revenue raised by the tariff.
+d.  the deadweight loss of the tariff plus government revenue raised by the tariff.
+ANS: A
+
+A quota is
+a. a tax placed on imports.
+b. a limit on the quantity of imports.
+c. a tax on exports to other countries.
+d.  an excess of exports over imports.
+ANS: B  
+<br/>When a country allows trade and becomes an exporter of a good,
+a. domestic producers become better off, and domestic consumers become worse off.
+b. domestic producers become worse off, and domestic consumers become better off.
+c. domestic producers become better off, but the effect on the well-being of domestic consumers is ambiguous.
+d.  domestic consumers become worse off, but the effect on the well-being of domestic producers is ambiguous.
+ANS: A
+
+**Refer to Figure 9-20**. From the figure it is apparent that
+a. Vietnam will experience a shortage of rice if trade is not allowed.
+b. Vietnam will experience a surplus of rice if trade is not allowed.
+c. Vietnam has a comparative advantage in producing rice, relative to the rest of the world.
+d.  foreign countries have a comparative advantage in producing rice, relative to Vietnam.
+ANS: C
+
+**Refer to Figure 9-20**. From the figure it is apparent that
+a. Vietnam has a comparative advantage in producing rice, relative to the rest of the world.
+b. foreign countries have a comparative advantage in producing rice, relative to Vietnam.
+c. Vietnam has an absolute advantage in producing rice, relative to the rest of the world.
+d.  foreign countries have an absolute advantage in producing rice, relative to Vietnam.
+ANS: A
+
+**Refer to Figure 9-20**. In the absence of trade, total surplus in the Vietnamese rice market amounts to
+a. 9,250.
+b. 10,000.
+c. 12,000.
+d.  13,000.
+ANS: C
+
+**Refer to Figure 9-20**. Given that Vietnam is a small country, it is apparent from the figure that
+a. Vietnam will export rice if trade is allowed.
+b. Vietnam will import rice if trade is allowed.
+c. Vietnam has nothing to gain either by importing or exporting rice.
+d.  the world price will fall if Vietnam begins to allow its citizens to trade with other countries.
+ANS: A
+
+**Refer to Figure 9-20**. With trade, Vietnam will
+a. export 1,000 units of rice.
+b. export 1,500 units of rice.
+c. import 1,000 units of rice.
+d.  import 1,500 units of rice.
+ANS: B
+
+**Refer to Figure 9-20**. With trade, Vietnamese rice producers will produce
+a. 2,000 units of rice and their producer surplus will be 4,000.
+b. 2,000 units of rice and their producer surplus will be 7,500.
+c. 3,000 units of rice and their producer surplus will be 7,500.
+d.  3,000 units of rice and their producer surplus will be 9,000.
+ANS: D
+
+**Refer to Figure 9-20**. Vietnam’s gains from trade in rice amount to
+a. 750.
+b. 1,000.
+c. 1,250.
+d.  1,500.
+ANS: D
+
+Countries that restrict foreign trade are likely to
+a. forgo the additional surplus that trade allows, but will probably enjoy economies of scale.
+b. forgo the additional surplus that trade allows, but will be compensated by a higher rate of technological change.
+c. forgo the additional surplus that trade allows, but will have a lower rate of unemployment.
+d.  have more firms with domestic market power.
+ANS: D  
+
+<br/>Critics of free trade sometimes argue that allowing imports from foreign countries causes a reduction in the number of domestic jobs. An economist would argue that
+a. foreign competition may cause unemployment in import-competing industries, but the effect is temporary because other industries, especially exporting industries, will be expanding.
+b. foreign competition may cause unemployment in import-competing industries, but the increase in consumer surplus due to free trade is more valuable than the lost jobs.
+c. the critics are correct, so countries must protect their industries with tariffs or quotas.
+d.  foreign competition may cause unemployment in import-competing industries, but the increase in the variety of goods consumers can choose from is more valuable than the lost jobs.
+ANS: A  
+
+<br/>If the Korean steel industry subsidizes the steel that it sells to the United States, the
+a. United States should protect its domestic steel industry from this unfair competition.
+b. harm done to U.S. steel producers from this unfair competition exceeds the gain to U.S. consumers of cheap Korean steel.
+c. harm done to U.S. steel producers is less than the benefit that accrues to U.S. consumers of steel.
+d.  United States should subsidize the products it sells to Korea.
+ANS: C
+
+Rent-control laws dictate
+a. the exact rent that landlords must charge tenants.
+b. a maximum rent that landlords may charge tenants.
+c. a minimum rent that landlords may charge tenants.
+d.  both a minimum rent and a maximum rent that landlords may charge tenants.
+ANS: B
+
+Minimum-wage laws dictate
+a. the exact wage that firms must pay workers.
+b. a maximum wage that firms may pay workers.
+c. a minimum wage that firms may pay workers.
+d.  both a minimum wage and a maximum wage that firms may pay workers.
+ANS: C
+
+Price controls
+a. always produce a fair outcome.
+b. always produce an efficient outcome.
+c. can generate inequities of their own.
+d.  All of the above are correct.
+ANS: C
+
+The presence of a price control in a market for a good or service usually is an indication that
+a. an insufficient quantity of the good or service was being produced in that market to meet the public’s need.
+b. the usual forces of supply and demand were not able to establish an equilibrium price in that market.
+c. policymakers believed that the price that prevailed in that market in the absence of price controls was unfair to buyers or sellers.
+d.  policymakers correctly believed that price controls would generate no inequities of their own once imposed.
+ANS: C
+
+A legal maximum on the price at which a good can be sold is called a price
+a. floor.
+b. subsidy.
+c. support.
+d.  ceiling.
+ANS: D
+
+A price ceiling is
+a. often imposed on markets in which “cutthroat competition” would prevail without a price ceiling.
+b. a legal maximum on the price at which a good can be sold.
+c. often imposed when sellers of a good are successful in their attempts to convince the government that the market outcome is unfair without a price ceiling.
+d.  All of the above are correct.
+ANS: B
+
+If a price ceiling is not binding, then
+a. the equilibrium price is above the price ceiling.
+b. the equilibrium price is below the price ceiling.
+c. it has no legal enforcement mechanism.
+d.  None of the above is correct because all price ceilings must be binding.
+ANS: B
+
+A price ceiling will be binding only if it is set
+a. equal to the equilibrium price.
+b. above the equilibrium price.
+c. below the equilibrium price.
+d.  either above or below the equilibrium price.
+ANS: C
+
+Which of the following observations would be consistent with the imposition of a binding price ceiling on a market? After the price ceiling becomes effective,
+a. a smaller quantity of the good is bought and sold.
+b. a smaller quantity of the good is demanded.
+c. a larger quantity of the good is supplied.
+d.  the price rises above the previous equilibrium.
+ANS: A
+
+Suppose the government has imposed a price ceiling on laptop computers. Which of the following events could transform the price ceiling from one that is not binding into one that is binding?
+a. Improvements in production technology reduce the costs of producing laptop computers.
+b. The number of firms selling laptop computers decreases.
+c. Consumers' income decreases, and laptop computers are a normal good.
+d.  The number of consumers buying laptop computers decreases.
+ANS: B
+
+If the government removes a binding price ceiling from a market, then the price paid by buyers will
+a. increase, and the quantity sold in the market will increase.
+b. increase, and the quantity sold in the market will decrease.
+c. decrease, and the quantity sold in the market will increase.
+d.  decrease, and the quantity sold in the market will decrease.
+ANS: A
+
+If the government removes a binding price ceiling from a market, then the price received by sellers will
+a. decrease, and the quantity sold in the market will decrease.
+b. decrease, and the quantity sold in the market will increase.
+c. increase, and the quantity sold in the market will decrease.
+d.  increase, and the quantity sold in the market will increase.
+ANS: D
+
+A binding price ceiling
+
+| (i) |     |     | causes a surplus. |
+| --- |     |     | --- |
+| (ii) |     |     | causes a shortage. |
+| (iii) |     |     | is set at a price above the equilibrium price. |
+| (iv) |     |     | is set at a price below the equilibrium price. |a. (ii) only |     |     |
+| b.  | (iv) only |     |    
+c. (i) and (iii) only |     |    
+d.  (ii) and (iv) only |     |    
+ANS: D
+
+A nonbinding price ceiling
+
+| (i) |     |     | causes a surplus. |
+| --- |     |     | --- |
+| (ii) |     |     | causes a shortage. |
+| (iii) |     |     | is set at a price above the equilibrium price. |
+| (iv) |     |     | is set at a price below the equilibrium price. |a. (i) only |     |     |
+| b.  | (iii) only |     |    
+c. (i) and (iii) only |     |    
+d.  (ii) and (iv) only |     |    
+ANS: B
+
+Suppose the equilibrium price of a physical examination ("physical") by a doctor is $200, and the government imposes a price ceiling of $150 per physical. As a result of the price ceiling, the
+a. demand curve for physicals shifts to the right.
+b. supply curve for physicals shifts to the left.
+c. quantity demanded of physicals increases, and the quantity supplied of physicals decreases.
+d.  number of physicals performed stays the same.
+ANS: C
+
+**Refer to Figure 6-1**. A binding price ceiling is shown in
+a. panel (a) only.
+b. panel (b) only.
+c. both panel (a) and panel (b).
+d.  neither panel (a) nor panel (b).
+ANS: B
+
+**Refer to Figure 6-1**. In which panel(s) of the figure would there be a shortage of the good at the price ceiling?
+a. panel (a) only
+b. panel (b) only
+c. both panel (a) and panel (b)
+d.  neither panel (a) nor panel (b)
+ANS: B
+
+**Refer to Figure 6-1**. The price ceiling shown in panel (a)
+a. is not binding.
+b. creates a surplus.
+c. creates a shortage.
+d.  Both a) and b) are correct.
+ANS: A
+
+**Refer to Figure 6-1**. The price ceiling shown in panel (b)
+a. is not binding.
+b. creates a surplus.
+c. creates a shortage.
+d.  Both a) and b) are correct.
+ANS: C
+
+**Refer to Figure 6-2.** The price ceiling
+a. is binding.
+b. causes a shortage.
+c. causes the quantity demanded to exceed the quantity supplied.
+d.  All of the above are correct.
+ANS: D
+
+**Refer to Figure 6-2.** The price ceiling
+a. causes a shortage of 45 units of the good.
+b. makes it necessary for sellers to ration the good.
+c. is not binding because it is set below the equilibrium price.
+d.  Both a) and b) are correct.
+ANS: B
+
+**Refer to Figure 6-2.** The price ceiling causes a
+a. surplus of 40 units.
+b. surplus of 85 units.
+c. shortage of 45 units.
+d.  shortage of 85 units.
+ANS: D
+
+**Refer to Figure 6-2.** The price ceiling causes quantity
+a. supplied to exceed quantity demanded by 45 units.
+b. supplied to exceed quantity demanded by 85 units.
+c. demanded to exceed quantity supplied by 45 units.
+d.  demanded to exceed quantity supplied by 85 units.
+ANS: D
+
+A price floor is
+a. a legal minimum on the price at which a good can be sold.
+b. often imposed when sellers of a good are successful in their attempts to convince the government that the market outcome is unfair without a price floor.
+c. a source of inefficiency in a market.
+d.  All of the above are correct.
+ANS: D
+
+Which of the following is the most likely explanation for the imposition of a price floor on the market for corn?
+a. Policymakers have studied the effects of the price floor carefully, and they recognize that the price floor is advantageous for society as a whole.
+b. Buyers and sellers of corn have agreed that the price floor is good for both of them and have therefore pressured policy makers into imposing the price floor.
+c. Buyers of corn, recognizing that the price floor is good for them, have pressured policymakers into imposing the price floor.
+d.  Sellers of corn, recognizing that the price floor is good for them, have pressured policymakers into imposing the price floor.
+ANS: D
+
+If a price floor is not binding, then
+a. the equilibrium price is above the price floor.
+b. the equilibrium price is below the price floor.
+c. there will be a surplus in the market.
+d.  Both a) and c) are correct.
+ANS: A
+
+If a price floor is not binding, then
+a. there will be a surplus in the market.
+b. there will be a shortage in the market.
+c. there will be no effect on the market price or quantity sold.
+d.  the market will be less efficient than it would be without the price floor.
+ANS: C
+
+A binding price floor
+
+| (i) |     |     | causes a surplus. |
+| --- |     |     | --- |
+| (ii) |     |     | causes a shortage. |
+| (iii) |     |     | is set at a price above the equilibrium price. |
+| (iv) |     |     | is set at a price below the equilibrium price. |a. (i) only |     |     |
+| b.  | (iii) only |     |    
+c. (i) and (iii) only |     |    
+d.  (ii) and (iv) only |     |    
+ANS: C
+
+A nonbinding price floor
+
+| (i) |     |     | causes a surplus. |
+| --- |     |     | --- |
+| (ii) |     |     | causes a shortage. |
+| (iii) |     |     | is set at a price above the equilibrium price. |
+| (iv) |     |     | is set at a price below the equilibrium price. |a. (iii) only |     |     |
+| b.  | (iv) only |     |    
+c. (i) and (iii) only |     |    
+d.  (ii) and (iv) only |     |    
+ANS: B  
+<br/>A price floor will be binding only if it is set
+a. equal to the equilibrium price.
+b. above the equilibrium price.
+c. below the equilibrium price.
+d.  either above or below the equilibrium price.
+ANS: B
+
+After a binding price floor becomes effective, a
+a. smaller quantity of the good is bought and sold.
+b. a larger quantity of the good is demanded.
+c. a smaller quantity of the good is supplied.
+d.  All of the above are correct.
+ANS: A
+
+Suppose the government has imposed a price floor on the market for soybeans. Which of the following events could transform the price floor from one that is not binding into one that is binding?
+a. Farmers use improved, draught-resistant seeds, which lowers the cost of growing soybeans.
+b. The number of farmers selling soybeans decreases.
+c. Consumers' income increases, and soybeans are a normal good.
+d.  The number of consumers buying soybeans increases.
+ANS: A
+
+If the government removes a binding price floor from a market, then the price paid by buyers will
+a. increase, and the quantity sold in the market will increase.
+b. increase, and the quantity sold in the market will decrease.
+c. decrease, and the quantity sold in the market will increase.
+d.  decrease, and the quantity sold in the market will decrease.
+ANS: C
+
+If the government removes a binding price floor from a market, then the price received by sellers will
+a. decrease, and the quantity sold in the market will decrease.
+b. decrease, and the quantity sold in the market will increase.
+c. increase, and the quantity sold in the market will decrease.
+d.  increase, and the quantity sold in the market will increase.
+ANS: B
+
+**Refer to Figure 6-3**. A binding price floor is shown in
+a. both panel (a) and panel (b).
+b. panel (a) only.
+c. panel (b) only.
+d.  neither panel (a) nor panel (b).
+ANS: C
+
+**Refer to Figure 6-3**. A nonbinding price floor is shown in
+a. both panel (a) and panel (b).
+b. panel (a) only.
+c. panel (b) only.
+d.  neither panel (a) nor panel (b).
+ANS: B
+
+**Refer to Figure 6-3**. In panel (b), there will be
+a. a shortage of wheat.
+b. equilibrium in the market.
+c. a surplus of wheat.
+d.  lines of people waiting to buy wheat.
+ANS: C
+
+**Refer to Figure 6-3**. In panel (a), there will be
+a. a shortage of wheat.
+b. equilibrium in the market.
+c. a surplus of wheat.
+d.  lines of people waiting to buy wheat.
+ANS: B
+
+Price ceilings and price floors that are binding
+a. are desirable because they make markets more efficient and more fair.
+b. cause surpluses and shortages to persist because price cannot adjust to the market equilibrium price.
+c. can have the effect of restoring a market to equilibrium.
+d.  are imposed because they can make the poor in the economy better off without causing adverse effects.
+ANS: B
+
+**Refer to Figure 6-4.** Which of the following statements is _not_ correct?
+a. When the price is $10, quantity supplied equals quantity demanded.
+b. When the price is $6, there is a surplus of 8 units.
+c. When the price is $12, there is a surplus of 4 units.
+d.  When the price is $16, quantity supplied exceeds quantity demanded by 12 units.
+ANS: B
+
+**Refer to Figure 6-4.** A government-imposed price of $6 in this market could be an example of a
+
+| (i) |     |     | binding price ceiling. |
+| --- |     |     | --- |
+| (ii) |     |     | non-binding price ceiling. |
+| (iii) |     |     | binding price floor. |
+| (iv) |     |     | non-binding price floor. |a. (i) only |     |     |
+| b.  | (ii) only |     |    
+c. (i) and (iv) only |     |    
+d.  (ii) and (iii) only |     |    
+ANS: C
+
+**Refer to Figure 6-4.** A government-imposed price of $16 in this market could be an example of a
+
+| (i) |     |     | binding price ceiling. |
+| --- |     |     | --- |
+| (ii) |     |     | non-binding price ceiling. |
+| (iii) |     |     | binding price floor. |
+| (iv) |     |     | non-binding price floor. |a. (i) only |     |     |
+| b.  | (ii) only |     |    
+c. (i) and (iv) only |     |    
+d.  (ii) and (iii) only |     |    
+ANS: D
+
+**Refer to Figure 6-4.** A government-imposed price of $12 in this market is an example of a
+a. binding price ceiling that creates a shortage.
+b. non-binding price ceiling that creates a shortage.
+c. binding price floor that creates a surplus.
+d.  non-binding price floor that creates a surplus.
+ANS: C
+
+**Refer to Figure 6-4.** A government-imposed price of $6 in this market is an example of a
+a. binding price ceiling that creates a shortage.
+b. non-binding price ceiling that creates a shortage.
+c. binding price floor that creates a surplus.
+d.  non-binding price floor that creates a surplus.
+ANS: A
+
+**Refer to Figure 6-5.** If the horizontal line on the graph represents a price ceiling, then the price ceiling is
+a. binding and creates a surplus of 40 units of the good.
+b. binding and creates a surplus of 90 units of the good.
+c. not binding but creates a surplus of 40 units of the good.
+d.  not binding, and there will be no surplus or shortage of the good.
+ANS: D
+
+85\. **Refer to Figure 6-5.** If the horizontal line on the graph represents a price floor, then the price floor is
+a. binding and creates a shortage of 40 units of the good.
+b. binding and creates a surplus of 50 units of the good.
+c. binding and creates a surplus of 90 units of the good.
+d.  not binding but creates a surplus of 40 units of the good.
+ANS: C
+
+**Refer to Figure 6-5.** Suppose the market is initially in equilibrium. Then the government imposes a price control, as represented by the horizontal line on the graph. If the price control is a price floor, then the price control
+a. causes the quantity demanded to decrease by 50 units, relative to the initial equilibrium.
+b. causes the quantity supplied to increase by 40 units, relative to the initial equilibrium.
+c. results in some firms being more successful than others in selling their goods.
+d.  All of the above are correct.
+ANS: D

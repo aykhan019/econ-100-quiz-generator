@@ -8,54 +8,104 @@ from tkinter import messagebox
 
 #############################################
 # Before we define constants, we need to know which PS sets are available.
-# We'll scan the current working directory for directories that start with "ps" and are not "assets".
+# We'll scan the base_path (the folder containing this script or the PyInstaller bundle)
+# for directories that start with "ps" and are not "assets".
 #############################################
 
-import sys, os
-
 if getattr(sys, 'frozen', False):
-    # Running in a bundle
+    # Running in a PyInstaller bundle
     base_path = sys._MEIPASS
-else:           
+else:
     # Running in normal Python
     base_path = os.path.dirname(os.path.abspath(__file__))
 
-# Now list directories from base_path instead of current working directory
-all_dirs = [d for d in os.listdir(base_path) 
-            if os.path.isdir(os.path.join(base_path, d)) 
-            and d.startswith("ps") 
-            and d != "assets"]
+all_dirs = [
+    d for d in os.listdir(base_path)
+    if os.path.isdir(os.path.join(base_path, d))
+    and d.startswith("ps")
+    and d != "assets"
+]
 
 if not all_dirs:
     print("No problem sets found.")
     sys.exit(1)
 
-
 #############################################
-# Create a small selection window to pick a PS set from the list `all_dirs`.
+# A more beautiful selection window to pick a PS set from the list `all_dirs`.
 #############################################
-
 class PSSelector(tk.Toplevel):
     def __init__(self, master, ps_list):
         super().__init__(master)
         self.title("Select Problem Set")
+
+        # Set a nicer size for our selection window
+        self.geometry("450x350")
+        self.update_idletasks()
+
+        # Center the window on the screen
+        width = 700
+        height = 500
+        x = (self.winfo_screenwidth() // 2) - (width // 2)
+        y = (self.winfo_screenheight() // 2) - (height // 2)
+        self.geometry(f"{width}x{height}+{x}+{y}")
+
+        # Give the window a light background color
+        self.config(bg="#f0f0f0")
+
+        # Use a StringVar to hold the user-selected PS set
         self.ps_var = tk.StringVar(value=ps_list[0])
-        tk.Label(self, text="Select a Problem Set:",width=30, height=3,  font=("Arial", 14)).pack(pady=0)
-        
+
+        # Title label
+        title_label = tk.Label(
+            self, 
+            text="Select a Problem Set", 
+            font=("Helvetica", 20, "bold"), 
+            bg="#f0f0f0"
+        )
+        title_label.pack(pady=20)
+
+        # A frame to contain the radio buttons
+        radio_frame = tk.Frame(self, bg="#f0f0f0")
+        radio_frame.pack(fill=tk.BOTH, expand=True, padx=20)
+
         # Create radio buttons for each PS directory
-        for ps in ps_list:
-            tk.Radiobutton(self, text=ps, variable=self.ps_var, value=ps).pack(anchor='w', padx=10)
-        
-        tk.Button(self, text="Select", command=self.on_select).pack(pady=10)
+        for ps_name in ps_list:
+            rb = tk.Radiobutton(
+                radio_frame, 
+                text=ps_name,
+                variable=self.ps_var, 
+                value=ps_name, 
+                font=("Helvetica", 14),
+                bg="#f0f0f0",
+                activebackground="#e0e0e0",
+                anchor='w',
+                padx=10
+            )
+            rb.pack(anchor='w', pady=5, fill=tk.X)
+
+        # A 'Select' button at the bottom
+        select_button = tk.Button(
+            self, 
+            text="Select", 
+            command=self.on_select,
+            font=("Helvetica", 14, "bold"),
+            bg="#007acc",
+            fg="white",
+            relief="raised",
+            bd=3
+        )
+        select_button.pack(pady=20)
+
         self.selected_ps = None
-    
+
     def on_select(self):
         self.selected_ps = self.ps_var.get()
         self.destroy()
 
 
+# First, show a hidden main root, then create the selection window.
 root_prompt = tk.Tk()
-root_prompt.withdraw()  # Hide the main window
+root_prompt.withdraw()
 selector = PSSelector(root_prompt, all_dirs)
 root_prompt.wait_window(selector)
 PS = selector.selected_ps
@@ -67,6 +117,7 @@ if not PS or PS not in all_dirs:
 
 #############################################
 # Configuration
+#############################################
 SOURCE_FILE = os.path.join(base_path, PS, "source.txt")
 SCENARIO_FILE = os.path.join(base_path, PS, "scenarios.txt")
 FIGURE_DIR = os.path.join(base_path, PS, "images", "figures")
@@ -204,11 +255,10 @@ def save_session(index, finished_count, correctness):
 #############################################
 # Helper to load and tile ad images
 #############################################
-from PIL import Image, ImageTk
-
 def load_ad_image(path):
     if os.path.exists(path):
         img = Image.open(path)
+        # Resize to a fixed width for the ad
         img = img.resize((200, 400), Image.Resampling.LANCZOS)
         return img
     return None
@@ -281,7 +331,7 @@ class QuizApp:
         self.content_canvas.pack(side=tk.TOP, fill=tk.BOTH, expand=True)
 
         self.content_frame = tk.Frame(self.content_canvas)
-        self.content_window = self.content_canvas.create_window((0,0), window=self.content_frame, anchor='nw')
+        self.content_window = self.content_canvas.create_window((0, 0), window=self.content_frame, anchor='nw')
 
         self.content_canvas.bind("<Configure>", self.on_canvas_configure)
 
@@ -303,11 +353,25 @@ class QuizApp:
         self.image_label = tk.Label(self.inner_frame)
         self.image_label.pack(pady=0)
 
-        self.scenario_label = tk.Label(self.inner_frame, text="", font=scenario_font, justify=tk.LEFT, wraplength=700, anchor='w')
+        self.scenario_label = tk.Label(
+            self.inner_frame, 
+            text="", 
+            font=scenario_font, 
+            justify=tk.LEFT, 
+            wraplength=700, 
+            anchor='w'
+        )
         self.scenario_label.pack(pady=5)
 
         # Question label
-        self.question_label = tk.Label(self.inner_frame, text="", font=question_font, wraplength=700, justify=tk.LEFT, anchor='w')
+        self.question_label = tk.Label(
+            self.inner_frame, 
+            text="", 
+            font=question_font, 
+            wraplength=700, 
+            justify=tk.LEFT, 
+            anchor='w'
+        )
         self.question_label.pack(pady=10)
 
         self.var = tk.StringVar(value='')
@@ -318,7 +382,16 @@ class QuizApp:
 
         self.choice_buttons = []
         for i in range(4):
-            rb = tk.Radiobutton(self.choice_frame, text="", variable=self.var, value="", font=choice_font, wraplength=700, anchor='w', justify=tk.LEFT)
+            rb = tk.Radiobutton(
+                self.choice_frame, 
+                text="", 
+                variable=self.var, 
+                value="", 
+                font=choice_font, 
+                wraplength=700, 
+                anchor='w', 
+                justify=tk.LEFT
+            )
             rb.pack(anchor='w', pady=5)
             self.choice_buttons.append(rb)
 
@@ -326,16 +399,43 @@ class QuizApp:
         self.buttons_frame.pack(side=tk.TOP, pady=10)
 
         # Navigation and submit buttons
-        self.prev_button = tk.Button(self.buttons_frame, text="←", command=self.prev_question, font=button_font, bg="lightblue", fg="black")
+        self.prev_button = tk.Button(
+            self.buttons_frame,
+            text="←",
+            command=self.prev_question,
+            font=button_font,
+            bg="lightblue",
+            fg="black"
+        )
         self.prev_button.grid(row=0, column=0, padx=10)
 
-        self.submit_button = tk.Button(self.buttons_frame, text="Submit", command=self.check_answer, font=button_font, bg="lightblue", fg="black")
+        self.submit_button = tk.Button(
+            self.buttons_frame,
+            text="Submit",
+            command=self.check_answer,
+            font=button_font,
+            bg="lightblue",
+            fg="black"
+        )
         self.submit_button.grid(row=0, column=1, padx=10)
 
-        self.next_button = tk.Button(self.buttons_frame, text="→", command=self.next_question, font=button_font, bg="lightblue", fg="black")
+        self.next_button = tk.Button(
+            self.buttons_frame,
+            text="→",
+            command=self.next_question,
+            font=button_font,
+            bg="lightblue",
+            fg="black"
+        )
         self.next_button.grid(row=0, column=2, padx=10)
 
-        self.result_label = tk.Label(self.inner_frame, text="", font=("Arial", 20), justify=tk.LEFT, anchor='w')
+        self.result_label = tk.Label(
+            self.inner_frame, 
+            text="", 
+            font=("Arial", 20), 
+            justify=tk.LEFT, 
+            anchor='w'
+        )
         self.result_label.pack(pady=10)
 
         self.scoreboard_frame = tk.Frame(self.center_frame)
@@ -343,7 +443,14 @@ class QuizApp:
 
         self.question_status = []
         for i in range(self.num_questions):
-            lbl = tk.Label(self.scoreboard_frame, text=str(i+1), width=4, height=2, bg="gray", font=("Arial", 14, "bold"))
+            lbl = tk.Label(
+                self.scoreboard_frame,
+                text=str(i+1),
+                width=4,
+                height=2,
+                bg="gray",
+                font=("Arial", 14, "bold")
+            )
             self.question_status.append(lbl)
 
         self.load_question(self.index)
@@ -466,11 +573,13 @@ class QuizApp:
         for lbl in self.question_status:
             lbl.pack_forget()
 
+        # Show only a window of question labels around the current index
         start = max(0, self.index - 5)
         end = min(self.num_questions, self.index + 5 + 1)
         for i in range(start, end):
             self.question_status[i].pack(side=tk.LEFT, padx=5)
 
+        # Color them if we already answered them
         for i, lbl in enumerate(self.question_status):
             if i in self.correctness:
                 if self.correctness[i]:
@@ -491,7 +600,10 @@ class QuizApp:
                 self.question_status[self.index].config(bg="green")
             else:
                 correct_choice = q["choices"][q["answer"]]
-                self.result_label.config(text=f"Incorrect! Correct answer: {q['answer']}) {correct_choice}", fg="red")
+                self.result_label.config(
+                    text=f"Incorrect! Correct answer: {q['answer']}) {correct_choice}",
+                    fg="red"
+                )
                 self.question_status[self.index].config(bg="red")
 
             self.submit_button.config(state="disabled")
@@ -513,9 +625,11 @@ class QuizApp:
             self.load_question(self.index)
 
     def show_score(self):
-        messagebox.showinfo("Quiz Complete",
-                            f"You answered {self.score} out of {len(self.questions)} questions correctly.\n"
-                            f"You finished {self.finished_count} questions in {PS}.")
+        messagebox.showinfo(
+            "Quiz Complete",
+            f"You answered {self.score} out of {len(self.questions)} questions correctly.\n"
+            f"You finished {self.finished_count} questions in {PS}."
+        )
         self.save_current_data()
         self.master.destroy()
 
@@ -526,5 +640,14 @@ class QuizApp:
 if __name__ == "__main__":
     start_index, finished_count, correctness = load_session()
     root = tk.Tk()
-    app = QuizApp(root, questions, scenario_dict, FIGURE_DIR, TABLE_DIR, start_index=start_index, finished_count=finished_count, correctness=correctness)
+    app = QuizApp(
+        root,
+        questions,
+        scenario_dict,
+        FIGURE_DIR,
+        TABLE_DIR,
+        start_index=start_index,
+        finished_count=finished_count,
+        correctness=correctness
+    )
     root.mainloop()
